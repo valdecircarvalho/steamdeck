@@ -51,16 +51,27 @@ https://www.reddit.com/r/SteamDeck/
 
 ## Hacks
 https://deckbrew.xyz/
+
 https://github.com/PhilipK/BoilR - BoilR automatically adds (almost) all your games to your Steam library (including image art).
+
 https://github.com/kageurufu/steamdeck_startup_animations - A collection of steamdeck startup animations, plus a script to randomize your startup on each boot
+
 https://github.com/jlobue10/SteamDeck_rEFInd - This is a simple rEFInd install script for the Steam Deck meant to provide easy dual boot setup when using both SteamOS and Windows on the internal NVM
+
 https://github.com/DeckWizard/steamdeck_dualboot - Steam Deck Dual Boot
+
 https://github.com/mi5hmash/SteamDeckBTRFS
+
 https://github.com/kmicki/SteamDeckGyroDSU - Steam Deck Gyro DSU
+
 https://github.com/AutoMcG/steamdeck_tools - A repository for a random grouping of tools created for the Steam Deck.
+
 https://github.com/CelesteHeartsong/SteamDeckAutomatedInstall
+
 https://github.com/baldsealion/Steamdeck-Ultimate-Windows11-Guide
+
 https://github.com/ryanrudolfoba/SteamDeckPostInstallScript
+
 https://github.com/SteamGridDB/SGDBoop - SGDBoop is a tool that automatically applies assets from SteamGridDB directly to your Steam library, removing the need to download and set them manually.
 https://github.com/MiaPepsi/DeckCleaner - This script allows you to manually delete the shadercache folder from your steamdeck, freeing up space on your boot drive.
 
