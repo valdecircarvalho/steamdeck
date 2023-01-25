@@ -22,9 +22,11 @@ https://github.com/SteamDeckHomebrew
 
 ## Awesome SteamDeck
 https://github.com/matthewbarreiro/awesome-steam-deck
+https://github.com/mikeroyal/Steam-Deck-Guide
 
 ## Emulação
 https://github.com/nchristopher/steamdeck-emulation
+https://github.com/XargonWan/RetroDECK
 
 ## Sites e Blogs
 https://steamdeckhq.com/
@@ -32,18 +34,34 @@ https://steamdecklife.com/
 https://www.protondb.com/ [Compatibilidade de Jogos Steam]
 https://www.steamgriddb.com/
 https://overkill.wtf/tag/steam-deck/
+https://johnnyblocks.com/
 
 ## Guias
 https://www.reddit.com/r/SteamDeck/wiki/guides/
+https://github.com/kwyxz/steamdeck
+https://github.com/baldsealion/Steamdeck-Ultimate-Windows11-Guide
+https://github.com/Matalus/steamdeck-tips
+https://github.com/ryanrudolfoba/SteamDeck-Clover-dualboot
+
 
 ## YouTube
 
 ## Reddit
+https://www.reddit.com/r/SteamDeck/
 
-
-## PS3 Games
-Tem que ser arquivos .ISO. Se voce como eu baixou arquivos .zip que não esão no formato .ISO, voce vai precisar de uma ferramenta para fazer essa conversao
-chamada PS3 ISO Tools (https://www.psx-place.com/resources/ps3-iso-tools.68/).
-Esse video demonstra como configurar PS3 no EmuDeck  - https://www.youtube.com/watch?v=m1FhvXbcvVs&t=358
+## Hacks
+https://deckbrew.xyz/
+https://github.com/PhilipK/BoilR - BoilR automatically adds (almost) all your games to your Steam library (including image art).
+https://github.com/kageurufu/steamdeck_startup_animations - A collection of steamdeck startup animations, plus a script to randomize your startup on each boot
+https://github.com/jlobue10/SteamDeck_rEFInd - This is a simple rEFInd install script for the Steam Deck meant to provide easy dual boot setup when using both SteamOS and Windows on the internal NVM
+https://github.com/DeckWizard/steamdeck_dualboot - Steam Deck Dual Boot
+https://github.com/mi5hmash/SteamDeckBTRFS
+https://github.com/kmicki/SteamDeckGyroDSU - Steam Deck Gyro DSU
+https://github.com/AutoMcG/steamdeck_tools - A repository for a random grouping of tools created for the Steam Deck.
+https://github.com/CelesteHeartsong/SteamDeckAutomatedInstall
+https://github.com/baldsealion/Steamdeck-Ultimate-Windows11-Guide
+https://github.com/ryanrudolfoba/SteamDeckPostInstallScript
+https://github.com/SteamGridDB/SGDBoop - SGDBoop is a tool that automatically applies assets from SteamGridDB directly to your Steam library, removing the need to download and set them manually.
+https://github.com/MiaPepsi/DeckCleaner - This script allows you to manually delete the shadercache folder from your steamdeck, freeing up space on your boot drive.
 
 
