@@ -64,6 +64,9 @@ https://github.com/ryanrudolfoba/SteamDeck-Clover-dualboot
 
 ## YouTube
 
+https://www.youtube.com/watch?v=LI7957GoM3k - Steam Deck: EmuDeck PS2 Emulation Full Guide - PCSX2 Emulator by https://www.youtube.com/@ED4T
+https://www.youtube.com/watch?v=PwO7P9u1Xag - Steam Deck: EmuDeck Nintendo 3DS Emulation Guide - Citra Emulator  by https://www.youtube.com/@ED4T
+
 ## Reddit
 https://www.reddit.com/r/SteamDeck/
 
