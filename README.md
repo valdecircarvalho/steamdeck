@@ -64,11 +64,37 @@ https://github.com/ryanrudolfoba/SteamDeck-Clover-dualboot
 
 ## YouTube
 
-https://www.youtube.com/watch?v=LI7957GoM3k - Steam Deck: EmuDeck PS2 Emulation Full Guide - PCSX2 Emulator by https://www.youtube.com/@ED4T
-https://www.youtube.com/watch?v=PwO7P9u1Xag - Steam Deck: EmuDeck Nintendo 3DS Emulation Guide - Citra Emulator  by https://www.youtube.com/@ED4T
+https://www.youtube.com/watch?v=LI7957GoM3k - Steam Deck: EmuDeck PS2 Emulation Full Guide - PCSX2 Emulator - by https://www.youtube.com/@ED4T
+https://www.youtube.com/watch?v=PwO7P9u1Xag - Steam Deck: EmuDeck Nintendo 3DS Emulation Guide - Citra Emulator - by https://www.youtube.com/@ED4T
+https://www.youtube.com/watch?v=m1FhvXbcvVs&t=466s - Steam Deck: EmuDeck PS3 Emulation Guide - RPCS3 Emulator - by https://www.youtube.com/@ED4T
+https://www.youtube.com/watch?v=m8RdY5pxR34 - RPCS3 PS3 Emulator ISO Games Booting Fail Invalid File & Folder Fix - by https://www.youtube.com/@ED4T
+https://www.youtube.com/watch?v=BmvUZKbXY9c - Steam Deck: EmuDeck Wii U Emulation Guide - CEMU Emulator - by https://www.youtube.com/@ED4T
+https://www.youtube.com/watch?v=RajbovmLgTE&t=19s - Steam Deck: EmuDeck Nintendo Switch Emulation Guide - YuZu Emulator - by https://www.youtube.com/@ED4T
+https://www.youtube.com/watch?v=oajbqjT_7RM - How to Run Android Games and Apps on Steam Deck at Maximum Performance ! - by https://www.youtube.com/@ED4T
+
+
+## Windows no Steam Deck
+
+https://www.dexerto.com/tech/install-windows-steam-deck-1970155/
+
+https://gamerant.com/guide-install-windows-steam-deck/
+
+https://www.digitaltrends.com/computing/how-to-install-windows-steam-deck/
+
+https://wagnerstechtalk.com/sd-windows/
+
+https://www.thegamer.com/steam-deck-windows-how-to-install-guide/
+
+https://steamdeckhq.com/tips-and-guides/install-windows-10-11-on-steam-deck/
+
+https://store.steampowered.com/news/app/1675200/view/3131696199122435099
+
+https://help.steampowered.com/en/faqs/view/6121-eccd-d643-baa8
 
 ## Reddit
 https://www.reddit.com/r/SteamDeck/
+https://www.reddit.com/r/SteamDeckEmu/
+https://www.reddit.com/r/SteamdeckGames/
 
 ## Hacks
 https://deckbrew.xyz/
