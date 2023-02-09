@@ -95,6 +95,11 @@ https://help.steampowered.com/en/faqs/view/6121-eccd-d643-baa8
 https://www.reddit.com/r/SteamDeck/
 https://www.reddit.com/r/SteamDeckEmu/
 https://www.reddit.com/r/SteamdeckGames/
+https://www.reddit.com/r/LinuxCrackSupport/
+		https://www.reddit.com/r/LinuxCrackSupport/comments/wuvjt8/updated_installed_quaked_games_on_steam_deck/?utm_source=share&utm_medium=ios_app&utm_name=iossmf - super simple non Linux user friendly guide to use Fitgirl games
+		https://www.reddit.com/user/jdros15
+		
+
 
 ## Hacks
 https://deckbrew.xyz/
