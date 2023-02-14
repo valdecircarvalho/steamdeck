@@ -51,6 +51,8 @@ Recentemente (20/01/2023) comprei um Steam Deck e depois disso comecei a procura
 + https://johnnyblocks.com/
 
 ## Guias
++ https://retrogamecorps.com/2022/10/16/steam-deck-emulation-starter-guide/
+
 + https://www.reddit.com/r/SteamDeck/wiki/guides/
 
 + https://github.com/kwyxz/steamdeck
@@ -77,6 +79,14 @@ Recentemente (20/01/2023) comprei um Steam Deck e depois disso comecei a procura
 + https://www.youtube.com/watch?v=RajbovmLgTE&t=19s - Steam Deck: EmuDeck Nintendo Switch Emulation Guide - YuZu Emulator - by https://www.youtube.com/@ED4T
 
 + https://www.youtube.com/watch?v=oajbqjT_7RM - How to Run Android Games and Apps on Steam Deck at Maximum Performance ! - by https://www.youtube.com/@ED4T
+
++ https://www.youtube.com/@SteamDeckGaming 
+
++ https://www.youtube.com/@ETAPRIME/search?query=steam%20Deck
+
++ https://www.youtube.com/@RetroGameCorps/search?query=Steam%20Deck
+
++ https://www.youtube.com/hashtag/steamdeck
 
 
 
