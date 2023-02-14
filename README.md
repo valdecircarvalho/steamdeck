@@ -35,6 +35,44 @@ Veja as [perguntas frequentes do Steam Deck](https://www.steamdeck.com/en/faq) p
 ## Vídeos
 
 
+## Hardware
+
+- [Página oficial do Steam Deck](https://www.steamdeck.com/pt/)
+- [Anúncio do Steam Deck no blog da Valve](https://store.steampowered.com/news/app/1406830/view/3070948040413601109)
+- [Vídeo de desmontagem do Steam Deck do iFixit](https://www.ifixit.com/Teardown/Valve+Steam+Deck+Teardown/139373)
+
+## Sistemas operacionais
+
+- [SteamOS 3.0](https://store.steampowered.com/steamos/)
+- [Arch Linux ARM](https://archlinuxarm.org/platforms/armv8/amd64/valve-steam-deck)
+
+
+## Jogos
+
+- [Página oficial de jogos do Steam Deck](https://www.steamdeck.com/pt/games)
+- [Lista de compatibilidade do ProtonDB](https://www.protondb.com/)
+- [Lista de jogos otimizados para Steam Deck](https://steamdeck.tech/games)
+- [Lista de jogos compatíveis com Linux](https://www.gamingonlinux.com/)
+
+## Emuladores
+
+- [RetroArch](https://www.retroarch.com/)
+- [Dolphin](https://dolphin-emu.org/)
+- [PCSX2](https://pcsx2.net/)
+- [PPSSPP](https://www.ppsspp.org/)
+- [yuzu](https://yuzu-emu.org/)
+- [Citra](https://citra-emu.org/)
+
+## Aplicativos
+
+- [Lutris](https://lutris.net/)
+- [Wine](https://www.winehq.org/)
+- [GIMP](https://www.gimp.org/)
+- [Kdenlive](https://kdenlive.org/)
+- [Audacity](https://www.audacityteam.org/)
+
+## Acessórios
+
 
 ## Links Oficiais
 + https://www.steamdeck.com/en/
