@@ -31,11 +31,9 @@ Veja as [perguntas frequentes do Steam Deck](https://www.steamdeck.com/en/faq) p
 
 ## Artigos
 
-- [Steam Deck: tudo o que você precisa saber sobre o console portátil da Valve](https://www.techtudo.com.br/noticias/2022/01/steam-deck-tudo-o-que-voce-precisa-saber-sobre-o-console-portatil-da-valve.ghtml) - TechTudo
 
 ## Vídeos
 
-- [Apresentação oficial do Steam Deck](https://www.youtube.com/watch?v=ZdVU
 
 
 ## Links Oficiais
