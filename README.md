@@ -36,6 +36,23 @@ Recentemente (20/01/2023) comprei um Steam Deck e depois disso comecei a procura
 
 + https://github.com/XargonWan/RetroDECK
 
++ https://github.com/dragoonDorise/EmuDeck/
+
++ https://github.com/dragoonDorise/EmuDeck/wiki
+
+### Nintendo Switch
+
++ https://github.com/dragoonDorise/EmuDeck/wiki/Ryujinx
+
++ https://yuzu-emu.org/
++ https://yuzu-emu.org/game/
++ https://www.reddit.com/r/yuzu/
+
++ https://ryujinx.org/
++ https://www.reddit.com/r/Ryujinx/
+
+
+
 
 ## Sites e Blogs
 + https://steamdeckhq.com/
@@ -163,4 +180,14 @@ Recentemente (20/01/2023) comprei um Steam Deck e depois disso comecei a procura
 
 + https://www.reddit.com/r/Roms/
 
++ https://www.reddit.com/r/NewYuzuPiracy/
+
 + https://punkwhore.com/arcadepunks/2019/Motion.Blue.Unified.Rom.Sets-PiPiggies.torrent
+
++ http://www.yuzuroms.ml/
+
++ https://official-antique.gitbook.io/nopayswitch/nopayswitch/about
+
++ https://nsw2u.com/
+
++ https://nsw2u.org/
