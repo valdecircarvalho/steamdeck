@@ -128,4 +128,16 @@ https://github.com/SteamGridDB/SGDBoop - SGDBoop is a tool that automatically ap
 
 https://github.com/MiaPepsi/DeckCleaner - This script allows you to manually delete the shadercache folder from your steamdeck, freeing up space on your boot drive.
 
+## ROMs Sites
 
+https://r-roms.github.io/
+
+https://myrient.erista.me/
+
+https://steamrip.com/
+
+https://archive.org/details/DragonQuestHeroesI.IIforNintendoSwitchJapanTrimmed
+
+https://www.reddit.com/r/Roms/
+
+https://punkwhore.com/arcadepunks/2019/Motion.Blue.Unified.Rom.Sets-PiPiggies.torrent
