@@ -3,6 +3,41 @@ Coisas sobre Steam Deck em Português
 
 Recentemente (20/01/2023) comprei um Steam Deck e depois disso comecei a procurar conteúdo sobre o console da Valve em Português e não encontrei muita coisa, por isso, resolvi criar essa pagina para coletar links e recursos sobre o Steam Deck em PT-BR.
 
+## Introdução
+
+## O que é o Steam Deck?
+
+O Steam Deck é um dispositivo portátil de jogos desenvolvido pela Valve. É uma plataforma de jogos portátil que permite que os jogadores joguem seus jogos do Steam em qualquer lugar. O dispositivo tem um design semelhante ao de um console portátil, com uma tela sensível ao toque de 7 polegadas, botões de controle, joystick analógico, trackpads, alto-falantes estéreo e uma bateria de longa duração. Ele também é executado no sistema operacional SteamOS da Valve, que foi projetado especificamente para jogos.
+
+## Informações Oficiais
+
+- [Página do produto Steam Deck](https://www.steamdeck.com/en/)
+- [Perguntas frequentes do Steam Deck](https://www.steamdeck.com/en/faq)
+
+## Especificações
+
+- Processador: AMD Zen 2 de 4 núcleos / 8 threads
+- GPU: AMD RDNA 2
+- RAM: 16GB LPDDR5
+- Armazenamento: 64GB, 256GB ou 512GB NVMe SSD
+- Tela: 7 polegadas, resolução de 1280x800, taxa de atualização de 60Hz
+- Bateria: 40Whr, 8 a 10 horas de duração da bateria
+- Conectividade: Wi-Fi, Bluetooth 5.0, USB-C com DisplayPort 1.4, saída de áudio de 3,5 mm
+- Sistema operacional: SteamOS 3.0
+
+## FAQ
+
+Veja as [perguntas frequentes do Steam Deck](https://www.steamdeck.com/en/faq) para obter mais informações oficiais sobre o dispositivo.
+
+## Artigos
+
+- [Steam Deck: tudo o que você precisa saber sobre o console portátil da Valve](https://www.techtudo.com.br/noticias/2022/01/steam-deck-tudo-o-que-voce-precisa-saber-sobre-o-console-portatil-da-valve.ghtml) - TechTudo
+
+## Vídeos
+
+- [Apresentação oficial do Steam Deck](https://www.youtube.com/watch?v=ZdVU
+
+
 ## Links Oficiais
 + https://www.steamdeck.com/en/
 
