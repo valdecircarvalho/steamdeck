@@ -123,8 +123,6 @@ Veja as [perguntas frequentes do Steam Deck](https://www.steamdeck.com/en/faq) p
 + https://www.reddit.com/r/Ryujinx/
 
 
-
-
 ## Sites e Blogs
 + https://steamdeckhq.com/
 
@@ -137,6 +135,7 @@ Veja as [perguntas frequentes do Steam Deck](https://www.steamdeck.com/en/faq) p
 + https://overkill.wtf/tag/steam-deck/
 
 + https://johnnyblocks.com/
+
 
 ## Guias
 + https://retrogamecorps.com/2022/10/16/steam-deck-emulation-starter-guide/
@@ -211,6 +210,11 @@ Veja as [perguntas frequentes do Steam Deck](https://www.steamdeck.com/en/faq) p
 + https://www.reddit.com/user/jdros15)
 		
 
+## Onde comprar jogos Steam mais baratos
+
++ https://www.fanatical.com/
+
++ https://www.eneba.com/br/
 
 ## Hacks
 + https://deckbrew.xyz/
