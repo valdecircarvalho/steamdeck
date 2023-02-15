@@ -262,3 +262,5 @@ Veja as [perguntas frequentes do Steam Deck](https://www.steamdeck.com/en/faq) p
 + https://nsw2u.com/
 
 + https://nsw2u.org/
+
++ https://archive.org/details/no-intro_romsets
