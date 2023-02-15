@@ -1,7 +1,38 @@
 # steamdeck-br
-Coisas sobre Steam Deck em Português
+Conteúdo sobre Steam Deck em Português
 
 Recentemente (20/01/2023) comprei um Steam Deck e depois disso comecei a procurar conteúdo sobre o console da Valve em Português e não encontrei muita coisa, por isso, resolvi criar essa pagina para coletar links e recursos sobre o Steam Deck em PT-BR.
+
+- [steamdeck-br](#steamdeck-br)
+  - [Introdução](#introdução)
+  - [O que é o Steam Deck?](#o-que-é-o-steam-deck)
+  - [Informações Oficiais](#informações-oficiais)
+  - [Especificações](#especificações)
+  - [FAQ](#faq)
+  - [Artigos](#artigos)
+  - [Vídeos](#vídeos)
+  - [Hardware](#hardware)
+  - [Sistemas operacionais](#sistemas-operacionais)
+  - [Jogos](#jogos)
+  - [Emuladores](#emuladores)
+  - [Aplicativos](#aplicativos)
+  - [Acessórios](#acessórios)
+  - [Links Oficiais](#links-oficiais)
+  - [Redes Sociais](#redes-sociais)
+  - [Wikipedia](#wikipedia)
+  - [SteamDeckHomebrew](#steamdeckhomebrew)
+  - [Awesome SteamDeck](#awesome-steamdeck)
+  - [Emulação](#emulação)
+    - [Nintendo Switch](#nintendo-switch)
+  - [Sites e Blogs](#sites-e-blogs)
+  - [Guias](#guias)
+  - [YouTube](#youtube)
+  - [Windows no Steam Deck](#windows-no-steam-deck)
+  - [Reddit](#reddit)
+  - [Onde comprar jogos Steam mais baratos](#onde-comprar-jogos-steam-mais-baratos)
+  - [Hacks](#hacks)
+  - [ROMs Sites](#roms-sites)
+
 
 ## Introdução
 
