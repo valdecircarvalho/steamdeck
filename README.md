@@ -7,6 +7,7 @@ Recentemente (20/01/2023) comprei um Steam Deck e depois disso comecei a procura
   - [Introdução](#introdução)
   - [O que é o Steam Deck?](#o-que-é-o-steam-deck)
   - [Informações Oficiais](#informações-oficiais)
+  - [Preços](#preços)
   - [Especificações](#especificações)
   - [FAQ](#faq)
   - [Artigos](#artigos)
@@ -45,6 +46,10 @@ O Steam Deck é um dispositivo portátil de jogos desenvolvido pela Valve. É um
 - [Página do produto Steam Deck](https://www.steamdeck.com/en/)
 - [Perguntas frequentes do Steam Deck](https://www.steamdeck.com/en/faq)
 
+## Preços
+
+
+
 ## Especificações
 
 - Processador: AMD Zen 2 de 4 núcleos / 8 threads
@@ -81,6 +86,9 @@ Veja as [perguntas frequentes do Steam Deck](https://www.steamdeck.com/en/faq) p
 ## Jogos
 
 - [Página oficial de jogos do Steam Deck](https://www.steamdeck.com/pt/games)
+- [Jogos marcados como Great on Deck na Steam Store](https://store.steampowered.com/greatondeck)
+- [Jogos marcados como Great on Deck na Steam Store (Lista Independente)](https://store.steampowered.com/curator/42167844-Great-on-Deck/) 
+- [Lista de jogos marcados como verificado na **SUA** biblioteca da Steam](https://store.steampowered.com/steamdeck/mygames)
 - [Lista de compatibilidade do ProtonDB](https://www.protondb.com/)
 - [Lista de jogos otimizados para Steam Deck](https://steamdeck.tech/games)
 - [Lista de jogos compatíveis com Linux](https://www.gamingonlinux.com/)
