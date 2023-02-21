@@ -15,6 +15,9 @@ Recentemente (20/01/2023) comprei um Steam Deck e depois disso comecei a procura
   - [Hardware](#hardware)
   - [Sistemas operacionais](#sistemas-operacionais)
   - [Jogos](#jogos)
+- [Websites](#websites)
+  - [Páginas em inglês](#páginas-em-inglês)
+  - [Páginas em português](#páginas-em-português)
   - [Emuladores](#emuladores)
   - [Aplicativos](#aplicativos)
   - [Acessórios](#acessórios)
@@ -27,6 +30,7 @@ Recentemente (20/01/2023) comprei um Steam Deck e depois disso comecei a procura
     - [Nintendo Switch](#nintendo-switch)
   - [Sites e Blogs](#sites-e-blogs)
   - [Guias](#guias)
+  - [Info sobre jogos](#info-sobre-jogos)
   - [YouTube](#youtube)
   - [Windows no Steam Deck](#windows-no-steam-deck)
   - [Reddit](#reddit)
@@ -92,6 +96,23 @@ Veja as [perguntas frequentes do Steam Deck](https://www.steamdeck.com/en/faq) p
 - [Lista de compatibilidade do ProtonDB](https://www.protondb.com/)
 - [Lista de jogos otimizados para Steam Deck](https://steamdeck.tech/games)
 - [Lista de jogos compatíveis com Linux](https://www.gamingonlinux.com/)
+
+# Websites
+
+Aqui estão alguns sites úteis para acompanhar as notícias sobre o Steam Deck.
+
+## Páginas em inglês
+
+- [GamingOnLinux](https://www.gamingonlinux.com/) - Cobertura de jogos de Linux em geral, com foco especial no Steam Deck.
+- [Boiling Steam](https://boilingsteam.com/) - Cobertura de jogos de Linux em geral, com foco especial no Steam Deck.
+- [ProtonDB](https://www.protondb.com/) - Banco de dados colaborativo de relatórios de compatibilidade de jogos para Linux e Steam Deck.
+- [Linux Gaming Central](https://www.linuxgamecast.com/category/news/) - Notícias sobre jogos para Linux, incluindo notícias do Steam Deck.
+
+## Páginas em português
+
+- [Steam Play Proton Brasil](https://t.me/steamplayprotonbrasil) - Canal do Telegram em português com notícias e suporte para jogos do Steam no Linux e Steam Deck.
+- [LinuxBuzz](https://www.linuxbuzz.com.br/) - Site brasileiro com notícias sobre tecnologia em geral, incluindo notícias sobre jogos para Linux e Steam Deck.
+
 
 ## Emuladores
 
@@ -189,6 +210,14 @@ Veja as [perguntas frequentes do Steam Deck](https://www.steamdeck.com/en/faq) p
 
 + https://github.com/ryanrudolfoba/SteamDeck-Clover-dualboot
 
++ https://wagnerstechtalk.com/sd-batocera/
+
++ https://wagnerstechtalk.com/steamdeck/
+
+## Info sobre jogos
+
++ Quanto tempo para zerar - https://howlongtobeat.com/
+
 
 ## YouTube
 
@@ -282,17 +311,25 @@ Veja as [perguntas frequentes do Steam Deck](https://www.steamdeck.com/en/faq) p
 
 + https://github.com/MiaPepsi/DeckCleaner - This script allows you to manually delete the shadercache folder from your steamdeck, freeing up space on your boot drive.
 
+
+
 ## ROMs Sites
 
 + https://r-roms.github.io/
 
 + https://myrient.erista.me/
 
++ https://edgeemu.net/
+
 + https://steamrip.com/
 
 + https://archive.org/details/DragonQuestHeroesI.IIforNintendoSwitchJapanTrimmed
 
 + https://www.reddit.com/r/Roms/
+
++ BIOS https://www.reddit.com/r/Roms/comments/gh3i98/full_clean_bioses_set_for_retroarch_retropie/
+  
++ BIOS Batocera - http://theminicaketv.free.fr/PACK-BIOS-BATOCERA.htm
 
 + https://www.reddit.com/r/NewYuzuPiracy/
 
@@ -307,3 +344,7 @@ Veja as [perguntas frequentes do Steam Deck](https://www.steamdeck.com/en/faq) p
 + https://nsw2u.org/
 
 + https://archive.org/details/no-intro_romsets
+
++ https://steamunlocked.net/ // https://steamunlocked.to/
+
++ https://nxbrew.com/ (Nintendo Switch)
