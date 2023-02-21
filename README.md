@@ -8,6 +8,8 @@ Recentemente (20/01/2023) comprei um Steam Deck e depois disso comecei a procura
   - [O que é o Steam Deck?](#o-que-é-o-steam-deck)
   - [Informações Oficiais](#informações-oficiais)
   - [Preços](#preços)
+  - [Qual comprar?](#qual-comprar)
+  - [Acessórios "Obrigatórios"](#acessórios-obrigatórios)
   - [Especificações](#especificações)
   - [FAQ](#faq)
   - [Artigos](#artigos)
@@ -16,6 +18,7 @@ Recentemente (20/01/2023) comprei um Steam Deck e depois disso comecei a procura
   - [Sistemas operacionais](#sistemas-operacionais)
   - [Jogos](#jogos)
 - [Websites](#websites)
+  - [Grupos no Facebook](#grupos-no-facebook)
   - [Páginas em inglês](#páginas-em-inglês)
   - [Páginas em português](#páginas-em-português)
   - [Emuladores](#emuladores)
@@ -52,7 +55,48 @@ O Steam Deck é um dispositivo portátil de jogos desenvolvido pela Valve. É um
 
 ## Preços
 
+O Steam Deck ainda não é oficialmente vendido pela Valve no Brasil, mas não é por isso que você não vai conseguir comprar o seu. 
 
+Os preços oficiais da Valve são esses:
+
+- Modelo 64 GB
+  - 399.00 USD
+  - Case
+  - Memória eMMC (mais lenta)
+  - Carregador
+
+- Modelo 128 GB
+  - 529.00 USD
+  - Case
+  - Memória NVME (mais rápida)
+  - Exclusivo Steam Community profile bundle
+
+- Modelo 512GB
+  - 649.00 USD
+  - Case exclusiva
+  - Tela anti-reflexo
+  - Memória NVME (mais rápida)
+
+No Brasil você irá conseguir comprar o seu Deck atravez do Mercado Livre, AliExpress e também algumas lojas de games. Google é o seu melhor amigo. Em alguns grupoos do Facebook você irá encontrar pessoas vendendo Steam Deck por valores variados.
+
+Outra forma de conseguir o seu é via importação direta, um amigo que está por lá, empresas de redirecionamento, etc. 
+
+Comprando aqui no Brasil, espere pagar entre R$3500-R$4500 no modelo 64GB e até uns R$6000 no modelo 512GB. 
+
+## Qual comprar?
+
+Esse é um grande debate. Se você fizer as contas, comprar o modelo de 64GB + SSD 1Tb para fazer o upgrade pode sair mais barato, mas ai vai de você querer passar pelo trabalho de fazer a troca, etc. 
+
+Eu comprei o modelo de 64Gb justamente por causa disso, mas após um tempo com o Deck, ainda não fiz o upgrade, porque sei que vou lotar de jogos que não vou jogar. Mas ainda quero fazer o upgrade, principalmente pelo emuladores.
+
+## Acessórios "Obrigatórios"
+
+Considere também comprar:
+
+- Dock USB
+- Carregador USC-C de no mínimo 45W
+- SD Card 256GB ou 512GB
+- 
 
 ## Especificações
 
@@ -100,6 +144,17 @@ Veja as [perguntas frequentes do Steam Deck](https://www.steamdeck.com/en/faq) p
 # Websites
 
 Aqui estão alguns sites úteis para acompanhar as notícias sobre o Steam Deck.
+
+## Grupos no Facebook
+
+- https://www.facebook.com/groups/steamdeckbrazil/
+- https://www.facebook.com/groups/valvesteamdeckbrasil/
+
+
+- https://www.facebook.com/groups/895343947759775
+- https://www.facebook.com/groups/1857754067746453/
+- https://www.facebook.com/groups/steamdeckgamers/
+- https://www.facebook.com/groups/steamdeck/
 
 ## Páginas em inglês
 
