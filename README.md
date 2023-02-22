@@ -138,7 +138,6 @@ Veja as [perguntas frequentes do Steam Deck](https://www.steamdeck.com/en/faq) p
 - [Jogos marcados como Great on Deck na Steam Store (Lista Independente)](https://store.steampowered.com/curator/42167844-Great-on-Deck/) 
 - [Lista de jogos marcados como verificado na **SUA** biblioteca da Steam](https://store.steampowered.com/steamdeck/mygames)
 - [Lista de compatibilidade do ProtonDB](https://www.protondb.com/)
-- [Lista de jogos otimizados para Steam Deck](https://steamdeck.tech/games)
 - [Lista de jogos compatíveis com Linux](https://www.gamingonlinux.com/)
 
 # Websites
@@ -155,6 +154,7 @@ Aqui estão alguns sites úteis para acompanhar as notícias sobre o Steam Deck.
 - https://www.facebook.com/groups/1857754067746453/
 - https://www.facebook.com/groups/steamdeckgamers/
 - https://www.facebook.com/groups/steamdeck/
+- https://www.facebook.com/pixeldeckgaming/
 
 ## Páginas em inglês
 
