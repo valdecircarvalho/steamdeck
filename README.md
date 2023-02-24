@@ -182,9 +182,7 @@ Aqui estão alguns sites úteis para acompanhar as notícias sobre o Steam Deck.
 
 - [Lutris](https://lutris.net/)
 - [Wine](https://www.winehq.org/)
-- [GIMP](https://www.gimp.org/)
-- [Kdenlive](https://kdenlive.org/)
-- [Audacity](https://www.audacityteam.org/)
+
 
 ## Acessórios
 
