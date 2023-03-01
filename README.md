@@ -4,7 +4,7 @@ Conteúdo sobre Steam Deck em Português compilado e traduzido por Valdecir Carv
 
 > Recentemente (20/01/2023) comprei um Steam Deck e depois disso comecei a procurar conteúdo sobre o console da Valve em Português e não encontrei muita coisa, por isso, resolvi criar essa pagina para compilar links e recursos sobre o Steam Deck em PT-BR e em Inglês ao qual pretendo ir traduzindo para o Português.
 
-:joy:
+
 
 - [steamdeck-br](#steamdeck-br)
   - [Introdução](#introdução)
@@ -120,7 +120,10 @@ Veja as [perguntas frequentes do Steam Deck](https://www.steamdeck.com/en/faq) p
 
 ## Artigos
 
-
+- [Minha Relação com o Steam Deck](minha-relacao-com-steamdeck.md)
+- [Configurações de Performance](steamdeck-performance.md)
+- [FAQ Traduzido](faq.md)
+- [Onde e como conseguir roms para emulação](roms.md)
 ## Vídeos
 
 
