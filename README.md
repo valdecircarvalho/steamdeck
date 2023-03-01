@@ -19,6 +19,8 @@ Recentemente (20/01/2023) comprei um Steam Deck e depois disso comecei a procura
   - [Jogos](#jogos)
 - [Websites](#websites)
   - [Grupos no Facebook](#grupos-no-facebook)
+      - [Português](#português)
+      - [Inglês](#inglês)
   - [Páginas em inglês](#páginas-em-inglês)
   - [Páginas em português](#páginas-em-português)
   - [Emuladores](#emuladores)
@@ -146,15 +148,16 @@ Aqui estão alguns sites úteis para acompanhar as notícias sobre o Steam Deck.
 
 ## Grupos no Facebook
 
-- https://www.facebook.com/groups/steamdeckbrazil/
-- https://www.facebook.com/groups/valvesteamdeckbrasil/
+#### Português
+- [Steam Deck Brazil](https://www.facebook.com/groups/steamdeckbrazil/)
+- [Valve Steam Deck Brasil](https://www.facebook.com/groups/valvesteamdeckbrasil/)
 
+#### Inglês
+- [SteamDeck Tips Tricks Hacks & Emulation](https://www.facebook.com/groups/895343947759775)
+- [Steam Deck Windows10/11 Community](https://www.facebook.com/groups/1857754067746453/)
+- [Steam Deck Community](https://www.facebook.com/groups/steamdeckgamers/)
+- [Steam Deck](https://www.facebook.com/groups/steamdeck/)
 
-- https://www.facebook.com/groups/895343947759775
-- https://www.facebook.com/groups/1857754067746453/
-- https://www.facebook.com/groups/steamdeckgamers/
-- https://www.facebook.com/groups/steamdeck/
-- https://www.facebook.com/pixeldeckgaming/
 
 ## Páginas em inglês
 
@@ -164,9 +167,9 @@ Aqui estão alguns sites úteis para acompanhar as notícias sobre o Steam Deck.
 - [Linux Gaming Central](https://www.linuxgamecast.com/category/news/) - Notícias sobre jogos para Linux, incluindo notícias do Steam Deck.
 
 ## Páginas em português
-
+🇧🇷
 - [Steam Play Proton Brasil](https://t.me/steamplayprotonbrasil) - Canal do Telegram em português com notícias e suporte para jogos do Steam no Linux e Steam Deck.
-- [LinuxBuzz](https://www.linuxbuzz.com.br/) - Site brasileiro com notícias sobre tecnologia em geral, incluindo notícias sobre jogos para Linux e Steam Deck.
+
 
 
 ## Emuladores
@@ -188,41 +191,41 @@ Aqui estão alguns sites úteis para acompanhar as notícias sobre o Steam Deck.
 
 
 ## Links Oficiais
-+ https://www.steamdeck.com/en/
++ [Site Oficial](https://www.steamdeck.com/en/)
 
-+ https://www.steamdeck.com/en/press
++ [Press Kit](https://www.steamdeck.com/en/press)
 
-+ https://www.steamdeck.com/en/news [Site oficial de notícias - Inglês]
++ [Site oficial de notícias - Inglês](https://www.steamdeck.com/en/news)
 
-+ https://www.steamdeck.com/en/verified
++ [Jogos Verificados](https://www.steamdeck.com/en/verified)
 
-+ https://www.steamdeck.com/pt-br/faq
++ [FAQ](https://www.steamdeck.com/pt-br/faq)
 
-+ https://www.steamdeck.com/pt-br/tech
++ [Especificações Técnicas](https://www.steamdeck.com/pt-br/tech)
 
 
 ## Redes Sociais
-+ https://mobile.twitter.com/ondeck
++ [Twitter - @ondeck](https://mobile.twitter.com/ondeck)
 
 ## Wikipedia
-+ https://pt.m.wikipedia.org/wiki/Steam_Deck
++ [Steam Deck no Wikipedia](https://pt.m.wikipedia.org/wiki/Steam_Deck)
 
 ## SteamDeckHomebrew
-+ https://github.com/SteamDeckHomebrew
++ [Steam Deck Homebrew](https://github.com/SteamDeckHomebrew)
 
 ## Awesome SteamDeck
-+ https://github.com/matthewbarreiro/awesome-steam-deck
++ [Awesome Steam Deck by @matthewbarreiro](https://github.com/matthewbarreiro/awesome-steam-deck)
 
-+ https://github.com/mikeroyal/Steam-Deck-Guide
++ [Awesome Steam Deck by @mikeroyal](https://github.com/mikeroyal/Steam-Deck-Guide)
 
 ## Emulação
-+ https://github.com/nchristopher/steamdeck-emulation
++ [Steam Deck Emulation by @nchristopher](https://github.com/nchristopher/steamdeck-emulation)
 
-+ https://github.com/XargonWan/RetroDECK
++ [RetroDECK](https://github.com/XargonWan/RetroDECK)
 
-+ https://github.com/dragoonDorise/EmuDeck/
++ [EmuDeck](https://github.com/dragoonDorise/EmuDeck/)
 
-+ https://github.com/dragoonDorise/EmuDeck/wiki
++ 🇺🇸[EmuDeck Wiki](https://github.com/dragoonDorise/EmuDeck/wiki)
 
 ### Nintendo Switch
 
@@ -401,3 +404,7 @@ Aqui estão alguns sites úteis para acompanhar as notícias sobre o Steam Deck.
 + https://steamunlocked.net/ // https://steamunlocked.to/
 
 + https://nxbrew.com/ (Nintendo Switch)
+
++ https://www.arcadepunks.com/steam-deck-builds/
+
+
