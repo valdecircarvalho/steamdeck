@@ -1,7 +1,10 @@
 # steamdeck-br
-Conteúdo sobre Steam Deck em Português
 
-Recentemente (20/01/2023) comprei um Steam Deck e depois disso comecei a procurar conteúdo sobre o console da Valve em Português e não encontrei muita coisa, por isso, resolvi criar essa pagina para coletar links e recursos sobre o Steam Deck em PT-BR.
+Conteúdo sobre Steam Deck em Português compilado e traduzido por Valdecir Carvalho.
+
+> Recentemente (20/01/2023) comprei um Steam Deck e depois disso comecei a procurar conteúdo sobre o console da Valve em Português e não encontrei muita coisa, por isso, resolvi criar essa pagina para compilar links e recursos sobre o Steam Deck em PT-BR e em Inglês ao qual pretendo ir traduzindo para o Português.
+
+:joy:
 
 - [steamdeck-br](#steamdeck-br)
   - [Introdução](#introdução)
@@ -225,7 +228,7 @@ Aqui estão alguns sites úteis para acompanhar as notícias sobre o Steam Deck.
 
 + [EmuDeck](https://github.com/dragoonDorise/EmuDeck/)
 
-+ 🇺🇸[EmuDeck Wiki](https://github.com/dragoonDorise/EmuDeck/wiki)
++ 🇺🇸 [EmuDeck Wiki](https://github.com/dragoonDorise/EmuDeck/wiki)
 
 ### Nintendo Switch
 
