@@ -22,6 +22,7 @@ Conteúdo sobre Steam Deck em Português compilado e traduzido por Valdecir Carv
   - [Sistemas operacionais](#sistemas-operacionais)
   - [Jogos](#jogos)
 - [Websites](#websites)
+  - [Telegram](#telegram)
   - [Grupos no Facebook](#grupos-no-facebook)
       - [Português](#português)
       - [Inglês](#inglês)
@@ -32,6 +33,7 @@ Conteúdo sobre Steam Deck em Português compilado e traduzido por Valdecir Carv
   - [Acessórios](#acessórios)
   - [Links Oficiais](#links-oficiais)
   - [Redes Sociais](#redes-sociais)
+      - [Contas no Twitter sobre Steam Deck](#contas-no-twitter-sobre-steam-deck)
   - [Wikipedia](#wikipedia)
   - [SteamDeckHomebrew](#steamdeckhomebrew)
   - [Awesome SteamDeck](#awesome-steamdeck)
@@ -153,6 +155,10 @@ Veja as [perguntas frequentes do Steam Deck](https://www.steamdeck.com/en/faq) p
 
 Aqui estão alguns sites úteis para acompanhar as notícias sobre o Steam Deck.
 
+## Telegram
+
+- Grupo Steam Deck Brasil no Telegram - Link para entrar https://t.me/+53kVjmn5GDBjM2Yx
+- 
 ## Grupos no Facebook
 
 #### Português
@@ -212,7 +218,19 @@ Aqui estão alguns sites úteis para acompanhar as notícias sobre o Steam Deck.
 
 
 ## Redes Sociais
-+ [Twitter - @ondeck](https://mobile.twitter.com/ondeck)
+
+#### Contas no Twitter sobre Steam Deck
++ [Twitter - @ondeck - Conta Oficial Valve](https://mobile.twitter.com/ondeck)
++ https://twitter.com/ondeckupdates
++ https://twitter.com/DeckVsSwitch
++ https://twitter.com/SteamDeckHQ
++ https://twitter.com/SteamDeckFans
++ https://twitter.com/SteamDeckGaming
++ https://twitter.com/SteamDeckLife
++ https://twitter.com/SteamDeckEnergy
++ https://twitter.com/OnDeck_News
++ https://twitter.com/SteamDecked
++ https://twitter.com/SteamDeckBrasil
 
 ## Wikipedia
 + [Steam Deck no Wikipedia](https://pt.m.wikipedia.org/wiki/Steam_Deck)
