@@ -1,6 +1,7 @@
 # steamdeck-br
 
 ![](sd-tech-specs.png)
+<img src="sd-tech-specs.png" alt="Steam Deck" >
 Conteúdo sobre Steam Deck em Português compilado e traduzido por Valdecir Carvalho.
 
 > Recentemente (20/01/2023) comprei um Steam Deck e depois disso comecei a procurar conteúdo sobre o console da Valve em Português e não encontrei muita coisa, por isso, resolvi criar essa pagina para compilar links e recursos sobre o Steam Deck em PT-BR e em Inglês ao qual pretendo ir traduzindo para o Português.
