@@ -1,5 +1,7 @@
 # FAQ - Perguntas frequentes
 
+Tradução Livre para o Português. Fonte: [Steam Deck Oficial FAQ](https://www.steamdeck.com/en/faq)
+
 Respostas a algumas das perguntas comuns que recebemos da comunidade, da imprensa e da caixa de entrada de Gabe.
 
 ## Você pode ter várias contas Steam em um Steam Deck?
@@ -62,4 +64,3 @@ Respostas a algumas das perguntas comuns que recebemos da comunidade, da imprens
 ## O Steam Deck suporta GPUs externas?
 - Não, GPUs externas não são suportadas no Steam Deck.
 
-Tradução Livre para o Português. Fonte: https://www.steamdeck.com/en/faq

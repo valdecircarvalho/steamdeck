@@ -1,0 +1,1 @@
+# Emulação no Steam Deck

@@ -52,11 +52,11 @@ Conteúdo sobre Steam Deck em Português compilado e traduzido por [Valdecir Car
 
 ## Artigos
 
-- [Minha Relação com o Steam Deck](minha-relacao-com-steamdeck.md)
-- [Configurações de Performance](steamdeck-performance.md)
+- [Minha Relação com o Steam Deck](artigos\minha-relacao-com-steamdeck.md)
+- [Configurações de Performance](artigos\steamdeck-performance.md)
 - [FAQ Traduzido](faq.md)
 - [Onde e como conseguir roms para emulação](roms.md)
-- 
+- [Emulação no Steam Deck](emulacao.md)
 
 ## O que é o Steam Deck?
 
@@ -125,7 +125,7 @@ Considere também comprar:
 
 ## FAQ
 
-Veja as [perguntas frequentes do Steam Deck](https://www.steamdeck.com/en/faq) para obter mais informações oficiais sobre o dispositivo.
+Veja as [perguntas frequentes do Steam Deck](faq.md) para obter mais informações oficiais sobre o Steam Deck.
 
 
 ## Vídeos
