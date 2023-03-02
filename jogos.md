@@ -22,6 +22,7 @@ Existem 4 categorias de compatibilidade:
 
 - [Jogos marcados como Great on Deck na Steam Store](https://store.steampowered.com/greatondeck)
 - [Lista de jogos marcados como verificado na **SUA** biblioteca da Steam](https://store.steampowered.com/steamdeck/mygames) - Necessário estar logado na sua conta da Steam.
+- [Lista de Atualizações Jogos Great on Deck](https://store.steampowered.com/news/greatondeck)
 
 - [Jogos marcados como Great on Deck na Steam Store (Lista Independente)](https://store.steampowered.com/curator/42167844-Great-on-Deck/) 
 

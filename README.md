@@ -28,7 +28,6 @@ Conteúdo sobre Steam Deck em Português compilado e traduzido por [Valdecir Car
       - [Inglês](#inglês)
   - [Páginas em inglês](#páginas-em-inglês)
   - [Páginas em português](#páginas-em-português)
-  - [Emuladores](#emuladores)
   - [Aplicativos](#aplicativos)
   - [Acessórios](#acessórios)
   - [Links Oficiais](#links-oficiais)
@@ -37,8 +36,6 @@ Conteúdo sobre Steam Deck em Português compilado e traduzido por [Valdecir Car
   - [Wikipedia](#wikipedia)
   - [SteamDeckHomebrew](#steamdeckhomebrew)
   - [Awesome SteamDeck](#awesome-steamdeck)
-  - [Emulação](#emulação)
-    - [Nintendo Switch](#nintendo-switch)
   - [Sites e Blogs](#sites-e-blogs)
   - [Guias](#guias)
   - [Info sobre jogos](#info-sobre-jogos)
@@ -117,7 +114,7 @@ Considere também comprar:
 - Processador: AMD Zen 2 de 4 núcleos / 8 threads
 - GPU: AMD RDNA 2
 - RAM: 16GB LPDDR5
-- Armazenamento: 64GB, 256GB ou 512GB NVMe SSD
+- Armazenamento: 64GB, 256GB ou 512GB NVMe SSD - **Todos os modelos usam a interface M.2 2230** 
 - Tela: 7 polegadas, resolução de 1280x800, taxa de atualização de 60Hz
 - Bateria: 40Whr, 8 a 10 horas de duração da bateria
 - Conectividade: Wi-Fi, Bluetooth 5.0, USB-C com DisplayPort 1.4, saída de áudio de 3,5 mm
@@ -179,15 +176,6 @@ Aqui estão alguns sites úteis para acompanhar as notícias sobre o Steam Deck.
 
 
 
-## Emuladores
-
-- [RetroArch](https://www.retroarch.com/)
-- [Dolphin](https://dolphin-emu.org/)
-- [PCSX2](https://pcsx2.net/)
-- [PPSSPP](https://www.ppsspp.org/)
-- [yuzu](https://yuzu-emu.org/)
-- [Citra](https://citra-emu.org/)
-
 ## Aplicativos
 
 - [Lutris](https://lutris.net/)
@@ -210,6 +198,7 @@ Aqui estão alguns sites úteis para acompanhar as notícias sobre o Steam Deck.
 
 + [Especificações Técnicas](https://www.steamdeck.com/pt-br/tech)
 
++ https://store.steampowered.com/news/collection/steam/
 
 ## Redes Sociais
 
@@ -237,25 +226,7 @@ Aqui estão alguns sites úteis para acompanhar as notícias sobre o Steam Deck.
 
 + [Awesome Steam Deck by @mikeroyal](https://github.com/mikeroyal/Steam-Deck-Guide)
 
-## Emulação
-+ [Steam Deck Emulation by @nchristopher](https://github.com/nchristopher/steamdeck-emulation)
 
-+ [RetroDECK](https://github.com/XargonWan/RetroDECK)
-
-+ [EmuDeck](https://github.com/dragoonDorise/EmuDeck/)
-
-+ 🇺🇸 [EmuDeck Wiki](https://github.com/dragoonDorise/EmuDeck/wiki)
-
-### Nintendo Switch
-
-+ https://github.com/dragoonDorise/EmuDeck/wiki/Ryujinx
-
-+ https://yuzu-emu.org/
-+ https://yuzu-emu.org/game/
-+ https://www.reddit.com/r/yuzu/
-
-+ https://ryujinx.org/
-+ https://www.reddit.com/r/Ryujinx/
 
 
 ## Sites e Blogs
@@ -273,7 +244,7 @@ Aqui estão alguns sites úteis para acompanhar as notícias sobre o Steam Deck.
 
 
 ## Guias
-+ https://retrogamecorps.com/2022/10/16/steam-deck-emulation-starter-guide/
+
 
 + https://www.reddit.com/r/SteamDeck/wiki/guides/
 
@@ -285,9 +256,7 @@ Aqui estão alguns sites úteis para acompanhar as notícias sobre o Steam Deck.
 
 + https://github.com/ryanrudolfoba/SteamDeck-Clover-dualboot
 
-+ https://wagnerstechtalk.com/sd-batocera/
 
-+ https://wagnerstechtalk.com/steamdeck/
 
 ## Info sobre jogos
 
@@ -296,19 +265,7 @@ Aqui estão alguns sites úteis para acompanhar as notícias sobre o Steam Deck.
 
 ## YouTube
 
-+ https://www.youtube.com/watch?v=LI7957GoM3k - Steam Deck: EmuDeck PS2 Emulation Full Guide - PCSX2 Emulator - by https://www.youtube.com/@ED4T
 
-+ https://www.youtube.com/watch?v=PwO7P9u1Xag - Steam Deck: EmuDeck Nintendo 3DS Emulation Guide - Citra Emulator - by https://www.youtube.com/@ED4T
-
-+ https://www.youtube.com/watch?v=m1FhvXbcvVs&t=466s - Steam Deck: EmuDeck PS3 Emulation Guide - RPCS3 Emulator - by https://www.youtube.com/@ED4T
-
-+ https://www.youtube.com/watch?v=m8RdY5pxR34 - RPCS3 PS3 Emulator ISO Games Booting Fail Invalid File & Folder Fix - by https://www.youtube.com/@ED4T
-
-+ https://www.youtube.com/watch?v=BmvUZKbXY9c - Steam Deck: EmuDeck Wii U Emulation Guide - CEMU Emulator - by https://www.youtube.com/@ED4T
-
-+ https://www.youtube.com/watch?v=RajbovmLgTE&t=19s - Steam Deck: EmuDeck Nintendo Switch Emulation Guide - YuZu Emulator - by https://www.youtube.com/@ED4T
-
-+ https://www.youtube.com/watch?v=oajbqjT_7RM - How to Run Android Games and Apps on Steam Deck at Maximum Performance ! - by https://www.youtube.com/@ED4T
 
 + https://www.youtube.com/@SteamDeckGaming 
 
@@ -341,12 +298,15 @@ Aqui estão alguns sites úteis para acompanhar as notícias sobre o Steam Deck.
 ## Reddit
 
 + https://www.reddit.com/r/SteamDeck/
-
 + https://www.reddit.com/r/SteamDeckEmu/
-
 + https://www.reddit.com/r/SteamdeckGames/
++ https://www.reddit.com/r/DeckSupport/
++ https://www.reddit.com/r/ValveSteamDeck/
++ https://www.reddit.com/r/SteamDeckTricks/
 
 + https://www.reddit.com/r/LinuxCrackSupport/
++ https://www.reddit.com/r/steamdeck_linux/
++ https://www.reddit.com/r/SteamOS/
 
 + https://www.reddit.com/r/LinuxCrackSupport/comments/wuvjt8/updated_installed_quaked_games_on_steam_deck/?utm_source=share&utm_medium=ios_app&utm_name=iossmf - super simple non Linux user friendly guide to use Fitgirl games
 
