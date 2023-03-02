@@ -144,7 +144,7 @@ Veja as [perguntas frequentes do Steam Deck](https://www.steamdeck.com/en/faq) p
 
 
 ## Jogos
-
+[Games compatíveis com o Steam Deck](jogos.md)
 # Websites
 
 Aqui estão alguns sites úteis para acompanhar as notícias sobre o Steam Deck.
