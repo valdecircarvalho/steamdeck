@@ -5,7 +5,7 @@ Essa é uma dúvida muito comum aos novos usuários de Steam Deck. Nem todos os 
 
 > O [Deck Verified](https://www.steamdeck.com/en/verified) é um programa que analisa os jogos no catálogo do Steam, verificando sua compatibilidade com o Steam Deck. Então, quando você visitar sua biblioteca no Steam Deck, você encontrará uma tag de compatibilidade em cada título, refletindo o tipo de experiência que você pode esperar ao jogar cada jogo no Steam Deck.
 
-![Categorias de Compatibilidade de Jogos](steamdeck-compatibility-categories.jpg)
+![Categorias de Compatibilidade de Jogos](steamdeck-verified-icons.webp)
 
 Existem 4 categorias de compatibilidade:
 
