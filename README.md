@@ -9,7 +9,7 @@ Conteúdo sobre Steam Deck em Português compilado e traduzido por [Valdecir Car
 
 
 - [steamdeck-br](#steamdeck-br)
-  - [Introdução](#introdução)
+  - [Artigos](#artigos)
   - [O que é o Steam Deck?](#o-que-é-o-steam-deck)
   - [Informações Oficiais](#informações-oficiais)
   - [Preços](#preços)
@@ -17,7 +17,6 @@ Conteúdo sobre Steam Deck em Português compilado e traduzido por [Valdecir Car
   - [Acessórios "Obrigatórios"](#acessórios-obrigatórios)
   - [Especificações](#especificações)
   - [FAQ](#faq)
-  - [Artigos](#artigos)
   - [Vídeos](#vídeos)
   - [Hardware](#hardware)
   - [Sistemas operacionais](#sistemas-operacionais)
@@ -51,7 +50,13 @@ Conteúdo sobre Steam Deck em Português compilado e traduzido por [Valdecir Car
   - [ROMs Sites](#roms-sites)
 
 
-## Introdução
+## Artigos
+
+- [Minha Relação com o Steam Deck](minha-relacao-com-steamdeck.md)
+- [Configurações de Performance](steamdeck-performance.md)
+- [FAQ Traduzido](faq.md)
+- [Onde e como conseguir roms para emulação](roms.md)
+- 
 
 ## O que é o Steam Deck?
 
@@ -122,12 +127,7 @@ Considere também comprar:
 
 Veja as [perguntas frequentes do Steam Deck](https://www.steamdeck.com/en/faq) para obter mais informações oficiais sobre o dispositivo.
 
-## Artigos
 
-- [Minha Relação com o Steam Deck](minha-relacao-com-steamdeck.md)
-- [Configurações de Performance](steamdeck-performance.md)
-- [FAQ Traduzido](faq.md)
-- [Onde e como conseguir roms para emulação](roms.md)
 ## Vídeos
 
 
@@ -144,13 +144,6 @@ Veja as [perguntas frequentes do Steam Deck](https://www.steamdeck.com/en/faq) p
 
 
 ## Jogos
-
-- [Página oficial de jogos do Steam Deck](https://www.steamdeck.com/pt/games)
-- [Jogos marcados como Great on Deck na Steam Store](https://store.steampowered.com/greatondeck)
-- [Jogos marcados como Great on Deck na Steam Store (Lista Independente)](https://store.steampowered.com/curator/42167844-Great-on-Deck/) 
-- [Lista de jogos marcados como verificado na **SUA** biblioteca da Steam](https://store.steampowered.com/steamdeck/mygames)
-- [Lista de compatibilidade do ProtonDB](https://www.protondb.com/)
-- [Lista de jogos compatíveis com Linux](https://www.gamingonlinux.com/)
 
 # Websites
 
