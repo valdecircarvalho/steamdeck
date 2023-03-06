@@ -1,7 +1,6 @@
 # steamdeck-br
----
-#[steamdeck.valdecir.me](http://steamdeck.valdecir.me)
----
+[steamdeck.valdecir.me](http://steamdeck.valdecir.me)
+
 ![](sd-tech-specs.png)
 
 Conteúdo sobre Steam Deck em Português compilado e traduzido por [Valdecir Carvalho](https://iamval.me).
@@ -11,7 +10,6 @@ Conteúdo sobre Steam Deck em Português compilado e traduzido por [Valdecir Car
 
 
 - [steamdeck-br](#steamdeck-br)
-  - [#steamdeck.valdecir.me](#steamdeckvaldecirme)
   - [Artigos](#artigos)
   - [O que é o Steam Deck?](#o-que-é-o-steam-deck)
   - [Informações Oficiais](#informações-oficiais)
