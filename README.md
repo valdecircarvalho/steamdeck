@@ -60,7 +60,7 @@ Conteúdo sobre Steam Deck em Português compilado e traduzido por [Valdecir Car
   - [Steam Deck - Software Info & Troubleshooting Guide](ajuda-steam-deck-software-e-resolucao-de-problemas.md)
   - [Stem Deck - Dock Station](ajuda-steam-deck-docking-station.md)
   - [Steam Deck - Desktop](ajuda-steam-deck-desktop.md)
-  - [https://help.steampowered.com/en/wizard/HelpWithSteamDeck](https://help.steampowered.com/en/wizard/HelpWithSteamDeck)
+
 
 
 ## O que é o Steam Deck?
@@ -132,6 +132,7 @@ Considere também comprar:
 
 Veja as [perguntas frequentes do Steam Deck](faq.md) para obter mais informações oficiais sobre o Steam Deck.
 
+  - [Steam Deck Help](https://help.steampowered.com/en/wizard/HelpWithSteamDeck)
 
 ## Vídeos
 
