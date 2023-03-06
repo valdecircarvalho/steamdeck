@@ -50,8 +50,8 @@ Conteúdo sobre Steam Deck em Português compilado e traduzido por [Valdecir Car
 
 ## Artigos
 
-- [Minha Relação com o Steam Deck](artigos\minha-relacao-com-steamdeck.md)
-- [Configurações de Performance](artigos\steamdeck-performance.md)
+- [Minha Relação com o Steam Deck](minha-relacao-com-steamdeck.md)
+- [Configurações de Performance](steamdeck-performance.md)
 - [FAQ Traduzido](faq.md)
 - [Onde e como conseguir roms para emulação](roms.md)
 - [Emulação no Steam Deck](emulacao.md)
