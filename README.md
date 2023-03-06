@@ -55,7 +55,12 @@ Conteúdo sobre Steam Deck em Português compilado e traduzido por [Valdecir Car
 - [FAQ Traduzido](faq.md)
 - [Onde e como conseguir roms para emulação](roms.md)
 - [Emulação no Steam Deck](emulacao.md)
-- [Artigos com Ajuda e Dicas sobre o Steam Deck](ajuda.md)
+- Artigos com Ajuda e Dicas sobre o Steam Deck
+  - [Steam Deck - Guia básico de uso e solução de problemas](ajuda-steam-deck-uso-basico-e-resolucao-de-problemas.md)
+  - [Steam Deck - Software Info & Troubleshooting Guide](ajuda-steam-deck-software-e-resolucao-de-problemas.md)
+  - [Stem Deck - Dock Station](ajuda-steam-deck-docking-station.md)
+  - [Steam Deck - Desktop](ajuda-steam-deck-desktop.md)
+  - [https://help.steampowered.com/en/wizard/HelpWithSteamDeck](https://help.steampowered.com/en/wizard/HelpWithSteamDeck)
 
 
 ## O que é o Steam Deck?
