@@ -7,7 +7,7 @@ Existem diversas maneiras de rodar emuladores no seu Steam Deck.
 + Instalar cada emulador separadamente
 + Usar o EmuDeck ou outras ferramentas como RetroDeck ou Batocera
 
-
+## Parte 1
 ## O Guia do idiota para Emudeck
 Estou usando o Emudeck como base para este guia, embora existam outras ferramentas como RetroDeck e Batocera. 
 As dicas sobre BIOS e ROMs serão basicamente as mesmas, mas podem variar.
@@ -145,7 +145,30 @@ Alguns dos arquivos podem estar atrás de um bloqueio. Você precisa criar uma c
 
 É claro que “(inserir sistema) ROMset” também funciona
 
-Deixe-me saber se isso é útil ou pode ser adicionado. Apenas um primeiro rascunho.
+## Parte 2
+
+## Guia do idiota para ROMsets para Emudeck
+Então você baixou e instalou o Emudeck em seu novo e brilhante Steam Deck e agora está pensando “Sou tão preguiçoso, só quero um monte de jogos de uma só vez para um sistema”. Você está com sorte! Tenho links e termos de pesquisa para ajudá-lo.
+
+Não estou garantindo absolutamente todos os links aqui, mas o archive.org verifica se há vírus antes do upload. Não clique em um arquivo .exe, pois nenhuma ROM está nesse formato.
+
+Para começar, os downloads do Archive.org são extremamente lentos, a menos que você use um gerenciador de downloads. Na loja Discover, há um programa chamado Free Download Manager que funciona muito bem. Basta arrastar o arquivo de archive.org para o programa e ele acelerará consideravelmente o download.
+
+- [ROMset da RetroAchievement](https://archive.org/details/retroachievements_collection_v5) -  Ótima comunidade que adiciona conquistas a jogos retrô. Existe até um para [jogos de PS2](https://archive.org/details/retroachievements_collection_PS2). Cada jogo neste conjunto tem o hash certo para corresponder a um conjunto da RetroAchievement. Se você compactar o arquivo, talvez não seja mais possível usar o RetroAchievements para esse arquivo.
+
+- [1G1R ROMset Conjuntos 1G1R](https://archive.org/details/hearto-1g1r-collection) - significam 1 Jogo 1 ROM. Sem duplicatas ou várias versões do mesmo jogo. Este ROMset tem vários sistemas, mas obviamente não todos.
+
+- [No-Intro ROMsets](https://archive.org/details/no-intro_romsets) e [ReDump ROMsets](https://archive.org/details/redump) - No-Intro e ReDump são os dois principais dumps confiáveis de jogos. Este conjunto específico de No-Intro exige que você crie uma conta para acessá-lo, o que você definitivamente deve fazer, mas também pode pesquisar apenas “No-intro” ou “Redump”.
+
+- [Cylum ROMsets](https://archive.org/search?query=creator%3A%22Cylum%22)  - Excelentes ROMsets para a maioria dos sistemas. Ainda tem traduções e hacks em pastas separadas.
+
+- [Ghostware ROMsets](https://archive.org/search?query=creator%3A%22Ghostware%22) Uma variedade enorme de ótimos ROMsets. Bem rotulado e mantido.
+
+- [Emuvault ROMsets](https://archive.org/search?query=creator%3A%22EmuVault%22) -  O mesmo que o de cima.
+
+- Por último, mas não menos importante, conjuntos de [ROMs EBZero](https://archive.org/details/@dischord), especificamente seu [RetroROMs Best Set](https://archive.org/details/retro-roms-best-set), que é de longe o melhor pacote inicial para um entusiasta retrô. Ele também tem pacotes de RPG para os interessados.
+---
+
 
 
 ---
