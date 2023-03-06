@@ -146,6 +146,11 @@ Alguns dos arquivos podem estar atrás de um bloqueio. Você precisa criar uma c
 É claro que “(inserir sistema) ROMset” também funciona
 
 Deixe-me saber se isso é útil ou pode ser adicionado. Apenas um primeiro rascunho.
+
+
+---
+
+## Coleção de Links (para arrumar)
 + https://retrogamecorps.com/2022/10/16/steam-deck-emulation-starter-guide/
 
 + https://wagnerstechtalk.com/sd-batocera/

@@ -23,12 +23,14 @@ Existem 4 categorias de compatibilidade:
 - [Jogos marcados como Great on Deck na Steam Store](https://store.steampowered.com/greatondeck)
 - [Lista de jogos marcados como verificado na **SUA** biblioteca da Steam](https://store.steampowered.com/steamdeck/mygames) - Necessário estar logado na sua conta da Steam.
 - [Lista de Atualizações Jogos Great on Deck](https://store.steampowered.com/news/greatondeck)
-
 - [Jogos marcados como Great on Deck na Steam Store (Lista Independente)](https://store.steampowered.com/curator/42167844-Great-on-Deck/) 
-
 - [Lista de compatibilidade do ProtonDB](https://www.protondb.com/)
 - [ Lista Não Oficial de Jogos verificados para rodar no Steam Deck](https://greatondeck.net/)
 - [Lista de jogos compatíveis com Linux](https://www.gamingonlinux.com/)
+
+Você também pode filtrar os jogos na lojinha da Steam que são compatíveis com o Steam Deck:
+- Deck Verificado (_Verified_) - [link Steam Store](https://store.steampowered.com/search/?deck_compatibility=3)
+- Deck Jogável (_Playable_) - [link Steam Store](https://store.steampowered.com/search/?deck_compatibility=2)
 
 
 ------------
