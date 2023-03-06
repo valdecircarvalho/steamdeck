@@ -1,5 +1,5 @@
 # steamdeck-br
-[http://steamdeck.valdecir.me]
+[http://steamdeck.valdecir.me](http://steamdeck.valdecir.me)
 
 ![](sd-tech-specs.png)
 
