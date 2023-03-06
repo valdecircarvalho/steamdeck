@@ -1,4 +1,5 @@
 # steamdeck-br
+[http://steamdeck.valdecir.me]
 
 ![](sd-tech-specs.png)
 
