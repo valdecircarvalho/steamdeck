@@ -55,6 +55,7 @@ Conteúdo sobre Steam Deck em Português compilado e traduzido por [Valdecir Car
 - [FAQ Traduzido](faq.md)
 - [Onde e como conseguir roms para emulação](roms.md)
 - [Emulação no Steam Deck](emulacao.md)
+- [Artigos com Ajuda e Dicas sobre o Steam Deck](ajuda.md)
 
 ## O que é o Steam Deck?
 
