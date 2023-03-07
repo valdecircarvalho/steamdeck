@@ -35,9 +35,53 @@
   - Emudeck
   - Batocera
   - Roms
-  - Nintendo Wii
+  - Nintendo Switch
   - Playstation 2
   - Playstation 3
   - Xbox 360
 - Jogos Alternativos no Steam Deck
 - Guias
+
+----
+
+## O que é o Steam Deck?
+
+O Steam Deck é um dispositivo portátil de jogos desenvolvido pela Valve. É uma plataforma de jogos portátil que permite que os jogadores joguem seus jogos do Steam em qualquer lugar. O dispositivo tem um design semelhante ao de um console portátil, com uma tela sensível ao toque de 7 polegadas, botões de controle, joystick analógico, trackpads, alto-falantes estéreo e uma bateria de longa duração. Ele também é executado no sistema operacional SteamOS da Valve, que foi projetado especificamente para jogos.
+
+## Informações Oficiais
+
+- [Página do produto Steam Deck](https://www.steamdeck.com/en/)
+
+## Especificações
+
+- Processador: AMD Zen 2 de 4 núcleos / 8 threads
+- GPU: AMD RDNA 2
+- RAM: 16GB LPDDR5
+- Armazenamento: 64GB, 256GB ou 512GB NVMe SSD - **Todos os modelos usam a interface M.2 2230** 
+- Tela: 7 polegadas, resolução de 1280x800, taxa de atualização de 60Hz
+- Bateria: 40Whr, 8 a 10 horas de duração da bateria
+- Conectividade: Wi-Fi, Bluetooth 5.0, USB-C com DisplayPort 1.4, saída de áudio de 3,5 mm
+- Sistema operacional: SteamOS 3.0
+
+## Modelos Disponíveis
+
+- Modelo 64 GB
+  - 399.00 USD
+  - Case
+  - Memória eMMC (mais lenta)
+  - Carregador
+
+- Modelo 128 GB
+  - 529.00 USD
+  - Case
+  - Memória NVME (mais rápida)
+  - Exclusivo Steam Community profile bundle
+
+- Modelo 512GB
+  - 649.00 USD
+  - Case exclusiva
+  - Tela anti-reflexo
+  - Memória NVME (mais rápida)
+
+Aqui vale uma informação importante, **TODOS** os modelos do Steam Deck usam o SSD do modelo **M.2 2230**.
+

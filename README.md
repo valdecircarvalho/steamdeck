@@ -18,7 +18,6 @@ Conteúdo sobre Steam Deck em Português compilado e traduzido por [Valdecir Car
   - [Acessórios "Obrigatórios"](#acessórios-obrigatórios)
   - [Especificações](#especificações)
   - [FAQ](#faq)
-  - [Vídeos](#vídeos)
   - [Hardware](#hardware)
   - [Sistemas operacionais](#sistemas-operacionais)
   - [Jogos](#jogos)
@@ -30,7 +29,6 @@ Conteúdo sobre Steam Deck em Português compilado e traduzido por [Valdecir Car
   - [Páginas em inglês](#páginas-em-inglês)
   - [Páginas em português](#páginas-em-português)
   - [Aplicativos](#aplicativos)
-  - [Acessórios](#acessórios)
   - [Links Oficiais](#links-oficiais)
   - [Redes Sociais](#redes-sociais)
       - [Contas no Twitter sobre Steam Deck](#contas-no-twitter-sobre-steam-deck)
@@ -96,6 +94,8 @@ Os preços oficiais da Valve são esses:
   - Tela anti-reflexo
   - Memória NVME (mais rápida)
 
+Aqui vale uma informação importante, **TODOS** os modelos do Steam Deck usam o SSD do modelo **M.2 2230**.
+
 No Brasil você irá conseguir comprar o seu Deck atravez do Mercado Livre, AliExpress e também algumas lojas de games. Google é o seu melhor amigo. Em alguns grupoos do Facebook você irá encontrar pessoas vendendo Steam Deck por valores variados.
 
 Outra forma de conseguir o seu é via importação direta, um amigo que está por lá, empresas de redirecionamento, etc. 
@@ -134,8 +134,6 @@ Veja as [perguntas frequentes do Steam Deck](faq.md) para obter mais informaçõ
 
   - [Steam Deck Help](https://help.steampowered.com/en/wizard/HelpWithSteamDeck)
 
-## Vídeos
-
 
 ## Hardware
 
@@ -158,6 +156,7 @@ Aqui estão alguns sites úteis para acompanhar as notícias sobre o Steam Deck.
 ## Telegram
 
 - Grupo Steam Deck Brasil no Telegram - Link para entrar https://t.me/+53kVjmn5GDBjM2Yx
+- https://t.me/SteamDeckBr
 - 
 ## Grupos no Facebook
 
@@ -191,7 +190,7 @@ Aqui estão alguns sites úteis para acompanhar as notícias sobre o Steam Deck.
 - [Wine](https://www.winehq.org/)
 
 
-## Acessórios
+
 
 
 ## Links Oficiais

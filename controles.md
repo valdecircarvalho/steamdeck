@@ -12,3 +12,5 @@ Dicas sobre a configuração dos controles do Steam Deck.
 + https://www.digitaltrends.com/computing/how-to-customize-controls-on-the-steam-deck/
 + https://www.pcworld.com/article/1364387/the-steam-decks-button-mapper-is-the-best-feature-youre-not-using.html
 + https://www.tomsguide.com/how-to/how-to-customize-your-controller-layout-on-the-steam-deck
++ https://www.lifewire.com/use-external-controllers-on-steam-deck-6544100
++ https://www.lifewire.com/connect-mouse-and-keyboard-to-steam-deck-6544106

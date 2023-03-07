@@ -6,6 +6,8 @@ Existem diversas maneiras de rodar emuladores no seu Steam Deck.
 
 + Instalar cada emulador separadamente
 + Usar o EmuDeck ou outras ferramentas como RetroDeck ou Batocera
+  + [RetroDeck](https://github.com/XargonWan/RetroDECK)/(https://retrodeck.net/)
+  + [Batocera](https://wiki.batocera.org/handheld_pc#steam_deck) - [https://wagnerstechtalk.com/sd-batocera/](esse guia) é muito bom
 
 ----
 ## Parte 1
@@ -241,6 +243,7 @@ Abra o Steam Rom Manager, vá para as configurações à direita e no canto supe
 ### Nintendo Switch
 
 + https://github.com/dragoonDorise/EmuDeck/wiki/Ryujinx
++ https://github.com/icosaswitch
 
 + https://yuzu-emu.org/
 + https://yuzu-emu.org/game/
