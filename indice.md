@@ -1,0 +1,43 @@
+# steamdeck-br
+[steamdeck.valdecir.me](http://steamdeck.valdecir.me)
+- Artigos
+- O Steam Deck
+  - Informações Oficiais
+  - Especificações Técnicas
+  - Modelos
+  - Preços
+  - Acessórios
+  - Qual modelos Comprar?
+  - Links Oficiais
+- Redes Sociais
+  - Twitter
+  - Grupos Facebook
+  - Grupos Telegram
+  - Grupos WhatsApp
+  - Comunidades Reddit
+- Sites & Blogs sobre o Steam Deck
+- Canais de Youtube sobre o Steam Deck
+- Jogos Compatíveis com o Steam Deck
+- Primeiros Passos na Steam
+  - Como criar uma conta Steam para o Steam Deck
+  - Como comprar jogos na Steam
+- Outros sites para comprar jogos Steam
+- Primeiros Passos com o seu novo Steam Deck
+  - Perguntas Frequentes - FAQ
+  - Uso básico e solução de problemas
+  - Software e solução de problemas
+  - Modo Desktop
+  - Configuração de Controles
+  - Controles
+- Windows no Steam Deck
+- Steam Deck Hacks
+- Emulação no Steam Deck
+  - Emudeck
+  - Batocera
+  - Roms
+  - Nintendo Wii
+  - Playstation 2
+  - Playstation 3
+  - Xbox 360
+- Jogos Alternativos no Steam Deck
+- Guias
