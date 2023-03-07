@@ -7,9 +7,10 @@ Existem diversas maneiras de rodar emuladores no seu Steam Deck.
 + Instalar cada emulador separadamente
 + Usar o EmuDeck ou outras ferramentas como RetroDeck ou Batocera
 
+----
 ## Parte 1
 ## O Guia do idiota para Emudeck
-Estou usando o Emudeck como base para este guia, embora existam outras ferramentas como RetroDeck e Batocera. 
+Estou usando o [Emudeck](https://github.com/dragoonDorise/EmuDeck) como base para este guia, embora existam outras ferramentas como RetroDeck e Batocera. 
 As dicas sobre BIOS e ROMs serão basicamente as mesmas, mas podem variar.
 
 O vídeo e o guia de instalação feito pelo Russ do blog Retro Game Corp no site da Emudeck irá guiá-lo através da instalação do Emudeck 2.0.
@@ -145,6 +146,8 @@ Alguns dos arquivos podem estar atrás de um bloqueio. Você precisa criar uma c
 
 É claro que “(inserir sistema) ROMset” também funciona
 
+----
+
 ## Parte 2
 
 ## Guia do idiota para ROMsets para Emudeck
@@ -169,9 +172,46 @@ Para começar, os downloads do Archive.org são extremamente lentos, a menos que
 - Por último, mas não menos importante, conjuntos de [ROMs EBZero](https://archive.org/details/@dischord), especificamente seu [RetroROMs Best Set](https://archive.org/details/retro-roms-best-set), que é de longe o melhor pacote inicial para um entusiasta retrô. Ele também tem pacotes de RPG para os interessados.
 ---
 
+## Parte 3
+## Guia do idiota para Steam Rom Manager para Emudeck
+Então você baixou o Emudeck, pegou seus jogos e agora quer jogá-los. MAS COMO VOCÊ PERGUNTA?!
 
+Bem, você pode seguir uma das duas rotas. Você pode adicioná-los como jogos individuais por meio do Steam Rom Manager ou pode adicionar o Emulation Station, que é um programa front-end empacotado com o Emudeck que abriga todos os seus milhares de ROMS. Neste guia, Steam Rom Manager é como vamos jogar jogos retrô no modo de jogo.
 
----
+## Como é que isso funciona?!
+
+Abra-o indo para o modo de área de trabalho, abrindo o Emudeck, indo para Tools & Stuff e clicando em [Steam Rom Manager](https://github.com/SteamGridDB/steam-rom-manager). Para usar o Steam Rom Manager e editar sua biblioteca Steam, o Steam deve ser fechado, o que o avisará. **Com o Steam fechado, seu botão de clique não funcionará no trackpad, será R2 ou gatilho direito. NÃO ENTRAR EM PÂNICO.** Quando você abrir o Steam novamente, seus controles serão revertidos, mas enquanto você estiver usando o Steam Rom Manager e editando sua biblioteca Steam, o Steam deve ser fechado, então você deve usar o R2 para clicar. Dói mas é verdade. Ou você pode simplesmente usar um mouse.
+
+Depois de abrir o Steam Rom Manager, você verá um monte de 'analisadores' no lado esquerdo da tela. Caso contrário, você não deixou o Emudeck configurar seu Steam Rom Manager. Eu redefiniria sua configuração voltando para Ferramentas e outras coisas, clicando em Guias do emulador e, em seguida, Steam Rom Manager e redefinindo a configuração.
+
+Os dois primeiros analisadores devem ser ‘EmulationStationDE’ e ‘Emulators’. O EmulationStationDE colocará o Emulation Station em sua biblioteca e os emuladores colocarão os emuladores reais em sua biblioteca, como RetroArch, PCSX2, RPCS3, etc. Para colocar ROMS individuais em sua biblioteca Steam, clique no analisador do sistema.
+
+Depois de clicar nos analisadores desejados, clique em visualizar no canto superior esquerdo e gere a visualização do aplicativo na parte inferior. Se você quiser alterar toda a arte das coisas que está importando para sua Biblioteca Steam, altere 'Selecionar tipo' para 'todas as obras de arte' e, em seguida, você pode folhear individualmente e escolher as imagens certas. Quando estiver satisfeito, clique em salvar lista de aplicativos e feche o Steam Rom Manager.
+
+## Estou recebendo um erro aleatório/algo não está funcionando!!!
+
+[Consulte aqui as correções para a maioria das coisas comuns](https://github.com/dragoonDorise/EmuDeck/wiki/steam-rom-manager#precautions), como:
+
++ Socorro, acabei de abrir o Steam ROM Manager e não tenho controles!
++ Por que o Steam ROM Manager não tem analisadores?
++ "Encerre o Steam se estiver em execução"
++ Grandes problemas de coleções de ROM (mais de 1k ROMs)
++ Por que meus jogos não aparecem no Steam ROM Manager?
++ Por que alguns dos meus jogos com vários discos não aparecem no Steam ROM Manager?
++ Fim inesperado da entrada JSON
+
+E também [Como corrigir uma entrada incompatível criando uma exceção no SRM](https://raw.githubusercontent.com/rawdatafeel/Emudeck-GIFS/f38567032581cf61034389e5cd9fe1523c5631b6/GIFs/How%20to%20Fix%20a%20Mismatched%20Entry.gif)
+
+Qualquer outra coisa, eu recomendaria o [Servidor Discord oficial](https://www.reddit.com/r/SteamDeck/comments/v5r7fp/official_emudeck_discord_server/) da Emudeck
+
+**Eu adicionei um monte de coisas e nenhuma delas funciona agora. Como posso simplesmente recomeçar?!**
+
+Abra o Steam Rom Manager, vá para as configurações à direita e no canto superior direito da página diz "Remover todas as entradas de aplicativos adicionadas". Isso remove todos os jogos que você adicionou via SRM.
+
+- [Comunidade Emudeck no Reddit](https://www.reddit.com/r/EmuDeck)
+- [Steam Rom Manager](https://steamgriddb.github.io/steam-rom-manager/)
+- [Emudeck Wiki](https://github.com/dragoonDorise/EmuDeck/wiki)
+----
 
 ## Coleção de Links (para arrumar)
 + https://retrogamecorps.com/2022/10/16/steam-deck-emulation-starter-guide/
