@@ -253,6 +253,7 @@ Aqui estão alguns sites úteis para acompanhar as notícias sobre o Steam Deck.
 
 ## Guias
 
++ https://www.steamdecklinux.com/
 
 + https://www.reddit.com/r/SteamDeck/wiki/guides/
 
@@ -302,6 +303,7 @@ Aqui estão alguns sites úteis para acompanhar as notícias sobre o Steam Deck.
 + https://store.steampowered.com/news/app/1675200/view/3131696199122435099
 
 + https://help.steampowered.com/en/faqs/view/6121-eccd-d643-baa8
++ https://www.reddit.com/r/SteamDeck/comments/vbpjoc/windows_11_tips_and_tricks_debloat_os_40hz_screen/
 
 ## Reddit
 
