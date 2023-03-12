@@ -1,4 +1,4 @@
-# steamdeck-br - Guia do Steam Deck em Português
+# Guia do Steam Deck em Português
 [steamdeck.valdecir.me](http://steamdeck.valdecir.me)
 
 _Última atualização: 2023-03-12_
@@ -14,7 +14,7 @@ Esse é um trabalho que está em construção e em constante atualização. Volt
 **ATENÇÃO: TODOS OS LINKS AQUI IRÃO ABRIR AUTOMATICAMENTE NA MESMA ABA, PARA MANTER ESSA PÁGINA ABERTA, CLIQUE NO LINK COM A TECLA CRTL APERTADA**
 
 ----
-- [steamdeck-br - Guia do Steam Deck em Português](#steamdeck-br---guia-do-steam-deck-em-português)
+- [Guia do Steam Deck em Português](#guia-do-steam-deck-em-português)
 - [O Steam Deck](#o-steam-deck)
   - [O que é o Steam Deck?](#o-que-é-o-steam-deck)
   - [Informações Oficiais](#informações-oficiais)
