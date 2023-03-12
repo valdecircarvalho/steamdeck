@@ -50,9 +50,10 @@ O Steam Deck é um dispositivo portátil de jogos desenvolvido pela Valve. É um
 
 ## Informações Oficiais
 
-- [Página do produto Steam Deck](https://www.steamdeck.com/en/)
+- [Página do produto Steam Deck em Inglês](https://www.steamdeck.com/en/)
+- [Página do produto Steam Deck em Português de Portugal](https://www.steamdeck.com/pt/)
 
-## Especificações
+## Especificações técnicas
 
 - Processador: AMD Zen 2 de 4 núcleos / 8 threads
 - GPU: AMD RDNA 2
@@ -83,5 +84,9 @@ O Steam Deck é um dispositivo portátil de jogos desenvolvido pela Valve. É um
   - Tela anti-reflexo
   - Memória NVME (mais rápida)
 
-Aqui vale uma informação importante, **TODOS** os modelos do Steam Deck usam o SSD do modelo **M.2 2230**.
+Aqui vale uma informação importante, **TODOS** os modelos do Steam Deck usam o SSD do modelo **M.2 2230** como da imagem abaixo.
+![SSD M.2 2230](ssd-m2-2230.jpg)
+
+Aqui uma imagem com os principais modelos de SSD M.2 disponíveis no mercado, o maior, modelo **2280** é o mais utilizado notebooks e PCs e o mais barato e faacilmente encontrados nos sites de e-commerce do Brasil. Esse modelo **NÃO É COMPATÍVEL COM O STEAM DECK**!
+![Modelos de SSD M.2](ssd-m2-modelos.png)
 

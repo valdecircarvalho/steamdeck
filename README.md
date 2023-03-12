@@ -63,7 +63,7 @@ Conteúdo sobre Steam Deck em Português compilado e traduzido por [Valdecir Car
 
 ## O que é o Steam Deck?
 
-O Steam Deck é um dispositivo portátil de jogos desenvolvido pela Valve. É uma plataforma de jogos portátil que permite que os jogadores joguem seus jogos do Steam em qualquer lugar. O dispositivo tem um design semelhante ao de um console portátil, com uma tela sensível ao toque de 7 polegadas, botões de controle, joystick analógico, trackpads, alto-falantes estéreo e uma bateria de longa duração. Ele também é executado no sistema operacional SteamOS da Valve, que foi projetado especificamente para jogos.
+O Steam Deck é um dispositivo portátil de jogos desenvolvido pela Valve. É uma plataforma de jogos portátil que permite que os jogadores joguem seus jogos do Steam em qualquer lugar. O dispositivo tem um design semelhante ao de um console portátil, com uma tela sensível ao toque de 7 polegadas, botões de controle, joystick analógico, trackpads, alto-falantes estéreo e uma bateria de longa duração. O Steam Deck usa por padrão o sistema operacional SteamOS da Valve, que foi projetado especificamente para jogos, mas como qualquer PC, pode rodar Windows e outras distribuições de Linux.
 
 ## Informações Oficiais
 
@@ -112,7 +112,8 @@ Eu comprei o modelo de 64Gb justamente por causa disso, mas após um tempo com o
 
 Considere também comprar:
 
-- Dock USB
+- Dock USB - Uma dock USB-C vai permitir que você expanda as portas do Steam Deck - que conta apenas como uma entrada USC-C - abrindo possibilidades de expanção, adicionar teclado, mouse, um monitor externo, entrada ethernet, etc. A própria Valve lançou um dock station oficial para o Steam Deck. 
+  - [Steam Deck Dock Oficial](https://www.steamdeck.com/en/dock) - [mais informações aqui](https://store.steampowered.com/steamdeckdock)
 - Carregador USC-C de no mínimo 45W
 - SD Card 256GB ou 512GB
 - 
