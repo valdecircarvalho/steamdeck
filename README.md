@@ -58,6 +58,7 @@ Para **contribuir com o Guia do Steam Deck**, você pode criar um [issue](https:
       - [Sites para Download de Roms](#sites-para-download-de-roms)
     - [Parte 2 - Guia do idiota para ROMsets para Emudeck](#parte-2---guia-do-idiota-para-romsets-para-emudeck)
       - [No-Intro vs Redump vs Tosec vs Trurip vs GoodSets/GoodTools](#no-intro-vs-redump-vs-tosec-vs-trurip-vs-goodsetsgoodtools)
+      - [Links para downloads de RomSets](#links-para-downloads-de-romsets)
     - [Parte 3 -](#parte-3--)
     - [Packs completos de Emuladores](#packs-completos-de-emuladores)
   - [Mais sobre emulação](#mais-sobre-emulação)
@@ -657,6 +658,8 @@ Os downloads do Archive.org são extremamente lentos, a menos que você use um g
 
 
 Abaixo alguns links onde você pode baixar roms sets completos de cada console ou sistema.
+
+#### Links para downloads de RomSets
 
 - [ROMset da RetroAchievement](https://archive.org/details/retroachievements_collection_v5) -  Ótima comunidade que adiciona conquistas a jogos retrô. Existe até um para [jogos de PS2](https://archive.org/details/retroachievements_collection_PS2). Cada jogo neste conjunto tem o hash certo para corresponder a um conjunto da RetroAchievement. Se você compactar o arquivo, talvez não seja mais possível usar o RetroAchievements para esse arquivo. Os arquivos aqui são constantemene atualizados. Verifique sempre.
 
