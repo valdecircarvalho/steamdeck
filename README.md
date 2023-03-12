@@ -42,7 +42,8 @@ Conteúdo sobre Steam Deck em Português compilado e traduzido por [Valdecir Car
   - [Steam Deck Hacks \& Utilitários](#steam-deck-hacks--utilitários)
   - [Emulação no Steam Deck](#emulação-no-steam-deck)
   - [Parte 1 - O Guia do idiota para Emudeck](#parte-1---o-guia-do-idiota-para-emudeck)
-    - [Quais emuladores eu quero?!](#quais-emuladores-eu-quero)
+    - [Links úteis do Emudeck](#links-úteis-do-emudeck)
+    - [Os Emuladores](#os-emuladores)
     - [Onde encontro os arquivos do BIOS?!](#onde-encontro-os-arquivos-do-bios)
     - [Onde coloco os arquivos da BIOS?!](#onde-coloco-os-arquivos-da-bios)
     - [Como faço para verificar se tenho o arquivo BIOS correto no lugar certo?!](#como-faço-para-verificar-se-tenho-o-arquivo-bios-correto-no-lugar-certo)
@@ -453,55 +454,56 @@ Esse guia em 3 partes foi traduzido e adaptado dos textos publicado no Reddit pe
 
 ## Parte 1 - O Guia do idiota para Emudeck
 Estou usando o [Emudeck](https://github.com/dragoonDorise/EmuDeck) como base para este guia, embora existam outras ferramentas como RetroDeck e Batocera. 
-As dicas sobre BIOS e ROMs serão basicamente as mesmas, mas podem variar.
+As dicas sobre BIOS e ROMs serão basicamente as mesmas, mas podem variar de plataforma para plataforma.
 
-O vídeo e o guia de instalação feito pelo Russ do blog Retro Game Corp no site da Emudeck irá guiá-lo através da instalação do Emudeck 2.0.
+Em breve, pretendo atualizar essa página com guias para outros sistemas.
 
-[Este outro guia](https://wagnerstechtalk.com/sd-emudeck/) escrito por Wagnerstechtalk também é incrivelmente útil
+A instalação do Emudeck é bem simples e direta. O vídeo e o guia de instalação feito pelo Russ do blog Retro Game Corp no site da Emudeck irá guiá-lo através da instalação do Emudeck 2.0
 
-### Quais emuladores eu quero?!
+[Guia de Instalação do Emudeck no site oficial](https://www.emudeck.com/#how_to_install)
 
-+ **RetroArch** vai emular Atari, NES, SNES, DS, N64, Sega Genesis, Neo Geo, Saturn, Dreamcast, GB, GBA, GBC e muitos outros
+- Se você planeja armazenar suas roms em um cartão SD, antes você deve formatar seu cartão SD pelo Steam (Botão Steam > Definições > Sistema > Formatar cartão SD. Este processo poderá demorar alguns minutos). O cartão SD precisa estar no formato ext4 (ou btrfs) para funcionar no EmuDeck. 
+- Em seguida, vá para o modo Desktop pressionando o botão STEAM, Power -> Switch to Desktop
+- Abra o navegador e faça o download do instalador utilizando o [link](https://www.emudeck.com/EmuDeck.desktop) e salve o arquivo no desktop/area de trabalho do Deck
+- Execute o arquivo com 2 cliques e siga os passos da instalação
 
-+ **Dolphin** é o emulador padrão para Nintendo GameCube e Nintendo Wii
+### Links úteis do Emudeck
 
-+ **Prime Hacks** é um fork do Dolphin para Metroid Prime Wii Trilogy
+- [Site oficial Emudeck](https://www.emudeck.com/)
+- [Emudeck - How to Install](https://www.emudeck.com/#how_to_install)
+- [Emudeck - FAQ](https://www.emudeck.com/#faqs)
+- [Guia Emudeck - Retro Game Corps](https://retrogamecorps.com/2022/10/16/steam-deck-emulation-starter-guide/)
+- [Guia Emudeck -  Wagner's Tech Talk](https://wagnerstechtalk.com/sd-emudeck/) 
 
-+ **PPSSPP** é o emulador para Sony PSP
+### Os Emuladores
 
-+ Duckstation é o emulador para Sony Playstation 1/PS1
-
-+ Citra é o emulador para Nintendo 3DS
-
-+ MelonDS é o emulador para Nintendo DS
-
-+ PCSX2 é o emulador para Sony Playstation 2/PS2
-
-+ RPCS3 é o emulador para Sony Playstation 3/PS3
-
-+ Yuzu e Ryujinx são ambos Nintendo Switch (não vou entrar nessa emulação)
-
-+ Xemu é o emulador para OG Xbox
-
-+ CEMU é o emulador para o Nintendo WII U
-
-+ MAME é o emulador de fliperama
-
-+ VITA3K é o emulador para Playstation Vita
-
-+ SCUMMVM é o emulador para PC de jogos apontar e clicar (_point & click_) em aventuras como as antigas da LucasArts (Monkey Island, Full Throttle, Indiana Jones and the Fate of Atlantis)
+- **RetroArch** vai emular Atari, NES, SNES, DS, N64, Sega Genesis, Neo Geo, Saturn, Dreamcast, GB, GBA, GBC e muitos outros
+- **Dolphin** é o emulador padrão para Nintendo GameCube e Nintendo Wii
+- **Prime Hacks** é um fork do Dolphin para Metroid Prime Wii Trilogy
+- **PPSSPP** é o emulador para Sony PSP
+- **Duckstation** é o emulador para Sony Playstation 1/PS1
+- **Citra** é o emulador para Nintendo 3DS
+- **MelonDS** é o emulador para Nintendo DS
+- **PCSX2** é o emulador para Sony Playstation 2/PS2
+- **RPCS3** é o emulador para Sony Playstation 3/PS3
+- **Yuzu** e **Ryujinx** são ambos Nintendo Switch
+- **Xemu** é o emulador para OG Xbox
+- **CEMU** é o emulador para o Nintendo WII U
+- **MAME** é o emulador de jogos de fliperama
+- **VITA3K** é o emulador para Playstation Vita
+- **SCUMMVM** é o emulador para PC de jogos apontar e clicar (_point & click_) em aventuras como as antigas da LucasArts (Monkey Island, Full Throttle, Indiana Jones and the Fate of Atlantis)
 
 ### Onde encontro os arquivos do BIOS?!
 
-E é aqui que todos os outros guias param devido a temores de “violação de direitos autorais”, dos quais BIOS e ROMs se enquadram diretamente. Mas não este guia porque somos todos adultos e sabemos sobre abandonware. Tem todos os links para você começar e todos eles estão no GitHub, archive.org, Vimm's Lair (site de ROM confiável) ou no site oficial do PlayStation.
+E é aqui que todos os outros guias param devido a temores de “violação de direitos autorais”, dos quais BIOS e ROMs se enquadram diretamente. Mas não este guia porque somos todos adultos e sabemos sobre abandonware. Aqui você irá encontrar todos os links para você começar e todos eles estão no GitHub, archive.org, Vimm's Lair (site de ROM confiável) ou no site oficial do PlayStation. 
 
-Não vou entrar na emulação do Switch.
+_Estou organizando os arquivos para disponibilizá-los aqui em um futuro muito breve_
 
-BIOS RetroArch completo ([link do GitHub](https://github.com/Abdess/retroarch_system) ou [link alternativo]() direto do meu site)
+- BIOS RetroArch completo ([link do GitHub](https://github.com/Abdess/retroarch_system) ou [link alternativo]() direto do meu site)
 
-Arquivos de BIOS do XBox ([link archive.org](https://archive.org/details/xemustarter) ou [link alternativo]() direto do meu site))
+- Arquivos de BIOS do XBox ([link archive.org](https://archive.org/details/xemustarter) ou [link alternativo]() direto do meu site))
 
-Firmware PS3 ([site oficial da Sony](https://www.playstation.com/en-us/support/hardware/ps3/system-software/) ou [link alternativo]() direto do meu site)) 
+- Firmware PS3 ([site oficial da Sony](https://www.playstation.com/en-us/support/hardware/ps3/system-software/) ou [link alternativo]() direto do meu site)) 
 
 ### Onde coloco os arquivos da BIOS?!
 
@@ -663,6 +665,8 @@ Abra o Steam Rom Manager, vá para as configurações à direita e no canto supe
   - ### Microsoft Xbox
   - ### Sony Playstation 3
   - ### Sony Playstation 2
+  - ### Sony Playstation 2
+  - ### Sony PSP
   - ### Sony Playstation Vita
   - ### Android
 
