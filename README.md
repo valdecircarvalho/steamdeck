@@ -1,4 +1,4 @@
-# Guia do Steam Deck em Português
+# O Guia do Steam Deck em Português
 [steamdeck.valdecir.me](http://steamdeck.valdecir.me)
 
 _Última atualização: 2023-03-12_
@@ -9,14 +9,14 @@ Conteúdo sobre Steam Deck em Português compilado e traduzido por [Valdecir Car
 
 > Recentemente (20/01/2023) comprei um Steam Deck e depois disso comecei a procurar conteúdo sobre o console da Valve em Português e não encontrei muita coisa, por isso, resolvi criar essa pagina para compilar links e recursos sobre o Steam Deck em PT-BR e em Inglês ao qual pretendo ir traduzindo para o Português.
 
-Esse trabalho está em construção e em constante atualização. Volte sempre para ver as novidades.
+Esse trabalho está em _**construção**_ e em _**constante atualização**_. Volte sempre para ver as novidades.
 
-Para contribuir com o Guia do Steam Deck, você pode criar um [issue](https://github.com/valdecircarvalho/steamdeck-br/issues) no repositório do Guihub ou me mandar uma mensagem pelas minhas [redes sociais](https://iamval.me). Esse é um trabalho colaborativo e toda ajuda será bem vinda.
+Para contribuir com o Guia do Steam Deck, você pode criar um [issue](https://github.com/valdecircarvalho/steamdeck-br/issues) no repositório do github ou me mandar uma mensagem pelas minhas [redes sociais](https://iamval.me). Esse é um _**trabalho colaborativo**_ e toda ajuda será bem vinda.
 
 **ATENÇÃO: TODOS OS LINKS AQUI IRÃO ABRIR AUTOMATICAMENTE NA MESMA ABA, PARA MANTER ESSA PÁGINA ABERTA, CLIQUE NO LINK SEGURANDO A TECLA CRTL**
 
 ----
-- [Guia do Steam Deck em Português](#guia-do-steam-deck-em-português)
+- [O Guia do Steam Deck em Português](#o-guia-do-steam-deck-em-português)
 - [O Steam Deck](#o-steam-deck)
   - [O que é o Steam Deck?](#o-que-é-o-steam-deck)
   - [Informações Oficiais](#informações-oficiais)
@@ -56,10 +56,6 @@ Para contribuir com o Guia do Steam Deck, você pode criar um [issue](https://gi
       - [Como faço para verificar se tenho o arquivo BIOS correto no lugar certo?!](#como-faço-para-verificar-se-tenho-o-arquivo-bios-correto-no-lugar-certo)
       - [Agora, onde consigo jogos ou ROMS?](#agora-onde-consigo-jogos-ou-roms)
       - [Sites para Download de Roms](#sites-para-download-de-roms)
-    - [Parte 2 - Guia do idiota para ROMsets para Emudeck](#parte-2---guia-do-idiota-para-romsets-para-emudeck)
-    - [Parte 3 - Guia do idiota para Steam Rom Manager para Emudeck](#parte-3---guia-do-idiota-para-steam-rom-manager-para-emudeck)
-      - [Como é que isso funciona?!](#como-é-que-isso-funciona)
-      - [Estou recebendo um erro aleatório/algo não está funcionando!!!](#estou-recebendo-um-erro-aleatórioalgo-não-está-funcionando)
     - [Packs completos de Emuladores](#packs-completos-de-emuladores)
   - [Mais sobre emulação](#mais-sobre-emulação)
   - [Como rodar jogos alternativos no Steam Deck](#como-rodar-jogos-alternativos-no-steam-deck)
@@ -207,8 +203,11 @@ Considere também comprar os seguintes acessórios para o seu Steam Deck:
   - [Steam Deck Dock Oficial](https://www.steamdeck.com/en/dock) - [mais informações aqui](https://store.steampowered.com/steamdeckdock)
   - Existem diversas outra opções de dock station no Mercado Livre e no AliExpress. Procure uma marca de qualidade.
   - Eu comprei um Hub USB-C 6x1 da [Baseus](https://baseusbr.com/produtos/hub-adaptador-4-5-6-8-em-1-multifuncional-4k-hdmi-tipo-c/) no [Mercado Livre](https://produto.mercadolivre.com.br/MLB-1974737985-adaptador-dock-thunderbolt3-usb-c-hdmi-p-macbook-air-pro-m1-_JM?quantity=1), funciona muito bem e até agora não tive nenhum problema.
+  ![Hub USB Baseus 6x1 para o Steam Deck](usb-c-hub-baseus-para-steam-deck.png) 
   - Nesse [video](https://www.youtube.com/watch?v=e2d57mPVV6w) do Retro Game Corps (em Inglês) ele faz um comparativo entre algumas marcas (Valve vs JSAUX vs iVoler)
-- **Carregador USC-C de no mínimo 45W** - O carregador oficial funciona muito bem, mas caso você compre a versão americana, o carregador virá com o padrão US (aquelas duas chapinhas) e você vai precisar de um adaptador. Eu recomendo que você compre um outro carregador USB-C de no mínimo 45W e com carregamento rápido. Eu comprei um carregador [rápido de 65W da Baseus](https://baseusbr.com/produtos/carregador-65w-gan-usb-tipo-c/) no [Mercado Livre](https://produto.mercadolivre.com.br/MLB-2028560120-carregador-baseus-65w-macbook-pro-air-m1-turbo-2x-type-c-usb-_JM#position=4&search_layout=stack&type=item&tracking_id=5cfbafd1-8c6e-450c-81f0-08a7fe1be11d) e funciona muito bem
+
+- **Carregador USC-C de no mínimo 45W** - O carregador oficial funciona muito bem, mas caso você compre a versão americana, o carregador virá com o padrão US (aquelas duas chapinhas) e você vai precisar de um adaptador. Eu recomendo que você compre um outro carregador USB-C de no mínimo 45W e com carregamento rápido. Eu comprei um carregador [rápido de 65W da Baseus](https://baseusbr.com/produtos/carregador-65w-gan-usb-tipo-c/) no [Mercado Livre](https://produto.mercadolivre.com.br/MLB-2028560120-carregador-baseus-65w-macbook-pro-air-m1-turbo-2x-type-c-usb-_JM#position=4&search_layout=stack&type=item&tracking_id=5cfbafd1-8c6e-450c-81f0-08a7fe1be11d) e funciona muito bem.
+
 - **SD Card** de 256GB ou 512GB ou ainda 1Tb. Procure comprar um SD Card **ORIGINAL** e de procedência. O tamanho vai depender principalmente do seu bolso e também da disponibilidade. 
 
 No Brasil, um SD Card original e de qualidade não sai por menos do que R$800-R$1000 reais. Menos do que isso, pode estar certo de que é pirata.
@@ -220,6 +219,7 @@ O blog RockPaperShotgun fez um [comparativo bem bacana](https://www.rockpapersho
 Outro artigo bacana sobre SD Cards você encontra [aqui](https://www.dexerto.com/tech/best-microsd-card-for-steam-deck-1931237/), no site [Dexerto.com](https://www.dexerto.com/search/?query=Steam+Deck)
 
 - **SSD M.2 2230** - Se você optou por comprar a versão de 64GB, o upgrade do SSD é quase obrigatório se você quiser armazenar muitos jogos no seu Steam Deck. Existem diversos modelos e marcas de SSD no mercado. No Brasil, não encontrei SSDs de 1TB para vender, mas sei que no AliExpress é um dos melhores lugar para comprar.
+  
 - **Powerbank** - Considere também comprar um powerbank para prolongar a bateria do seu Steam Deck quando você estiver longe de uma tomada.
 
 ---- 
@@ -303,25 +303,22 @@ Outro artigo bacana sobre SD Cards você encontra [aqui](https://www.dexerto.com
 - [r/EmuDeck](https://www.reddit.com/r/EmuDeck/)
 
 ### Steam Deck no Github
-+ https://github.com/SteamDeckHomebrew/decky-loader
-+ https://github.com/mikeroyal/Steam-Deck-Guide
-+ https://github.com/CryoByte33/steam-deck-utilities
-+ https://github.com/ayufan/steam-deck-tools
-+ https://github.com/nchristopher/steamdeck-emulation
-+ https://github.com/mKenfenheuer/steam-deck-windows-usermode-driver
-+ https://github.com/scawp/Steam-Deck.Mount-External-Drive
-+ https://github.com/DeckWizard/steamdeck_dualboot
-+ https://github.com/CelesteHeartsong/SteamDeckAutomatedInstall
-+ https://github.com/cptpiepmatz/great-on-deck-search
-+ https://github.com/steamdeck-linux/wiki
-+ https://github.com/ryanrudolfoba/SteamDeck-Clover-dualboot
-+ https://github.com/matthewbarreiro/awesome-steam-deck
-+ https://github.com/baldsealion/Steamdeck-Ultimate-Windows11-Guide
-+ https://github.com/brenoprata10/steam-deck-romate
-+ https://github.com/ryanrudolfoba/PlayniteScriptsForSteamDeck
-+ https://github.com/mKenfenheuer/steam-deck-windows-usermode-driver
-+ https://github.com/CapitaineJSparrow/steam-repo-manager
-+ https://github.com/wilco42/awesome-steamdeck
+**_Em construção_**
+
++ [A plugin loader for the Steam Deck.](https://github.com/SteamDeckHomebrew/decky-loader)
++ [Steam Deck Guide](https://github.com/mikeroyal/Steam-Deck-Guide)
++ [A utility to improve performance and help manage storage on Steam Deck](https://github.com/CryoByte33/steam-deck-utilities)
++ [(Windows) Steam Deck Tools](https://github.com/ayufan/steam-deck-tools)
++ [ Guide to play emulated games on Steam Deck](https://github.com/nchristopher/steamdeck-emulation)
++ [A windows usermode controller driver for the steam deck internal controller.](https://github.com/mKenfenheuer/steam-deck-windows-usermode-driver)
++ [A Script to (Un)Mount and Setup Auto-Mount for an External USB SSD on the Steam Deck](https://github.com/scawp/Steam-Deck.Mount-External-Drive)
++ [jlobue10 Steam Deck rEFInd Script altered with a few tweaks](https://github.com/DeckWizard/steamdeck_dualboot)
++ [SteamDeckAutomatedInstall](https://github.com/CelesteHeartsong/SteamDeckAutomatedInstall)
++ [Script to install Clover - a graphical boot manager for the Steam Deck.](https://github.com/ryanrudolfoba/SteamDeck-Clover-dualboot)
++ [A curated list of software and hardware for Valve's Steam Deck!](https://github.com/matthewbarreiro/awesome-steam-deck)
++ [Steam Deck Rom Manager](https://github.com/brenoprata10/steam-deck-romate)
++ [A windows usermode controller driver for the steam deck internal controller.](https://github.com/mKenfenheuer/steam-deck-windows-usermode-driver)
++ [A collection of awesome things regarding Valve's Steam Deck](https://github.com/wilco42/awesome-steamdeck)
 
 ----
 ## Sites & Blogs sobre o Steam Deck
@@ -418,12 +415,12 @@ Os jogos comprados na loja da Steam, estão sempre com os valores em Reais e voc
 
 Você também pode comprar jogos Steam (chaves de jogos) em outros sites e geralmente com algum desconto em relação a loja oficial e pagando em Reais.
 
-- https://www.fanatical.com/
-- https://www.eneba.com/br/
-- https://www.nuuvem.com/br-en/
-- https://gg.deals/deals/steam-deals/
-- https://steamdb.info/sales/
-- https://steamdb.info/sales/history/
+- [Fanatical](https://www.fanatical.com/)
+- [Eneba](https://www.eneba.com/br/)
+- [Nuuvem](https://www.nuuvem.com/br-en/)
+- [GG Deals - Steam Deals](https://gg.deals/deals/steam-deals/)
+- [SteamDB Sales](https://steamdb.info/sales/)
+- [SteamDB Sales - Novidades](https://steamdb.info/sales/history/)
 
 ---
 ## Primeiros Passos na Steam
@@ -461,15 +458,8 @@ Use uma senha forte e também o app do Steam Guard no seu celular para garantir 
 ## Windows no Steam Deck
 **_Em construção_**
 
-- https://www.dexerto.com/tech/install-windows-steam-deck-1970155/
-- https://gamerant.com/guide-install-windows-steam-deck/
-- https://www.digitaltrends.com/computing/how-to-install-windows-steam-deck/
-- https://wagnerstechtalk.com/sd-windows/
-- https://www.thegamer.com/steam-deck-windows-how-to-install-guide/
-- https://steamdeckhq.com/tips-and-guides/install-windows-10-11-on-steam-deck/
-- https://store.steampowered.com/news/app/1675200/view/3131696199122435099
-- https://help.steampowered.com/en/faqs/view/6121-eccd-d643-baa8
-- https://www.reddit.com/r/SteamDeck/comments/vbpjoc/windows_11_tips_and_tricks_debloat_os_40hz_screen/
+- [Steam Deck Ultimate Windows Guide](https://baldsealion.github.io/Steam-Deck-Ultimate-Windows-Guide/)
+
 
 ----
 ## Steam Deck Hacks & Utilitários
@@ -618,63 +608,6 @@ A outra coisa é que os downloads do archive.org são extremamente lentos, a men
 Na parte 2 voltaremos a falar mais sobre Roms e Romsets para o Emudeck.
 
 ----
-
-### Parte 2 - Guia do idiota para ROMsets para Emudeck
-Então você baixou e instalou o Emudeck em seu novo e brilhante Steam Deck e agora está pensando “Sou tão preguiçoso, só quero um monte de jogos de uma só vez para um sistema”. Você está com sorte! Tenho links e termos de pesquisa para ajudá-lo.
-
-Não estou garantindo absolutamente todos os links aqui, mas o archive.org verifica se há vírus antes do upload. Não clique em um arquivo .exe, pois nenhuma ROM está nesse formato.
-
-Para começar, os downloads do Archive.org são extremamente lentos, a menos que você use um gerenciador de downloads. Na loja Discover, há um programa chamado Free Download Manager que funciona muito bem. Basta arrastar o arquivo de archive.org para o programa e ele acelerará consideravelmente o download.
-
-- [ROMset da RetroAchievement](https://archive.org/details/retroachievements_collection_v5) -  Ótima comunidade que adiciona conquistas a jogos retrô. Existe até um para [jogos de PS2](https://archive.org/details/retroachievements_collection_PS2). Cada jogo neste conjunto tem o hash certo para corresponder a um conjunto da RetroAchievement. Se você compactar o arquivo, talvez não seja mais possível usar o RetroAchievements para esse arquivo.
-
-- [1G1R ROMset Conjuntos 1G1R](https://archive.org/details/hearto-1g1r-collection) - significam 1 Jogo 1 ROM. Sem duplicatas ou várias versões do mesmo jogo. Este ROMset tem vários sistemas, mas obviamente não todos.
-
-- [No-Intro ROMsets](https://archive.org/details/no-intro_romsets) e [ReDump ROMsets](https://archive.org/details/redump) - No-Intro e ReDump são os dois principais dumps confiáveis de jogos. Este conjunto específico de No-Intro exige que você crie uma conta para acessá-lo, o que você definitivamente deve fazer, mas também pode pesquisar apenas “No-intro” ou “Redump”.
-
-- [Cylum ROMsets](https://archive.org/search?query=creator%3A%22Cylum%22)  - Excelentes ROMsets para a maioria dos sistemas. Ainda tem traduções e hacks em pastas separadas.
-
-- [Ghostware ROMsets](https://archive.org/search?query=creator%3A%22Ghostware%22) Uma variedade enorme de ótimos ROMsets. Bem rotulado e mantido.
-
-- [Emuvault ROMsets](https://archive.org/search?query=creator%3A%22EmuVault%22) -  O mesmo que o de cima.
-
-- Por último, mas não menos importante, conjuntos de [ROMs EBZero](https://archive.org/details/@dischord), especificamente seu [RetroROMs Best Set](https://archive.org/details/retro-roms-best-set), que é de longe o melhor pacote inicial para um entusiasta retrô. Ele também tem pacotes de RPG para os interessados.
----
-
-### Parte 3 - Guia do idiota para Steam Rom Manager para Emudeck
-Então você baixou o Emudeck, pegou seus jogos e agora quer jogá-los. MAS COMO VOCÊ PERGUNTA?!
-
-Bem, você pode seguir uma das duas rotas. Você pode adicioná-los como jogos individuais por meio do Steam Rom Manager ou pode adicionar o Emulation Station, que é um programa front-end empacotado com o Emudeck que abriga todos os seus milhares de ROMS. Neste guia, Steam Rom Manager é como vamos jogar jogos retrô no modo de jogo.
-
-#### Como é que isso funciona?!
-
-Abra-o indo para o modo de área de trabalho, abrindo o Emudeck, indo para Tools & Stuff e clicando em [Steam Rom Manager](https://github.com/SteamGridDB/steam-rom-manager). Para usar o Steam Rom Manager e editar sua biblioteca Steam, o Steam deve ser fechado, o que o avisará. **Com o Steam fechado, seu botão de clique não funcionará no trackpad, será R2 ou gatilho direito. NÃO ENTRAR EM PÂNICO.** Quando você abrir o Steam novamente, seus controles serão revertidos, mas enquanto você estiver usando o Steam Rom Manager e editando sua biblioteca Steam, o Steam deve ser fechado, então você deve usar o R2 para clicar. Dói mas é verdade. Ou você pode simplesmente usar um mouse.
-
-Depois de abrir o Steam Rom Manager, você verá um monte de 'analisadores' no lado esquerdo da tela. Caso contrário, você não deixou o Emudeck configurar seu Steam Rom Manager. Eu redefiniria sua configuração voltando para Ferramentas e outras coisas, clicando em Guias do emulador e, em seguida, Steam Rom Manager e redefinindo a configuração.
-
-Os dois primeiros analisadores devem ser ‘EmulationStationDE’ e ‘Emulators’. O EmulationStationDE colocará o Emulation Station em sua biblioteca e os emuladores colocarão os emuladores reais em sua biblioteca, como RetroArch, PCSX2, RPCS3, etc. Para colocar ROMS individuais em sua biblioteca Steam, clique no analisador do sistema.
-
-Depois de clicar nos analisadores desejados, clique em visualizar no canto superior esquerdo e gere a visualização do aplicativo na parte inferior. Se você quiser alterar toda a arte das coisas que está importando para sua Biblioteca Steam, altere 'Selecionar tipo' para 'todas as obras de arte' e, em seguida, você pode folhear individualmente e escolher as imagens certas. Quando estiver satisfeito, clique em salvar lista de aplicativos e feche o Steam Rom Manager.
-
-#### Estou recebendo um erro aleatório/algo não está funcionando!!!
-
-[Consulte aqui as correções para a maioria das coisas comuns](https://github.com/dragoonDorise/EmuDeck/wiki/steam-rom-manager#precautions), como:
-
-+ Socorro, acabei de abrir o Steam ROM Manager e não tenho controles!
-+ Por que o Steam ROM Manager não tem analisadores?
-+ "Encerre o Steam se estiver em execução"
-+ Grandes problemas de coleções de ROM (mais de 1k ROMs)
-+ Por que meus jogos não aparecem no Steam ROM Manager?
-+ Por que alguns dos meus jogos com vários discos não aparecem no Steam ROM Manager?
-+ Fim inesperado da entrada JSON
-
-E também [Como corrigir uma entrada incompatível criando uma exceção no SRM](https://raw.githubusercontent.com/rawdatafeel/Emudeck-GIFS/f38567032581cf61034389e5cd9fe1523c5631b6/GIFs/How%20to%20Fix%20a%20Mismatched%20Entry.gif)
-
-Qualquer outra coisa, eu recomendaria o [Servidor Discord oficial](https://www.reddit.com/r/SteamDeck/comments/v5r7fp/official_emudeck_discord_server/) da Emudeck
-
-**Eu adicionei um monte de coisas e nenhuma delas funciona agora. Como posso simplesmente recomeçar?!**
-
-Abra o Steam Rom Manager, vá para as configurações à direita e no canto superior direito da página diz "Remover todas as entradas de aplicativos adicionadas". Isso remove todos os jogos que você adicionou via SRM.
 
 - [Comunidade Emudeck no Reddit](https://www.reddit.com/r/EmuDeck)
 - [Steam Rom Manager](https://steamgriddb.github.io/steam-rom-manager/)
