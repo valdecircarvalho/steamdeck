@@ -63,6 +63,7 @@
     - [Grupos WhatsApp](#grupos-whatsapp)
     - [Communidades Reddit](#communidades-reddit)
   - [Sites \& Blogs sobre o Steam Deck](#sites--blogs-sobre-o-steam-deck)
+  - [Outro Sites sobre o Steam Deck](#outro-sites-sobre-o-steam-deck)
   - [Canais de Youtube sobre o Steam Deck](#canais-de-youtube-sobre-o-steam-deck)
 
 ----
@@ -298,9 +299,36 @@ O blog RockPaperShotgun fez um [comparativo bem bacana](https://www.rockpapersho
 - [steamdeckhq.com](https://steamdeckhq.com/)
 - [steamdecklife.com](https://steamdecklife.com/)
 - [overkill.wtf](https://overkill.wtf/tag/steam-deck/)
+
+----
+## Outro Sites sobre o Steam Deck
+- [Awesome Steam Deck by @matthewbarreiro](https://github.com/matthewbarreiro/awesome-steam-deck)
+- [Awesome Steam Deck by @mikeroyal](https://github.com/mikeroyal/Steam-Deck-Guide)
+- [GamingOnLinux](https://www.gamingonlinux.com/) - Cobertura de jogos de Linux em geral, com foco especial no Steam Deck.
+- [Boiling Steam](https://boilingsteam.com/) - Cobertura de jogos de Linux em geral, com foco especial no Steam Deck.
+- [ProtonDB](https://www.protondb.com/) - Banco de dados colaborativo de relatórios de compatibilidade de jogos para Linux e Steam Deck.
 - [sharedeck.games - An unofficial site to find and share Steam Deck performance configurations.](https://sharedeck.games/)
-- [Protondb - Compatibilidade de Jogos Steam](https://www.protondb.com/)
-- [https://www.steamgriddb.com/](https://www.steamgriddb.com/)
+- [Linux Gaming Central](https://www.linuxgamecast.com/category/news/) - Notícias sobre jogos para Linux, incluindo notícias do Steam Deck.
 ----
 ## Canais de Youtube sobre o Steam Deck
 
+- [#steamdeck - videos no Youtube com a hashtag steamdeck](https://www.youtube.com/hashtag/steamdeck)
+- [FunkyHQ](https://www.youtube.com/@FunkyHQYT)
+- [Your Player 2](https://www.youtube.com/@YourPlayer2)
+- [Gardiner Bryant](https://www.youtube.com/@gardiner_bryant)
+- [CryoByte33](https://www.youtube.com/@cryobyte33)
+- [Steam Deck Gaming](https://www.youtube.com/@SteamDeckGaming)
+- [Deck Wizard](https://www.youtube.com/@DeckWizard)
+- [Techcravers](https://www.youtube.com/@Techcravers)
+- [MonroeWorld](https://www.youtube.com/@Darkuni)
+- [Retro Game Corps](https://www.youtube.com/@RetroGameCorps)
+- [Fan The Deck](https://www.youtube.com/@FanTheDeck)
+- [Deck Ready](https://www.youtube.com/@DeckReady)
+- [ED4T](https://www.youtube.com/@ED4T)
+- [Steam Deck Brasil](https://www.youtube.com/@steamdeckbrasil)
+- [GamingOnLinux](https://www.youtube.com/@gamingonlinux)
+- [Valve](https://www.youtube.com/@Valve)
+- [Steam Deck Guy](https://www.youtube.com/@steamdeckguy)
+- [Steam Deck Gaming](https://www.youtube.com/@SteamDeckGaming)
+- [Steam Deck Verified Games Updates](https://www.youtube.com/@steamdeckverified)
+- [ETA Prime](https://www.youtube.com/@ETAPRIME/search?query=steam%20Deck)
