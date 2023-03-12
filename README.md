@@ -9,9 +9,11 @@ Conteúdo sobre Steam Deck em Português compilado e traduzido por [Valdecir Car
 
 > Recentemente (20/01/2023) comprei um Steam Deck e depois disso comecei a procurar conteúdo sobre o console da Valve em Português e não encontrei muita coisa, por isso, resolvi criar essa pagina para compilar links e recursos sobre o Steam Deck em PT-BR e em Inglês ao qual pretendo ir traduzindo para o Português.
 
-Esse é um trabalho que está em construção e em constante atualização. Volte sempre para ver as novidades.
+Esse trabalho está em construção e em constante atualização. Volte sempre para ver as novidades.
 
-**ATENÇÃO: TODOS OS LINKS AQUI IRÃO ABRIR AUTOMATICAMENTE NA MESMA ABA, PARA MANTER ESSA PÁGINA ABERTA, CLIQUE NO LINK COM A TECLA CRTL APERTADA**
+Para contribuir com o Guia do Steam Deck, você pode criar um [issue](https://github.com/valdecircarvalho/steamdeck-br/issues) no repositório do Guihub ou me mandar uma mensagem pelas minhas [redes sociais](https://iamval.me). Esse é um trabalho colaborativo e toda ajuda será bem vinda.
+
+**ATENÇÃO: TODOS OS LINKS AQUI IRÃO ABRIR AUTOMATICAMENTE NA MESMA ABA, PARA MANTER ESSA PÁGINA ABERTA, CLIQUE NO LINK SEGURANDO A TECLA CRTL**
 
 ----
 - [Guia do Steam Deck em Português](#guia-do-steam-deck-em-português)
@@ -33,6 +35,7 @@ Esse é um trabalho que está em construção e em constante atualização. Volt
     - [Grupos Telegram](#grupos-telegram)
     - [Grupos WhatsApp](#grupos-whatsapp)
     - [Communidades Reddit](#communidades-reddit)
+    - [Steam Deck no Github](#steam-deck-no-github)
   - [Sites \& Blogs sobre o Steam Deck](#sites--blogs-sobre-o-steam-deck)
   - [Outro Sites sobre o Steam Deck](#outro-sites-sobre-o-steam-deck)
   - [Canais de Youtube sobre o Steam Deck](#canais-de-youtube-sobre-o-steam-deck)
@@ -299,6 +302,26 @@ Outro artigo bacana sobre SD Cards você encontra [aqui](https://www.dexerto.com
 - [r/RetroDeck](https://www.reddit.com/r/RetroDeck/)
 - [r/EmuDeck](https://www.reddit.com/r/EmuDeck/)
 
+### Steam Deck no Github
++ https://github.com/SteamDeckHomebrew/decky-loader
++ https://github.com/mikeroyal/Steam-Deck-Guide
++ https://github.com/CryoByte33/steam-deck-utilities
++ https://github.com/ayufan/steam-deck-tools
++ https://github.com/nchristopher/steamdeck-emulation
++ https://github.com/mKenfenheuer/steam-deck-windows-usermode-driver
++ https://github.com/scawp/Steam-Deck.Mount-External-Drive
++ https://github.com/DeckWizard/steamdeck_dualboot
++ https://github.com/CelesteHeartsong/SteamDeckAutomatedInstall
++ https://github.com/cptpiepmatz/great-on-deck-search
++ https://github.com/steamdeck-linux/wiki
++ https://github.com/ryanrudolfoba/SteamDeck-Clover-dualboot
++ https://github.com/matthewbarreiro/awesome-steam-deck
++ https://github.com/baldsealion/Steamdeck-Ultimate-Windows11-Guide
++ https://github.com/brenoprata10/steam-deck-romate
++ https://github.com/ryanrudolfoba/PlayniteScriptsForSteamDeck
++ https://github.com/mKenfenheuer/steam-deck-windows-usermode-driver
++ https://github.com/CapitaineJSparrow/steam-repo-manager
++ https://github.com/wilco42/awesome-steamdeck
 
 ----
 ## Sites & Blogs sobre o Steam Deck
