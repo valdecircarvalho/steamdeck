@@ -174,9 +174,9 @@ Existem atualmente **3 modelos de Steam Deck** disponíveis para compra e o que 
   - Memória NVME (mais rápida)
 
 Aqui vale uma informação importante, **TODOS** os modelos do Steam Deck usam o SSD do modelo **M.2 2230** como da imagem abaixo.
-![SSD M.2 2230](ssd-m2-2230.jpg)
 
 Aqui uma imagem com os principais modelos de SSD M.2 disponíveis no mercado, o maior, modelo **2280** é o mais utilizado notebooks e PCs e o mais barato e faacilmente encontrados nos sites de e-commerce do Brasil. Esse modelo **NÃO É COMPATÍVEL COM O STEAM DECK**!
+
 ![Modelos de SSD M.2](ssd-m2-modelos.png)
 
 ----
@@ -223,7 +223,10 @@ O blog RockPaperShotgun fez um [comparativo bem bacana](https://www.rockpapersho
 Outro artigo bacana sobre SD Cards você encontra [aqui](https://www.dexerto.com/tech/best-microsd-card-for-steam-deck-1931237/), no site [Dexerto.com](https://www.dexerto.com/search/?query=Steam+Deck)
 
 - **SSD M.2 2230** - Se você optou por comprar a versão de 64GB, o upgrade do SSD é quase obrigatório se você quiser armazenar muitos jogos no seu Steam Deck. Existem diversos modelos e marcas de SSD no mercado. No Brasil, não encontrei SSDs de 1TB para vender, mas sei que no AliExpress é um dos melhores lugar para comprar.
-  
+
+![SSD Modemo M.2 2230](ssd-m2-2230.jpg)
+
+
 - **Powerbank** - Considere também comprar um powerbank para prolongar a bateria do seu Steam Deck quando você estiver longe de uma tomada.
 
 ---- 
