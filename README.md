@@ -58,7 +58,7 @@ Conteúdo sobre Steam Deck em Português compilado e traduzido por [Valdecir Car
   - [Informações Oficiais](#informações-oficiais)
   - [Especificações técnicas](#especificações-técnicas)
     - [Componentes](#componentes)
-  - [Modelos Disponíveis](#modelos-disponíveis)
+- [Modelos Disponíveis](#modelos-disponíveis)
   - [Steam Deck no Brasil](#steam-deck-no-brasil)
   - [Qual comprar?](#qual-comprar)
   - [Acessórios "Obrigatórios"](#acessórios-obrigatórios)
@@ -153,11 +153,13 @@ O Steam Deck é um dispositivo portátil de jogos desenvolvido pela Valve. É um
 - ### **Tamanho e peso**
     - **Tamanho**  - 298 mm x 117 mm x 49 mm
     - **Peso** - Aprox. 669 gramas
+
 - ### **Software**
     - **Sistema operacional** - SteamOS 3.0 (baseado em Arch Linux)
     - **Ambiente de trabalho** - KDE Plasma
+
 ----
-## Modelos Disponíveis
+# Modelos Disponíveis
 
 Existem atualmente **3 modelos de Steam Deck** disponíveis para compra e o que diferem um modelo do outro são basicamente a quantidade de armazenamento e a tela (no modelo de 512GB)
 
