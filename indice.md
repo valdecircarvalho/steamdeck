@@ -62,6 +62,8 @@
     - [Grupos Telegram](#grupos-telegram)
     - [Grupos WhatsApp](#grupos-whatsapp)
     - [Communidades Reddit](#communidades-reddit)
+  - [Sites \& Blogs sobre o Steam Deck](#sites--blogs-sobre-o-steam-deck)
+  - [Canais de Youtube sobre o Steam Deck](#canais-de-youtube-sobre-o-steam-deck)
 
 ----
 
@@ -249,7 +251,7 @@ O blog RockPaperShotgun fez um [comparativo bem bacana](https://www.rockpapersho
 - [@OnDeck_NEws](https://twitter.com/OnDeck_News)
 - [@SteamDecked](https://twitter.com/SteamDecked)
 - [@SteamDeckBrasil](https://twitter.com/SteamDeckBrasil)
-- 
+
 ### Grupos Facebook
  - #### Português
     - [Steam Deck Brazil](https://www.facebook.com/groups/steamdeckbrazil/)
@@ -291,4 +293,15 @@ O blog RockPaperShotgun fez um [comparativo bem bacana](https://www.rockpapersho
 
 
 ----
+
+## Sites & Blogs sobre o Steam Deck
+
+- [steamdeckhq.com](https://steamdeckhq.com/)
+- [sharedeck.games](https://sharedeck.games/)
+- [steamdecklife.com](https://steamdecklife.com/)
+- [overkill.wtf](https://overkill.wtf/tag/steam-deck/)
+- [johnnyblocks.com](https://johnnyblocks.com/) 
+----
+
+## Canais de Youtube sobre o Steam Deck
 
