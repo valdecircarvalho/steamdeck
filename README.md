@@ -58,7 +58,6 @@ Esse é um trabalho que está em construção e em constante atualização. Volt
       - [Como é que isso funciona?!](#como-é-que-isso-funciona)
       - [Estou recebendo um erro aleatório/algo não está funcionando!!!](#estou-recebendo-um-erro-aleatórioalgo-não-está-funcionando)
     - [Packs completos de Emuladores](#packs-completos-de-emuladores)
-  - [Para fazer o download do arquivo .torrent do ArcadePunks, é necessário criar uma conta no site. Eu também disponibilizei o download do arquivo .torrent direto do meu site (link acima) e em breve irei disponibilizar o download do arquivo direto.](#para-fazer-o-download-do-arquivo-torrent-do-arcadepunks-é-necessário-criar-uma-conta-no-site-eu-também-disponibilizei-o-download-do-arquivo-torrent-direto-do-meu-site-link-acima-e-em-breve-irei-disponibilizar-o-download-do-arquivo-direto)
   - [Mais sobre emulação](#mais-sobre-emulação)
   - [Como rodar jogos alternativos no Steam Deck](#como-rodar-jogos-alternativos-no-steam-deck)
   - [Guias](#guias)
@@ -679,7 +678,8 @@ No ArcadePunks você irá encontrar links para baixar o arquivo .torrent e NBZ (
 - [512gb-Steam.Deck.Batocera-RetroGamingGuy](https://www.arcadepunks.com/fully-loaded-512gb-batocera-steam-deck-retro-gaming-build-from-retro-gaming-guy/) - [.torrent local](http://download.localhostcloud.com/steamdeck/images/arcadepunks/torrent/512gb-Steam.Deck.Batocera-RetroGamingGuy.torrent)
 - [CoinOPS Legends 3 SteamDeck v1.0](https://www.arcadepunks.com/coinops-for-steam-deck-legends-3/) - [.torrent local](http://download.localhostcloud.com/steamdeck/images/arcadepunks/torrent/CoinOPS.Legends.3.SteamDeck.v1.0.torrent)
 
-Para fazer o download do arquivo .torrent do ArcadePunks, é necessário criar uma conta no site. Eu também disponibilizei o download do arquivo .torrent direto do meu site (link acima) e em breve irei disponibilizar o download do arquivo direto.
+> Para fazer o download do arquivo .torrent do ArcadePunks, é necessário criar uma conta no site. Eu também disponibilizei o download do arquivo .torrent direto do meu site (link acima) e em breve irei disponibilizar o download do arquivo direto.
+
 ----
 ## Mais sobre emulação
 **_Em construção_**
