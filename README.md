@@ -343,6 +343,8 @@ Outro artigo bacana sobre SD Cards você encontra [aqui](https://www.dexerto.com
 - [ProtonDB](https://www.protondb.com/) - Banco de dados colaborativo de relatórios de compatibilidade de jogos para Linux e Steam Deck.
 - [sharedeck.games - An unofficial site to find and share Steam Deck performance configurations.](https://sharedeck.games/)
 - [Linux Gaming Central](https://www.linuxgamecast.com/category/news/) - Notícias sobre jogos para Linux, incluindo notícias do Steam Deck.
+
+
 ----
 ## Canais de Youtube sobre o Steam Deck
 
