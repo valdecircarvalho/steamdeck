@@ -47,7 +47,8 @@ Conteúdo sobre Steam Deck em Português compilado e traduzido por [Valdecir Car
     - [Onde encontro os arquivos do BIOS?!](#onde-encontro-os-arquivos-do-bios)
     - [Onde coloco os arquivos da BIOS?!](#onde-coloco-os-arquivos-da-bios)
     - [Como faço para verificar se tenho o arquivo BIOS correto no lugar certo?!](#como-faço-para-verificar-se-tenho-o-arquivo-bios-correto-no-lugar-certo)
-    - [Agora, onde consigo jogos (AKA ROMS)?!](#agora-onde-consigo-jogos-aka-roms)
+    - [Agora, onde consigo jogos ou ROMS?](#agora-onde-consigo-jogos-ou-roms)
+    - [Sites para Download de Roms](#sites-para-download-de-roms)
   - [Parte 2 - Guia do idiota para ROMsets para Emudeck](#parte-2---guia-do-idiota-para-romsets-para-emudeck)
   - [Parte 3 - Guia do idiota para Steam Rom Manager para Emudeck](#parte-3---guia-do-idiota-para-steam-rom-manager-para-emudeck)
     - [Como é que isso funciona?!](#como-é-que-isso-funciona)
@@ -497,17 +498,15 @@ A instalação do Emudeck é bem simples e direta. O vídeo e o guia de instala�
 
 E é aqui que todos os outros guias param devido a temores de “violação de direitos autorais”, dos quais BIOS e ROMs se enquadram diretamente. Mas não este guia porque somos todos adultos e sabemos sobre abandonware. Aqui você irá encontrar todos os links para você começar e todos eles estão no GitHub, archive.org, Vimm's Lair (site de ROM confiável) ou no site oficial do PlayStation. 
 
-_Estou organizando os arquivos para disponibilizá-los aqui em um futuro muito breve_
+- BIOS RetroArch completo ([link do GitHub](https://github.com/Abdess/retroarch_system) ou [link alternativo]([zip](http://download.localhostcloud.com/bios/retroarch_system/libreto.zip)) direto do meu site)
 
-- BIOS RetroArch completo ([link do GitHub](https://github.com/Abdess/retroarch_system) ou [link alternativo]() direto do meu site)
+- Arquivos de BIOS do XBox ([link archive.org](https://archive.org/details/xemustarter) ou [link alternativo](http://download.localhostcloud.com/bios/retroarch_system/libreto.zip) direto do meu site))
 
-- Arquivos de BIOS do XBox ([link archive.org](https://archive.org/details/xemustarter) ou [link alternativo]() direto do meu site))
-
-- Firmware PS3 ([site oficial da Sony](https://www.playstation.com/en-us/support/hardware/ps3/system-software/) ou [link alternativo]() direto do meu site)) 
+- Firmware PS3 ([site oficial da Sony](https://www.playstation.com/en-us/support/hardware/ps3/system-software/) ou [link alternativo](http://download.localhostcloud.com/bios/ps3/PS3UPDAT.PUP) direto do meu site)) 
 
 ### Onde coloco os arquivos da BIOS?!
 
-Esses sistemas comuns que requerem BIOS vão DIRETAMENTE na pasta BIOS:
+Esses sistemas precisam de BIOS que devem ser copiados DIRETAMENTE na pasta BIOS:
 
 + PS1
 + PS2
@@ -519,7 +518,7 @@ Esses sistemas comuns que requerem BIOS vão DIRETAMENTE na pasta BIOS:
 + Dreamcast BIOS vai para a pasta 'dc' dentro da pasta BIOS
 + O firmware PS3 deve ser instalado via desktop RPCS3.
 
-Esses sistemas comuns NÃO requerem arquivos de BIOS:
+Esses sistemas NÃO precisam de arquivos de BIOS:
 
 + NES
 + SNES
@@ -539,56 +538,41 @@ Para todos os outros sistemas, consulte a documentação do Emudeck e RetroArch.
 
 ### Como faço para verificar se tenho o arquivo BIOS correto no lugar certo?!
 
-Você pode verificar usando o verificador de BIOS do Emudeck. Vá para o modo de área de trabalho, abra o Emudeck, Tools and Stuff, verifique o BIOS.
+Você pode verificar usando o verificador de BIOS do Emudeck. Vá para o modo de área de trabalho >> abra o Emudeck >> Tools and Stuff >> Check BIOS.
 
-Isso verificará se o arquivo está no lugar correto e se possui o hash correto, mas ainda pode ter um nome incorreto (a capitalização é importante). Todos os arquivos do BIOS do RetroArch são nomeados corretamente, assim como os arquivos do BIOS do XBox, mas lembre-se de que, se o verificador do BIOS estiver verde, ele ainda pode ter sido nomeado incorretamente.
+Isso verificará se o arquivo está no lugar correto e se possui o hash correto, mas ainda pode ter um nome incorreto. Todos os arquivos do BIOS do RetroArch são nomeados corretamente, assim como os arquivos do BIOS do XBox, mas lembre-se de que, se o verificador do BIOS estiver verde, ele ainda pode ter sido nomeado incorretamente.
 
-### Agora, onde consigo jogos (AKA ROMS)?!
+### Agora, onde consigo jogos ou ROMS?
 
-Vou fornecer três links, alguns termos de pesquisa e um vídeo.
+Não vou entrar no mérito se ROM é pirataria ou não. Isso eu deixo para você decidir. Aqui você irá encontrar alguns links onde pode baixar as roms dos jogos e também alguns termos de pequisa que você pode usar no Google.
 
 Duas coisas para manter em mente.
 
-Às vezes, os arquivos baixados estão no formato .zip ou .7z, que é compactado. Alguns sistemas RetroArch podem reproduzir os arquivos condensados, mas a maioria dos sistemas não pode, então você terá que extrair os arquivos. No Steamdeck, clique com o botão esquerdo no arquivo e clique em Extrair.
+Às vezes, os arquivos baixados estarão compactados no formato .zip ou .7z ou .rar. Alguns sistemas RetroArch podem reproduzir os arquivos compactados, mas a maioria dos sistemas não, então você terá que extrair os arquivos. No Steamdeck, clique com o botão esquerdo no arquivo e clique em Extrair. Você também pode descompactar os arquivos no seu PC antes de transferir para o Steam Deck.
 
-A outra coisa é que os downloads do archive.org são extremamente lentos, a menos que você use um gerenciador de downloads. Na loja Discover, há um programa chamado Free Download Manager que funciona muito bem. Basta arrastar o arquivo de archive.org para o programa e ele acelerará consideravelmente o download.
+A outra coisa é que os downloads do archive.org são extremamente lentos, a menos que você use um gerenciador de downloads. Na loja Discover, há um programa chamado Free Download Manager que funciona muito bem. Basta arrastar o arquivo de archive.org para o programa e ele acelerará consideravelmente o download. Eu particularmente, prefiro baixar as roms pelo computador e depois transferir para o Steam Deck.
 
-1. https://myrient.erista.me/ 
+### Sites para Download de Roms
 
-1. Covil de Vimm (https://vimm.net/)
+ - [Myrient](https://myrient.erista.me/)
+   - Bastante organizado e seguro
+   - Tem de TUDO
+   - Velocidade de Download bem alta e podem ser baixados diversos arquivos de uma vez.
+   - Permite o acesso via FTP e Rsync 
+ - [Vimm's Lair](https://vimm.net/)
+    - Tem tudo até Wii e PSP
+    - Velocidades de download dolorosamente lentas (apenas uma de cada vez), mas seguras, confiáveis e incrivelmente intuitivas
+    - Downloads do XBox no formato .xiso que rodam automaticamente no Xemu (o emulador é instalado pelo Emudeck)
+    - Cada arquivo que você baixa vem como um arquivo compactado junto com um arquivo .txt do Vimm's Lair depois de extrair os arquivos. Você pode deletar isso.
+ - [r-ROMs também conhecida como “o Megathread”](https://r-roms.github.io/)
+    - Para navegar para encontrar um jogo, use a barra de menu na parte superior (ou clique no botão de 3 linhas para expandir o menu)
+    - NÃO use a barra de pesquisa porque ela não encontrará todos os jogos, apenas alguns jogos populares.
+    - Depois de navegar para o sistema (por exemplo, Sony - Sony PlayStation - Internet Archive (Redump) (CHD) ), clique em download e ele o levará a um arquivo em archive.org. Você pode rolar para encontrá-lo ou “Localizar na página”/Control + F para encontrar seu jogo.
 
-* Tem tudo até Wii e PSP
-
-* Velocidades de download dolorosamente lentas (apenas uma de cada vez), mas seguras, confiáveis e incrivelmente intuitivas
-
-* Downloads do XBox no formato .xiso que rodam automaticamente no Xemu (o emulador é instalado pelo Emudeck)
-
-* Cada arquivo que você baixa vem como um arquivo compactado junto com um arquivo .txt do Vimm's Lair depois de extrair os arquivos. Você pode deletar isso.
-
-2. Página Github 2.r-ROMs também conhecida como “o Megathread” (https://r-roms.github.io/)
-
-* Para navegar para encontrar um jogo, use a barra de menu na parte superior (ou clique no botão de 3 linhas para expandir o menu)
-
-* NÃO use a barra de pesquisa porque ela não encontrará todos os jogos, apenas alguns jogos populares.
-
-* Depois de navegar para o sistema (por exemplo, Sony - Sony PlayStation - Internet Archive (Redump) (CHD) ), clique em download e ele o levará a um arquivo em archive.org. Você pode rolar para encontrá-lo ou “Localizar na página”/Control + F para encontrar seu jogo.
-
-Alguns dos arquivos podem estar atrás de um bloqueio. Você precisa criar uma conta archive.org para
-
-3. O último é apenas Archive.org
-
-+ Se tudo o que foi dito acima não ajudou você a descobrir por que estava procurando, o archive.org o cobre.
-
-+ Aqui está um vídeo do Sr. Sujano no YouTube que explica como usar o Archive.org para encontrar ROMs para download. Na última etapa, em vez de clicar no arquivo, você pode arrastá-lo para o Free Download Manager e ele deve ser processado.
-
-+ Assim, com um gerenciador de download e depois de assistir ao Mr. Sujano, posso fornecer algumas palavras-chave que devem ajudá-lo a encontrar alguns bons ROMsets.
-
-    + Cylum (muitos ROMsets)
-    + Ghostware
-    + usuário do reddit u/EBZero tem ótimos pacotes de ROM, pesquise EBZero
-    + https://archive.org/details/retro-roms-best-set
-
-É claro que “(inserir sistema) ROMset” também funciona
+- [Archive.org](https://archive.org)
+  - Se tudo o que foi dito acima não ajudou você a descobrir por que estava procurando, o archive.org o cobre.
+  - Se você - assim como eu não conhece/conhecia o Archive.org - é um site onde você irá encontrar praticamente tudo, desde revistas antigas, discos, cds e roms, basta procurar.
+  - Sugiro que você crie uma conta no archive.org e utiliza um gerenciador de download. Eu uso o [Jdownloader2](https://jdownloader.org/jdownloader2)
 
 ----
 
