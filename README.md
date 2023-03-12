@@ -41,19 +41,17 @@ Conteúdo sobre Steam Deck em Português compilado e traduzido por [Valdecir Car
   - [Windows no Steam Deck](#windows-no-steam-deck)
   - [Steam Deck Hacks \& Utilitários](#steam-deck-hacks--utilitários)
   - [Emulação no Steam Deck](#emulação-no-steam-deck)
-  - [Parte 1](#parte-1)
-  - [O Guia do idiota para Emudeck](#o-guia-do-idiota-para-emudeck)
+  - [Parte 1 - O Guia do idiota para Emudeck](#parte-1---o-guia-do-idiota-para-emudeck)
     - [Quais emuladores eu quero?!](#quais-emuladores-eu-quero)
     - [Onde encontro os arquivos do BIOS?!](#onde-encontro-os-arquivos-do-bios)
     - [Onde coloco os arquivos da BIOS?!](#onde-coloco-os-arquivos-da-bios)
     - [Como faço para verificar se tenho o arquivo BIOS correto no lugar certo?!](#como-faço-para-verificar-se-tenho-o-arquivo-bios-correto-no-lugar-certo)
     - [Agora, onde consigo jogos (AKA ROMS)?!](#agora-onde-consigo-jogos-aka-roms)
-  - [Parte 2](#parte-2)
-  - [Guia do idiota para ROMsets para Emudeck](#guia-do-idiota-para-romsets-para-emudeck)
-  - [Parte 3](#parte-3)
-  - [Guia do idiota para Steam Rom Manager para Emudeck](#guia-do-idiota-para-steam-rom-manager-para-emudeck)
-  - [Como é que isso funciona?!](#como-é-que-isso-funciona)
-  - [Estou recebendo um erro aleatório/algo não está funcionando!!!](#estou-recebendo-um-erro-aleatórioalgo-não-está-funcionando)
+  - [Parte 2 - Guia do idiota para ROMsets para Emudeck](#parte-2---guia-do-idiota-para-romsets-para-emudeck)
+  - [Parte 3 - Guia do idiota para Steam Rom Manager para Emudeck](#parte-3---guia-do-idiota-para-steam-rom-manager-para-emudeck)
+    - [Como é que isso funciona?!](#como-é-que-isso-funciona)
+    - [Estou recebendo um erro aleatório/algo não está funcionando!!!](#estou-recebendo-um-erro-aleatórioalgo-não-está-funcionando)
+  - [Mais sobre emulação](#mais-sobre-emulação)
   - [Como rodar jogos alternativos no Steam Deck](#como-rodar-jogos-alternativos-no-steam-deck)
   - [Guias](#guias)
 
@@ -453,8 +451,7 @@ Existem diversas maneiras de rodar emuladores no seu Steam Deck.
 ----
 Esse guia em 3 partes foi traduzido e adaptado dos textos publicado no Reddit pelo usuário [/u/EmulationStranger](https://www.reddit.com/user/EmulationStranger/) com algumas modificações e adições para o público brasileiro. Os posts originais estão [aqui](https://www.reddit.com/user/EmulationStranger/comments/11kom88/idiots_guide_to_steam_rom_manager_for_emudeck/), [aqui](https://www.reddit.com/r/SteamDeckEmulation/comments/11kcrhf/idiots_guide_to_romsets_for_emudeck/) e [aqui](https://www.reddit.com/user/EmulationStranger/comments/11j09qc/idiots_guide_to_emudeck_where_to_find_bios_and/)
 
-## Parte 1
-## O Guia do idiota para Emudeck
+## Parte 1 - O Guia do idiota para Emudeck
 Estou usando o [Emudeck](https://github.com/dragoonDorise/EmuDeck) como base para este guia, embora existam outras ferramentas como RetroDeck e Batocera. 
 As dicas sobre BIOS e ROMs serão basicamente as mesmas, mas podem variar.
 
@@ -593,9 +590,7 @@ Alguns dos arquivos podem estar atrás de um bloqueio. Você precisa criar uma c
 
 ----
 
-## Parte 2
-
-## Guia do idiota para ROMsets para Emudeck
+## Parte 2 - Guia do idiota para ROMsets para Emudeck
 Então você baixou e instalou o Emudeck em seu novo e brilhante Steam Deck e agora está pensando “Sou tão preguiçoso, só quero um monte de jogos de uma só vez para um sistema”. Você está com sorte! Tenho links e termos de pesquisa para ajudá-lo.
 
 Não estou garantindo absolutamente todos os links aqui, mas o archive.org verifica se há vírus antes do upload. Não clique em um arquivo .exe, pois nenhuma ROM está nesse formato.
@@ -617,13 +612,12 @@ Para começar, os downloads do Archive.org são extremamente lentos, a menos que
 - Por último, mas não menos importante, conjuntos de [ROMs EBZero](https://archive.org/details/@dischord), especificamente seu [RetroROMs Best Set](https://archive.org/details/retro-roms-best-set), que é de longe o melhor pacote inicial para um entusiasta retrô. Ele também tem pacotes de RPG para os interessados.
 ---
 
-## Parte 3
-## Guia do idiota para Steam Rom Manager para Emudeck
+## Parte 3 - Guia do idiota para Steam Rom Manager para Emudeck
 Então você baixou o Emudeck, pegou seus jogos e agora quer jogá-los. MAS COMO VOCÊ PERGUNTA?!
 
 Bem, você pode seguir uma das duas rotas. Você pode adicioná-los como jogos individuais por meio do Steam Rom Manager ou pode adicionar o Emulation Station, que é um programa front-end empacotado com o Emudeck que abriga todos os seus milhares de ROMS. Neste guia, Steam Rom Manager é como vamos jogar jogos retrô no modo de jogo.
 
-## Como é que isso funciona?!
+### Como é que isso funciona?!
 
 Abra-o indo para o modo de área de trabalho, abrindo o Emudeck, indo para Tools & Stuff e clicando em [Steam Rom Manager](https://github.com/SteamGridDB/steam-rom-manager). Para usar o Steam Rom Manager e editar sua biblioteca Steam, o Steam deve ser fechado, o que o avisará. **Com o Steam fechado, seu botão de clique não funcionará no trackpad, será R2 ou gatilho direito. NÃO ENTRAR EM PÂNICO.** Quando você abrir o Steam novamente, seus controles serão revertidos, mas enquanto você estiver usando o Steam Rom Manager e editando sua biblioteca Steam, o Steam deve ser fechado, então você deve usar o R2 para clicar. Dói mas é verdade. Ou você pode simplesmente usar um mouse.
 
@@ -633,7 +627,7 @@ Os dois primeiros analisadores devem ser ‘EmulationStationDE’ e ‘Emulators
 
 Depois de clicar nos analisadores desejados, clique em visualizar no canto superior esquerdo e gere a visualização do aplicativo na parte inferior. Se você quiser alterar toda a arte das coisas que está importando para sua Biblioteca Steam, altere 'Selecionar tipo' para 'todas as obras de arte' e, em seguida, você pode folhear individualmente e escolher as imagens certas. Quando estiver satisfeito, clique em salvar lista de aplicativos e feche o Steam Rom Manager.
 
-## Estou recebendo um erro aleatório/algo não está funcionando!!!
+### Estou recebendo um erro aleatório/algo não está funcionando!!!
 
 [Consulte aqui as correções para a maioria das coisas comuns](https://github.com/dragoonDorise/EmuDeck/wiki/steam-rom-manager#precautions), como:
 
@@ -659,7 +653,18 @@ Abra o Steam Rom Manager, vá para as configurações à direita e no canto supe
 
 
 ----
-
+## Mais sobre emulação
+**_Em construção_**
+  - ### Nintendo Switch
+  - ### Nintendo Wii U
+  - ### Nintendo Wi
+  - ### Nintendo 3DS
+  - ### Microsoft Xbox 360
+  - ### Microsoft Xbox
+  - ### Sony Playstation 3
+  - ### Sony Playstation 2
+  - ### Sony Playstation Vita
+  - ### Android
 
 ## Como rodar jogos alternativos no Steam Deck
 
