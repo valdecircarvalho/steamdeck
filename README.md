@@ -1,11 +1,15 @@
 # steamdeck-br
 [steamdeck.valdecir.me](http://steamdeck.valdecir.me)
 
+_Última atualização: 2023-03-12_
+
 ![](sd-tech-specs.png)
 
 Conteúdo sobre Steam Deck em Português compilado e traduzido por [Valdecir Carvalho](https://iamval.me).
 
 > Recentemente (20/01/2023) comprei um Steam Deck e depois disso comecei a procurar conteúdo sobre o console da Valve em Português e não encontrei muita coisa, por isso, resolvi criar essa pagina para compilar links e recursos sobre o Steam Deck em PT-BR e em Inglês ao qual pretendo ir traduzindo para o Português.
+
+Esse é um trabalho que está em construção e em constante atualização. Volte sempre para ver as novidades.
 
 **ATENÇÃO: TODOS OS LINKS AQUI IRÃO ABRIR AUTOMATICAMENTE NA MESMA ABA, PARA MANTER ESSA PÁGINA ABERTA, CLIQUE NO LINK COM A TECLA CRTL APERTADA**
 
@@ -53,9 +57,13 @@ Conteúdo sobre Steam Deck em Português compilado e traduzido por [Valdecir Car
   - [Parte 3 - Guia do idiota para Steam Rom Manager para Emudeck](#parte-3---guia-do-idiota-para-steam-rom-manager-para-emudeck)
     - [Como é que isso funciona?!](#como-é-que-isso-funciona)
     - [Estou recebendo um erro aleatório/algo não está funcionando!!!](#estou-recebendo-um-erro-aleatórioalgo-não-está-funcionando)
+  - [Packs completos de Emuladores](#packs-completos-de-emuladores)
+  - [Para fazer o download do arquivo .torrent do ArcadePunks, é necessário criar uma conta no site. Eu também disponibilizei o download do arquivo .torrent direto do meu site (link acima) e em breve irei disponibilizar o download do arquivo direto.](#para-fazer-o-download-do-arquivo-torrent-do-arcadepunks-é-necessário-criar-uma-conta-no-site-eu-também-disponibilizei-o-download-do-arquivo-torrent-direto-do-meu-site-link-acima-e-em-breve-irei-disponibilizar-o-download-do-arquivo-direto)
   - [Mais sobre emulação](#mais-sobre-emulação)
   - [Como rodar jogos alternativos no Steam Deck](#como-rodar-jogos-alternativos-no-steam-deck)
   - [Guias](#guias)
+  - [Ajuda](#ajuda)
+  - [Link Úteis (Misc)](#link-úteis-misc)
 
 ----
 
@@ -377,7 +385,6 @@ Os jogos comprados na loja da Steam, estão sempre com os valores em Reais e voc
 
 ---
 ## Como instalar jogos "Não-Steam" no Steam Deck
-
 **_Em construção_**
 
 - [How to install Epic and GOG games on Steam Deck](https://www.dexerto.com/tech/how-to-install-epic-games-on-steam-deck-1894333/)
@@ -420,6 +427,7 @@ Use uma senha forte e também o app do Steam Guard no seu celular para garantir 
 ----
 
 ## Primeiros Passos com o seu novo Steam Deck
+**_Em construção_**
   - Perguntas Frequentes - FAQ
   - Uso básico e solução de problemas
   - Software e solução de problemas
@@ -431,6 +439,16 @@ Use uma senha forte e também o app do Steam Guard no seu celular para garantir 
 ## Windows no Steam Deck
 **_Em construção_**
 
+- https://www.dexerto.com/tech/install-windows-steam-deck-1970155/
+- https://gamerant.com/guide-install-windows-steam-deck/
+- https://www.digitaltrends.com/computing/how-to-install-windows-steam-deck/
+- https://wagnerstechtalk.com/sd-windows/
+- https://www.thegamer.com/steam-deck-windows-how-to-install-guide/
+- https://steamdeckhq.com/tips-and-guides/install-windows-10-11-on-steam-deck/
+- https://store.steampowered.com/news/app/1675200/view/3131696199122435099
+- https://help.steampowered.com/en/faqs/view/6121-eccd-d643-baa8
+- https://www.reddit.com/r/SteamDeck/comments/vbpjoc/windows_11_tips_and_tricks_debloat_os_40hz_screen/
+
 ----
 ## Steam Deck Hacks & Utilitários
 **_Em construção_**
@@ -439,6 +457,7 @@ Use uma senha forte e também o app do Steam Guard no seu celular para garantir 
 ## Emulação no Steam Deck
 **_Em construção_**
 
+![](emulators.jpg)
 O Steam Deck é o paraiso dos emuladores. Ele pode em teoria emular qualquer coisa, desde o antigo Atari 2600 até o Xbox 360 e Playstation 3 sem grandes problemas.
 
 Existem diversas maneiras de rodar emuladores no seu Steam Deck. 
@@ -451,7 +470,7 @@ Existem diversas maneiras de rodar emuladores no seu Steam Deck.
 
 
 ----
-Esse guia em 3 partes foi traduzido e adaptado dos textos publicado no Reddit pelo usuário [/u/EmulationStranger](https://www.reddit.com/user/EmulationStranger/) com algumas modificações e adições para o público brasileiro. Os posts originais estão [aqui](https://www.reddit.com/user/EmulationStranger/comments/11kom88/idiots_guide_to_steam_rom_manager_for_emudeck/), [aqui](https://www.reddit.com/r/SteamDeckEmulation/comments/11kcrhf/idiots_guide_to_romsets_for_emudeck/) e [aqui](https://www.reddit.com/user/EmulationStranger/comments/11j09qc/idiots_guide_to_emudeck_where_to_find_bios_and/)
+> Esse guia em 3 partes foi traduzido e adaptado dos textos publicado no Reddit pelo usuário [/u/EmulationStranger](https://www.reddit.com/user/EmulationStranger/) com algumas modificações e adições para o público brasileiro. Os posts originais estão [aqui](https://www.reddit.com/user/EmulationStranger/comments/11kom88/idiots_guide_to_steam_rom_manager_for_emudeck/), [aqui](https://www.reddit.com/r/SteamDeckEmulation/comments/11kcrhf/idiots_guide_to_romsets_for_emudeck/) e [aqui](https://www.reddit.com/user/EmulationStranger/comments/11j09qc/idiots_guide_to_emudeck_where_to_find_bios_and/)
 
 ## Parte 1 - O Guia do idiota para Emudeck
 Estou usando o [Emudeck](https://github.com/dragoonDorise/EmuDeck) como base para este guia, embora existam outras ferramentas como RetroDeck e Batocera. 
@@ -574,6 +593,8 @@ A outra coisa é que os downloads do archive.org são extremamente lentos, a men
   - Se você - assim como eu não conhece/conhecia o Archive.org - é um site onde você irá encontrar praticamente tudo, desde revistas antigas, discos, cds e roms, basta procurar.
   - Sugiro que você crie uma conta no archive.org e utiliza um gerenciador de download. Eu uso o [Jdownloader2](https://jdownloader.org/jdownloader2)
 
+Na parte 2 voltaremos a falar mais sobre Roms e Romsets para o Emudeck.
+
 ----
 
 ## Parte 2 - Guia do idiota para ROMsets para Emudeck
@@ -637,7 +658,28 @@ Abra o Steam Rom Manager, vá para as configurações à direita e no canto supe
 - [Steam Rom Manager](https://steamgriddb.github.io/steam-rom-manager/)
 - [Emudeck Wiki](https://github.com/dragoonDorise/EmuDeck/wiki)
 
+----
+## Packs completos de Emuladores
 
+O site [ArcadePunks](https://www.arcadepunks.com/) disponibilizou alguns packs com o sistema Batocera e CoinsOps para download.
+
+No casos dos sistemas Batocera, basta você fazer o download, gravar a imagem no seu cartão SD Card e fazer o boot pelo cartão. Todos os emuladores já vem configurados, com as roms, bios, imagens, front-end, etc.
+
+Recomendo que você tenha um SD Card apenas para isso
+
+No caso do sistema CoindOps, você vai fazer a instalação no modo Desktop.
+
+No ArcadePunks você irá encontrar links para baixar o arquivo .torrent e NBZ (Usenet).
+
+[Arcade Punks - Steam Deck Builds](https://www.arcadepunks.com/steam-deck-builds/)
+
+- [1tb-Batocera.Steam.Deck.Group.Buy-ArcadePunks](https://www.arcadepunks.com/fully-loaded-1tb-batocera-steam-deck-retro-gaming-build/) - [.torrent local](download.localhostcloud.com/steamdeck/images/arcadepunks/torrent/1tb-Batocera.Steam.Deck.GroupBuy-ArcadePunks.torrent)
+- [256gb-Batocera.Light.Gun.SteamDeck-RetroGamingGuy](https://www.arcadepunks.com/fully-loaded-256gb-batocera-steam-deck-light-gun-build/) - [.torrent local](download.localhostcloud.com/steamdeck/images/arcadepunks/torrent/Batocera.Light.Gun.SteamDeck-RetroGamingGuy.torrent)
+- [256gb-Batocera.Steam.Deck-DereksPixeltorium](https://www.arcadepunks.com/fully-loaded-256gb-batocera-steam-deck-build/) - [.torrent local](download.localhostcloud.com/steamdeck/images/arcadepunks/torrent/256gb-Batocera.Steam.Deck-Dm.torrent)
+- [512gb-Steam.Deck.Batocera-RetroGamingGuy](https://www.arcadepunks.com/fully-loaded-512gb-batocera-steam-deck-retro-gaming-build-from-retro-gaming-guy/) - [.torrent local](download.localhostcloud.com/steamdeck/images/arcadepunks/torrent/512gb-Steam.Deck.Batocera-RetroGamingGuy.torrent)
+- [CoinOPS Legends 3 SteamDeck v1.0](https://www.arcadepunks.com/coinops-for-steam-deck-legends-3/) - [.torrent local](download.localhostcloud.com/steamdeck/images/arcadepunks/torrent/CoinOPS.Legends.3.SteamDeck.v1.0.torrent)
+
+Para fazer o download do arquivo .torrent do ArcadePunks, é necessário criar uma conta no site. Eu também disponibilizei o download do arquivo .torrent direto do meu site (link acima) e em breve irei disponibilizar o download do arquivo direto.
 ----
 ## Mais sobre emulação
 **_Em construção_**
@@ -655,5 +697,28 @@ Abra o Steam Rom Manager, vá para as configurações à direita e no canto supe
   - ### Android
 
 ## Como rodar jogos alternativos no Steam Deck
+**_Em construção_**
 
 ## Guias
+**_Em construção_**
+
+- [Configurações de Performance](steamdeck-performance.md)
+- Configuração dos Controles do Stem Deck
+- 
+
+## Ajuda
+**_Em construção_**
+
+Artigos de ajuda e dicas sobre o Steam Deck
+
++ [Steam Deck - Guia básico de uso e solução de problemas](ajuda-steam-deck-uso-basico-e-resolucao-de-problemas.md)
++ [Steam Deck - Software Info & Troubleshooting Guide](ajuda-steam-deck-software-e-resolucao-de-problemas.md)
++ [Stem Deck - Dock Station](ajuda-steam-deck-docking-station.md)
++ [Steam Deck - Desktop](ajuda-steam-deck-desktop.md)
++ [Suporte Steam Deck](https://help.steampowered.com/pt-br/wizard/HelpWithSteamDeck)
+
+## Link Úteis (Misc)
+**_Em construção_**
+
+Aqui você encontrará diversos links úteis com conteúdo sobre Steam Deck que ainda não consegui categoririzar ou criar um artigo traduzido aqui.
+
