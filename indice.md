@@ -53,6 +53,15 @@
   - [Steam Deck no Brasil](#steam-deck-no-brasil)
   - [Qual comprar?](#qual-comprar)
   - [Acessórios "Obrigatórios"](#acessórios-obrigatórios)
+  - [Links Oficiais](#links-oficiais)
+    - [Português Brasil](#português-brasil)
+    - [Inglês](#inglês)
+  - [Redes Sociais](#redes-sociais)
+    - [Twitter](#twitter)
+    - [Grupos Facebook](#grupos-facebook)
+    - [Grupos Telegram](#grupos-telegram)
+    - [Grupos WhatsApp](#grupos-whatsapp)
+    - [Communidades Reddit](#communidades-reddit)
 
 ----
 
@@ -67,6 +76,7 @@ O Steam Deck é um dispositivo portátil de jogos desenvolvido pela Valve. É um
 - [Página do produto Steam Deck em Português de Portugal](https://www.steamdeck.com/pt/)
 - [Anúncio do Steam Deck no blog da Valve](https://store.steampowered.com/news/app/1406830/view/3070948040413601109)
 
+----
 ## Especificações técnicas
 
 ### Componentes
@@ -132,7 +142,7 @@ O Steam Deck é um dispositivo portátil de jogos desenvolvido pela Valve. É um
 - ### **Software**
     - **Sistema operacional** - SteamOS 3.0 (baseado em Arch Linux)
     - **Ambiente de trabalho** - KDE Plasma
-
+----
 ## Modelos Disponíveis
 
 Existem atualmente 3 modelos de Steam Deck disponíveis para compra e o que diferem um modelo do outro são basicamente a quantidade de armazenamento e a tela (no modelo de 512GB)
@@ -163,6 +173,7 @@ Aqui vale uma informação importante, **TODOS** os modelos do Steam Deck usam o
 Aqui uma imagem com os principais modelos de SSD M.2 disponíveis no mercado, o maior, modelo **2280** é o mais utilizado notebooks e PCs e o mais barato e faacilmente encontrados nos sites de e-commerce do Brasil. Esse modelo **NÃO É COMPATÍVEL COM O STEAM DECK**!
 ![Modelos de SSD M.2](ssd-m2-modelos.png)
 
+----
 ## Steam Deck no Brasil
 
 O Steam Deck ainda não é oficialmente vendido pela Valve no Brasil, mas não é por isso que você não vai conseguir comprar o seu. 
@@ -174,12 +185,14 @@ Outra forma de conseguir o seu é via importação direta, um amigo que está po
 
 Comprando aqui no Brasil, espere pagar entre R$3500-R$4500 no modelo 64GB e até uns R$6000 no modelo 512GB. 
 
+----
 ## Qual comprar?
 
 Esse é um grande debate. Se você fizer as contas, comprar o modelo de 64GB + SSD 1Tb para fazer o upgrade pode sair mais barato, mas ai vai de você querer passar pelo trabalho de fazer a troca, etc. 
 
 > Eu comprei o modelo de 64GB justamente por causa disso, mas após um tempo com o Deck, ainda não fiz o upgrade, porque sei que vou lotar de jogos que não vou jogar. Mas ainda quero fazer o upgrade, principalmente pelo emuladores.
 
+----
 ## Acessórios "Obrigatórios"
 
 Considere também comprar os seguintes acessórios para o seu Steam Deck:
@@ -198,5 +211,73 @@ No Brasil, um SD Card original e de qualidade não sai por menos do que R$800-R$
 O blog RockPaperShotgun fez um [comparativo bem bacana](https://www.rockpapershotgun.com/best-microsd-cards-for-steam-deck) (em Inglês) sobre diversos modelos e marcas de SD Card que vale a leitura.
 - **SSD M.2 2230** - Se você optou por comprar a versão de 64GB, o upgrade do SSD é quase obrigatório se você quiser armazenar muitos jogos no seu Steam Deck. Existem diversos modelos e marcas de SSD no mercado. No Brasil, não encontrei SSDs de 1TB para vender, mas sei que no AliExpress é um dos melhores lugar para comprar.
 
+---- 
+## Links Oficiais
 
+### Português Brasil
+- [Página Oficial do Steam Deck](https://www.steamdeck.com/pt-br/)
+- [Hardware](https://www.steamdeck.com/pt-br/hardware)
+- [Software](https://www.steamdeck.com/pt-br/software)
+- [Jogos Steam Verificados](https://www.steamdeck.com/pt-br/verified)
+- [Steam Deck Oficial Dock](https://www.steamdeck.com/pt-br/dock)
+- [Tech Specs](https://www.steamdeck.com/pt-br/tech)
+- [Novidades](https://www.steamdeck.com/pt-br/news)
+- [FAQ - Perguntas Frequentes](https://www.steamdeck.com/pt-br/faq)
+  
+### Inglês
+- [Página Oficial do Steam Deck](https://www.steamdeck.com/en/)
+- [Hardware](https://www.steamdeck.com/en/hardware)
+- [Software](https://www.steamdeck.com/en/software)
+- [Jogos Steam Verificados](https://www.steamdeck.com/en/verified)
+- [Steam Deck Oficial Dock](https://www.steamdeck.com/en/dock)
+- [Tech Specs](https://www.steamdeck.com/en/tech)
+- [Novidades](https://www.steamdeck.com/en/news)
+- [FAQ - Perguntas Frequentes](https://www.steamdeck.com/en/faq)
+- [Anúncio do Steam Deck no blog da Valve](https://store.steampowered.com/news/app/1406830/view/3070948040413601109)
+
+----
+## Redes Sociais
+
+### Twitter
+
+### Grupos Facebook
+ - #### Português
+    - [Steam Deck Brazil](https://www.facebook.com/groups/steamdeckbrazil/)
+    - [Valve Steam Deck Brasil](https://www.facebook.com/groups/valvesteamdeckbrasil/)
+- #### Inglês
+    - [SteamDeck Tips Tricks Hacks & Emulation](https://www.facebook.com/groups/895343947759775)
+    - [Steam Deck Windows10/11 Community](https://www.facebook.com/groups/1857754067746453/)
+    - [Steam Deck Community](https://www.facebook.com/groups/steamdeckgamers/)
+    - [Steam Deck](https://www.facebook.com/groups/steamdeck/)
+
+### Grupos Telegram
+- [Steam Deck BR 🇧🇷](https://t.me/+53kVjmn5GDBjM2Yx)
+- [Steam Deck Brasil 🇧🇷](https://t.me/SteamDeckBr)
+
+### Grupos WhatsApp
+
+### Communidades Reddit
+
+- [r/steamdeckbrasil](https://www.reddit.com/r/steamdeckbrasil/) ** esse subredit foi criado e é mantido por mim :)
+- [r/SteamDeck](https://www.reddit.com/r/SteamDeck/)
+- [r/steamdeck_linux](https://www.reddit.com/r/steamdeck_linux/)
+- [r/SteamDeckEmu](https://www.reddit.com/r/SteamDeckEmu/)
+- [r/SteamDeckEmulation](https://www.reddit.com/r/SteamDeckEmulation/)
+- [r/SteamdeckGames](https://www.reddit.com/r/SteamdeckGames/)
+- [r/SteamDeckTricks](https://www.reddit.com/r/SteamDeckTricks/)
+- [r/ValveSteamDeck](https://www.reddit.com/r/ValveSteamDeck/)
+- [r/DeckSupport](https://www.reddit.com/r/DeckSupport/)
+- [r/UnexpectedSteamDeck](https://www.reddit.com/r/UnexpectedSteamDeck/)
+- [r/SteamDeckHandheld/](https://www.reddit.com/r/SteamDeckHandheld/)
+- [r/SteamDeckModded/](https://www.reddit.com/r/SteamDeckModded/)
+- [r/SteamDeckYuzu/](https://www.reddit.com/r/SteamDeckYuzu/)
+- [r/LinuxCrackSupport](https://www.reddit.com/r/LinuxCrackSupport/)
+- [r/SteamOS](https://www.reddit.com/r/SteamOS/)
+- [r/WindowsOnDeck](https://www.reddit.com/r/WindowsOnDeck/)
+- [r/WinDeck](https://www.reddit.com/r/WinDeck/)
+- [r/RetroDeck](https://www.reddit.com/r/RetroDeck/)
+- [r/EmuDeck](https://www.reddit.com/r/EmuDeck/)
+
+
+----
 
