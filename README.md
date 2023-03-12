@@ -45,19 +45,19 @@ Esse é um trabalho que está em construção e em constante atualização. Volt
   - [Windows no Steam Deck](#windows-no-steam-deck)
   - [Steam Deck Hacks \& Utilitários](#steam-deck-hacks--utilitários)
   - [Emulação no Steam Deck](#emulação-no-steam-deck)
-  - [Parte 1 - O Guia do idiota para Emudeck](#parte-1---o-guia-do-idiota-para-emudeck)
-    - [Links úteis do Emudeck](#links-úteis-do-emudeck)
-    - [Os Emuladores](#os-emuladores)
-    - [Onde encontro os arquivos do BIOS?!](#onde-encontro-os-arquivos-do-bios)
-    - [Onde coloco os arquivos da BIOS?!](#onde-coloco-os-arquivos-da-bios)
-    - [Como faço para verificar se tenho o arquivo BIOS correto no lugar certo?!](#como-faço-para-verificar-se-tenho-o-arquivo-bios-correto-no-lugar-certo)
-    - [Agora, onde consigo jogos ou ROMS?](#agora-onde-consigo-jogos-ou-roms)
-    - [Sites para Download de Roms](#sites-para-download-de-roms)
-  - [Parte 2 - Guia do idiota para ROMsets para Emudeck](#parte-2---guia-do-idiota-para-romsets-para-emudeck)
-  - [Parte 3 - Guia do idiota para Steam Rom Manager para Emudeck](#parte-3---guia-do-idiota-para-steam-rom-manager-para-emudeck)
-    - [Como é que isso funciona?!](#como-é-que-isso-funciona)
-    - [Estou recebendo um erro aleatório/algo não está funcionando!!!](#estou-recebendo-um-erro-aleatórioalgo-não-está-funcionando)
-  - [Packs completos de Emuladores](#packs-completos-de-emuladores)
+    - [Parte 1 - O Guia do idiota para Emudeck](#parte-1---o-guia-do-idiota-para-emudeck)
+      - [Links úteis do Emudeck](#links-úteis-do-emudeck)
+      - [Os Emuladores](#os-emuladores)
+      - [Onde encontro os arquivos do BIOS?!](#onde-encontro-os-arquivos-do-bios)
+      - [Onde coloco os arquivos da BIOS?!](#onde-coloco-os-arquivos-da-bios)
+      - [Como faço para verificar se tenho o arquivo BIOS correto no lugar certo?!](#como-faço-para-verificar-se-tenho-o-arquivo-bios-correto-no-lugar-certo)
+      - [Agora, onde consigo jogos ou ROMS?](#agora-onde-consigo-jogos-ou-roms)
+      - [Sites para Download de Roms](#sites-para-download-de-roms)
+    - [Parte 2 - Guia do idiota para ROMsets para Emudeck](#parte-2---guia-do-idiota-para-romsets-para-emudeck)
+    - [Parte 3 - Guia do idiota para Steam Rom Manager para Emudeck](#parte-3---guia-do-idiota-para-steam-rom-manager-para-emudeck)
+      - [Como é que isso funciona?!](#como-é-que-isso-funciona)
+      - [Estou recebendo um erro aleatório/algo não está funcionando!!!](#estou-recebendo-um-erro-aleatórioalgo-não-está-funcionando)
+    - [Packs completos de Emuladores](#packs-completos-de-emuladores)
   - [Para fazer o download do arquivo .torrent do ArcadePunks, é necessário criar uma conta no site. Eu também disponibilizei o download do arquivo .torrent direto do meu site (link acima) e em breve irei disponibilizar o download do arquivo direto.](#para-fazer-o-download-do-arquivo-torrent-do-arcadepunks-é-necessário-criar-uma-conta-no-site-eu-também-disponibilizei-o-download-do-arquivo-torrent-direto-do-meu-site-link-acima-e-em-breve-irei-disponibilizar-o-download-do-arquivo-direto)
   - [Mais sobre emulação](#mais-sobre-emulação)
   - [Como rodar jogos alternativos no Steam Deck](#como-rodar-jogos-alternativos-no-steam-deck)
@@ -472,7 +472,7 @@ Existem diversas maneiras de rodar emuladores no seu Steam Deck.
 ----
 > Esse guia em 3 partes foi traduzido e adaptado dos textos publicado no Reddit pelo usuário [/u/EmulationStranger](https://www.reddit.com/user/EmulationStranger/) com algumas modificações e adições para o público brasileiro. Os posts originais estão [aqui](https://www.reddit.com/user/EmulationStranger/comments/11kom88/idiots_guide_to_steam_rom_manager_for_emudeck/), [aqui](https://www.reddit.com/r/SteamDeckEmulation/comments/11kcrhf/idiots_guide_to_romsets_for_emudeck/) e [aqui](https://www.reddit.com/user/EmulationStranger/comments/11j09qc/idiots_guide_to_emudeck_where_to_find_bios_and/)
 
-## Parte 1 - O Guia do idiota para Emudeck
+### Parte 1 - O Guia do idiota para Emudeck
 Estou usando o [Emudeck](https://github.com/dragoonDorise/EmuDeck) como base para este guia, embora existam outras ferramentas como RetroDeck e Batocera. 
 As dicas sobre BIOS e ROMs serão basicamente as mesmas, mas podem variar de plataforma para plataforma.
 
@@ -487,7 +487,7 @@ A instalação do Emudeck é bem simples e direta. O vídeo e o guia de instala�
 - Abra o navegador e faça o download do instalador utilizando o [link](https://www.emudeck.com/EmuDeck.desktop) e salve o arquivo no desktop/area de trabalho do Deck
 - Execute o arquivo com 2 cliques e siga os passos da instalação
 
-### Links úteis do Emudeck
+#### Links úteis do Emudeck
 
 - [Site oficial Emudeck](https://www.emudeck.com/)
 - [Emudeck - How to Install](https://www.emudeck.com/#how_to_install)
@@ -495,7 +495,7 @@ A instalação do Emudeck é bem simples e direta. O vídeo e o guia de instala�
 - [Guia Emudeck - Retro Game Corps](https://retrogamecorps.com/2022/10/16/steam-deck-emulation-starter-guide/)
 - [Guia Emudeck -  Wagner's Tech Talk](https://wagnerstechtalk.com/sd-emudeck/) 
 
-### Os Emuladores
+#### Os Emuladores
 
 - **RetroArch** vai emular Atari, NES, SNES, DS, N64, Sega Genesis, Neo Geo, Saturn, Dreamcast, GB, GBA, GBC e muitos outros
 - **Dolphin** é o emulador padrão para Nintendo GameCube e Nintendo Wii
@@ -513,7 +513,7 @@ A instalação do Emudeck é bem simples e direta. O vídeo e o guia de instala�
 - **VITA3K** é o emulador para Playstation Vita
 - **SCUMMVM** é o emulador para PC de jogos apontar e clicar (_point & click_) em aventuras como as antigas da LucasArts (Monkey Island, Full Throttle, Indiana Jones and the Fate of Atlantis)
 
-### Onde encontro os arquivos do BIOS?!
+#### Onde encontro os arquivos do BIOS?!
 
 E é aqui que todos os outros guias param devido a temores de “violação de direitos autorais”, dos quais BIOS e ROMs se enquadram diretamente. Mas não este guia porque somos todos adultos e sabemos sobre abandonware. Aqui você irá encontrar todos os links para você começar e todos eles estão no GitHub, archive.org, Vimm's Lair (site de ROM confiável) ou no site oficial do PlayStation. 
 
@@ -523,7 +523,7 @@ E é aqui que todos os outros guias param devido a temores de “violação de d
 
 - Firmware PS3 ([site oficial da Sony](https://www.playstation.com/en-us/support/hardware/ps3/system-software/) ou [link alternativo](http://download.localhostcloud.com/bios/ps3/PS3UPDAT.PUP) direto do meu site)) 
 
-### Onde coloco os arquivos da BIOS?!
+#### Onde coloco os arquivos da BIOS?!
 
 Esses sistemas precisam de BIOS que devem ser copiados DIRETAMENTE na pasta BIOS:
 
@@ -555,13 +555,13 @@ Esses sistemas NÃO precisam de arquivos de BIOS:
 Para todos os outros sistemas, consulte a documentação do Emudeck e RetroArch. [Informações do BIOS do Emudeck](https://github.com/dragoonDorise/EmuDeck/wiki/Cheat-Sheet)
 [Informações do BIOS do RetroArch](https://docs.libretro.com/library/bios/)
 
-### Como faço para verificar se tenho o arquivo BIOS correto no lugar certo?!
+#### Como faço para verificar se tenho o arquivo BIOS correto no lugar certo?!
 
 Você pode verificar usando o verificador de BIOS do Emudeck. Vá para o modo de área de trabalho >> abra o Emudeck >> Tools and Stuff >> Check BIOS.
 
 Isso verificará se o arquivo está no lugar correto e se possui o hash correto, mas ainda pode ter um nome incorreto. Todos os arquivos do BIOS do RetroArch são nomeados corretamente, assim como os arquivos do BIOS do XBox, mas lembre-se de que, se o verificador do BIOS estiver verde, ele ainda pode ter sido nomeado incorretamente.
 
-### Agora, onde consigo jogos ou ROMS?
+#### Agora, onde consigo jogos ou ROMS?
 
 Não vou entrar no mérito se ROM é pirataria ou não. Isso eu deixo para você decidir. Aqui você irá encontrar alguns links onde pode baixar as roms dos jogos e também alguns termos de pequisa que você pode usar no Google.
 
@@ -571,7 +571,7 @@ Duas coisas para manter em mente.
 
 A outra coisa é que os downloads do archive.org são extremamente lentos, a menos que você use um gerenciador de downloads. Na loja Discover, há um programa chamado Free Download Manager que funciona muito bem. Basta arrastar o arquivo de archive.org para o programa e ele acelerará consideravelmente o download. Eu particularmente, prefiro baixar as roms pelo computador e depois transferir para o Steam Deck.
 
-### Sites para Download de Roms
+#### Sites para Download de Roms
 
  - [Myrient](https://myrient.erista.me/)
    - Bastante organizado e seguro
@@ -597,7 +597,7 @@ Na parte 2 voltaremos a falar mais sobre Roms e Romsets para o Emudeck.
 
 ----
 
-## Parte 2 - Guia do idiota para ROMsets para Emudeck
+### Parte 2 - Guia do idiota para ROMsets para Emudeck
 Então você baixou e instalou o Emudeck em seu novo e brilhante Steam Deck e agora está pensando “Sou tão preguiçoso, só quero um monte de jogos de uma só vez para um sistema”. Você está com sorte! Tenho links e termos de pesquisa para ajudá-lo.
 
 Não estou garantindo absolutamente todos os links aqui, mas o archive.org verifica se há vírus antes do upload. Não clique em um arquivo .exe, pois nenhuma ROM está nesse formato.
@@ -619,12 +619,12 @@ Para começar, os downloads do Archive.org são extremamente lentos, a menos que
 - Por último, mas não menos importante, conjuntos de [ROMs EBZero](https://archive.org/details/@dischord), especificamente seu [RetroROMs Best Set](https://archive.org/details/retro-roms-best-set), que é de longe o melhor pacote inicial para um entusiasta retrô. Ele também tem pacotes de RPG para os interessados.
 ---
 
-## Parte 3 - Guia do idiota para Steam Rom Manager para Emudeck
+### Parte 3 - Guia do idiota para Steam Rom Manager para Emudeck
 Então você baixou o Emudeck, pegou seus jogos e agora quer jogá-los. MAS COMO VOCÊ PERGUNTA?!
 
 Bem, você pode seguir uma das duas rotas. Você pode adicioná-los como jogos individuais por meio do Steam Rom Manager ou pode adicionar o Emulation Station, que é um programa front-end empacotado com o Emudeck que abriga todos os seus milhares de ROMS. Neste guia, Steam Rom Manager é como vamos jogar jogos retrô no modo de jogo.
 
-### Como é que isso funciona?!
+#### Como é que isso funciona?!
 
 Abra-o indo para o modo de área de trabalho, abrindo o Emudeck, indo para Tools & Stuff e clicando em [Steam Rom Manager](https://github.com/SteamGridDB/steam-rom-manager). Para usar o Steam Rom Manager e editar sua biblioteca Steam, o Steam deve ser fechado, o que o avisará. **Com o Steam fechado, seu botão de clique não funcionará no trackpad, será R2 ou gatilho direito. NÃO ENTRAR EM PÂNICO.** Quando você abrir o Steam novamente, seus controles serão revertidos, mas enquanto você estiver usando o Steam Rom Manager e editando sua biblioteca Steam, o Steam deve ser fechado, então você deve usar o R2 para clicar. Dói mas é verdade. Ou você pode simplesmente usar um mouse.
 
@@ -634,7 +634,7 @@ Os dois primeiros analisadores devem ser ‘EmulationStationDE’ e ‘Emulators
 
 Depois de clicar nos analisadores desejados, clique em visualizar no canto superior esquerdo e gere a visualização do aplicativo na parte inferior. Se você quiser alterar toda a arte das coisas que está importando para sua Biblioteca Steam, altere 'Selecionar tipo' para 'todas as obras de arte' e, em seguida, você pode folhear individualmente e escolher as imagens certas. Quando estiver satisfeito, clique em salvar lista de aplicativos e feche o Steam Rom Manager.
 
-### Estou recebendo um erro aleatório/algo não está funcionando!!!
+#### Estou recebendo um erro aleatório/algo não está funcionando!!!
 
 [Consulte aqui as correções para a maioria das coisas comuns](https://github.com/dragoonDorise/EmuDeck/wiki/steam-rom-manager#precautions), como:
 
@@ -659,7 +659,7 @@ Abra o Steam Rom Manager, vá para as configurações à direita e no canto supe
 - [Emudeck Wiki](https://github.com/dragoonDorise/EmuDeck/wiki)
 
 ----
-## Packs completos de Emuladores
+### Packs completos de Emuladores
 
 O site [ArcadePunks](https://www.arcadepunks.com/) disponibilizou alguns packs com o sistema Batocera e CoinsOps para download.
 
