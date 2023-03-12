@@ -239,11 +239,22 @@ O blog RockPaperShotgun fez um [comparativo bem bacana](https://www.rockpapersho
 ## Redes Sociais
 
 ### Twitter
-
+- [@ondeck - Conta Oficial Valve](https://mobile.twitter.com/ondeck)
+- [@ondeckupdates - Conta Oficial - Updates Steam Deck](https://twitter.com/ondeckupdates)
+- [@SteamDeckHQ](https://twitter.com/SteamDeckHQ)
+- [@SteamDeckFans](https://twitter.com/SteamDeckFans)
+- [@SteamDeckGaming](https://twitter.com/SteamDeckGaming)
+- [@SteamDeckLife](https://twitter.com/SteamDeckLife)
+- [@SteamDeckEnergy](https://twitter.com/SteamDeckEnergy)
+- [@OnDeck_NEws](https://twitter.com/OnDeck_News)
+- [@SteamDecked](https://twitter.com/SteamDecked)
+- [@SteamDeckBrasil](https://twitter.com/SteamDeckBrasil)
+- 
 ### Grupos Facebook
  - #### Português
     - [Steam Deck Brazil](https://www.facebook.com/groups/steamdeckbrazil/)
     - [Valve Steam Deck Brasil](https://www.facebook.com/groups/valvesteamdeckbrasil/)
+
 - #### Inglês
     - [SteamDeck Tips Tricks Hacks & Emulation](https://www.facebook.com/groups/895343947759775)
     - [Steam Deck Windows10/11 Community](https://www.facebook.com/groups/1857754067746453/)
