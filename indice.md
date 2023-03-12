@@ -293,15 +293,14 @@ O blog RockPaperShotgun fez um [comparativo bem bacana](https://www.rockpapersho
 
 
 ----
-
 ## Sites & Blogs sobre o Steam Deck
 
 - [steamdeckhq.com](https://steamdeckhq.com/)
-- [sharedeck.games](https://sharedeck.games/)
 - [steamdecklife.com](https://steamdecklife.com/)
 - [overkill.wtf](https://overkill.wtf/tag/steam-deck/)
-- [johnnyblocks.com](https://johnnyblocks.com/) 
+- [sharedeck.games - An unofficial site to find and share Steam Deck performance configurations.](https://sharedeck.games/)
+- [Protondb - Compatibilidade de Jogos Steam](https://www.protondb.com/)
+- [https://www.steamgriddb.com/](https://www.steamgriddb.com/)
 ----
-
 ## Canais de Youtube sobre o Steam Deck
 
