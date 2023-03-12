@@ -11,7 +11,7 @@ Conteúdo sobre Steam Deck em Português compilado e traduzido por [Valdecir Car
 
 Esse trabalho está em _**construção**_ e em _**constante atualização**_. Volte sempre para ver as novidades.
 
-Para contribuir com o Guia do Steam Deck, você pode criar um [issue](https://github.com/valdecircarvalho/steamdeck-br/issues) no repositório do github ou me mandar uma mensagem pelas minhas [redes sociais](https://iamval.me). Esse é um _**trabalho colaborativo**_ e toda ajuda será bem vinda.
+Para **contribuir com o Guia do Steam Deck**, você pode criar um [issue](https://github.com/valdecircarvalho/steamdeck-br/issues) no repositório do github ou me mandar uma mensagem pelas minhas [redes sociais](https://iamval.me). Esse é um _**trabalho colaborativo**_ e toda ajuda será bem vinda.
 
 **ATENÇÃO: TODOS OS LINKS AQUI IRÃO ABRIR AUTOMATICAMENTE NA MESMA ABA, PARA MANTER ESSA PÁGINA ABERTA, CLIQUE NO LINK SEGURANDO A TECLA CRTL**
 
