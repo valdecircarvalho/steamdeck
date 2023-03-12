@@ -19,7 +19,7 @@ Conteúdo sobre Steam Deck em Português compilado e traduzido por [Valdecir Car
   - [Especificações](#especificações)
   - [FAQ](#faq)
   - [Hardware](#hardware)
-  - [Sistemas operacionais](#sistemas-operacionais)
+  - [Sistemas operacional](#sistemas-operacional)
   - [Jogos](#jogos)
 - [Websites](#websites)
   - [Telegram](#telegram)
@@ -94,7 +94,12 @@ Os preços oficiais da Valve são esses:
   - Tela anti-reflexo
   - Memória NVME (mais rápida)
 
-Aqui vale uma informação importante, **TODOS** os modelos do Steam Deck usam o SSD do modelo **M.2 2230**.
+Aqui vale uma informação importante, **TODOS** os modelos do Steam Deck usam o SSD do modelo **M.2 2230** como da imagem abaixo.
+
+![SSD M.2 2230](ssd-m2-2230.jpg)
+
+Aqui uma imagem com os principais modelos de SSD M.2 disponíveis no mercado, o maior, modelo **2280** é o mais utilizado notebooks e PCs e o mais barato e faacilmente encontrados nos sites de e-commerce do Brasil. Esse modelo **NÃO É COMPATÍVEL COM O STEAM DECK**!
+![Modelos de SSD M.2](ssd-m2-modelos.png)
 
 No Brasil você irá conseguir comprar o seu Deck atravez do Mercado Livre, AliExpress e também algumas lojas de games. Google é o seu melhor amigo. Em alguns grupoos do Facebook você irá encontrar pessoas vendendo Steam Deck por valores variados.
 
@@ -110,15 +115,21 @@ Eu comprei o modelo de 64Gb justamente por causa disso, mas após um tempo com o
 
 ## Acessórios "Obrigatórios"
 
-Considere também comprar:
+Considere também comprar os seguintes acessórios para o seu Steam Deck:
 
-- Dock USB - Uma dock USB-C vai permitir que você expanda as portas do Steam Deck - que conta apenas como uma entrada USC-C - abrindo possibilidades de expanção, adicionar teclado, mouse, um monitor externo, entrada ethernet, etc. A própria Valve lançou um dock station oficial para o Steam Deck. 
+- **Dock USB/Hub USB** - Uma dock USB-C vai permitir que você expanda as portas do Steam Deck - que conta apenas como uma entrada USC-C - abrindo possibilidades de expanção, adicionar teclado, mouse, um monitor externo, entrada ethernet, etc. A própria Valve lançou um dock station oficial para o Steam Deck. 
   - [Steam Deck Dock Oficial](https://www.steamdeck.com/en/dock) - [mais informações aqui](https://store.steampowered.com/steamdeckdock)
-- Carregador USC-C de no mínimo 45W
-- SD Card 256GB ou 512GB
-- 
+  - Existem diversas outra opções de dock station no Mercado Livre e no AliExpress. Procure uma marca de qualidade.
+  - Eu comprei um Hub USB-C 6x1 da [Baseus](https://baseusbr.com/produtos/hub-adaptador-4-5-6-8-em-1-multifuncional-4k-hdmi-tipo-c/) no [Mercado Livre](https://produto.mercadolivre.com.br/MLB-1974737985-adaptador-dock-thunderbolt3-usb-c-hdmi-p-macbook-air-pro-m1-_JM?quantity=1), funciona muito bem e até agora não tive nenhum problema.
+  - Nesse [video](https://www.youtube.com/watch?v=e2d57mPVV6w) do Retro Game Corps (em Inglês) ele faz um comparativo entre algumas marcas (Valve vs JSAUX vs iVoler)
+- **Carregador USC-C de no mínimo 45W** - O carregador oficial funciona muito bem, mas caso você compre a versão americana, o carregador virá com o padrão US (aquelas duas chapinhas) e você vai precisar de um adaptador. Eu recomendo que você compre um outro carregador USB-C de no mínimo 45W e com carregamento rápido. Eu comprei um carregador [rápido de 65W da Baseus](https://baseusbr.com/produtos/carregador-65w-gan-usb-tipo-c/) no [Mercado Livre](https://produto.mercadolivre.com.br/MLB-2028560120-carregador-baseus-65w-macbook-pro-air-m1-turbo-2x-type-c-usb-_JM#position=4&search_layout=stack&type=item&tracking_id=5cfbafd1-8c6e-450c-81f0-08a7fe1be11d) e funciona muito bem
+- **SD Card** de 256GB ou 512GB ou ainda 1Tb. Procure comprar um SD Card **ORIGINAL** e de procedência.
+![Explicação dos Modelos SD Card](modelos-sd-card.jpg)
+  - O blog RockPaperShotgun fez um [comparativo bem bacana](https://www.rockpapershotgun.com/best-microsd-cards-for-steam-deck) (em Inglês) sobre diversos modelos e marcas de SD Card que vale a leitura.
 
 ## Especificações
+
+O Steam Deck nada mais é que um __PC Portátil__
 
 - Processador: AMD Zen 2 de 4 núcleos / 8 threads
 - GPU: AMD RDNA 2
@@ -128,6 +139,7 @@ Considere também comprar:
 - Bateria: 40Whr, 8 a 10 horas de duração da bateria
 - Conectividade: Wi-Fi, Bluetooth 5.0, USB-C com DisplayPort 1.4, saída de áudio de 3,5 mm
 - Sistema operacional: SteamOS 3.0
+- Você pode ver todas as espeficicações de Hardware [aqui](https://www.steamdeck.com/en/hardware) no site da Valve
 
 ## FAQ
 
@@ -142,10 +154,9 @@ Veja as [perguntas frequentes do Steam Deck](faq.md) para obter mais informaçõ
 - [Anúncio do Steam Deck no blog da Valve](https://store.steampowered.com/news/app/1406830/view/3070948040413601109)
 - [Vídeo de desmontagem do Steam Deck do iFixit](https://www.ifixit.com/Teardown/Valve+Steam+Deck+Teardown/139373)
 
-## Sistemas operacionais
+## Sistemas operacional
 
 - [SteamOS 3.0](https://store.steampowered.com/steamos/)
-- [Arch Linux ARM](https://archlinuxarm.org/platforms/armv8/amd64/valve-steam-deck)
 
 
 ## Jogos
