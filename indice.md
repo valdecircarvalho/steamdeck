@@ -50,7 +50,7 @@
   - [Especificações técnicas](#especificações-técnicas)
     - [Componentes](#componentes)
   - [Modelos Disponíveis](#modelos-disponíveis)
-  - [Preço](#preço)
+  - [Steam Deck no Brasil](#steam-deck-no-brasil)
 
 ----
 
@@ -133,20 +133,24 @@ O Steam Deck é um dispositivo portátil de jogos desenvolvido pela Valve. É um
 
 ## Modelos Disponíveis
 
-- Modelo 64 GB
-  - 399.00 USD
+Existem atualmente 3 modelos de Steam Deck disponíveis para compra e o que diferem um modelo do outro são basicamente a quantidade de armazenamento e a tela (no modelo de 512GB)
+
+![SSD M.2 2230](modelos-steam-deck.png)
+
+- **Modelo 64 GB**
+  - $399.00 USD
   - Case
   - Memória eMMC (mais lenta)
   - Carregador
 
-- Modelo 128 GB
-  - 529.00 USD
+- **Modelo 128 GB**
+  - $529.00 USD
   - Case
   - Memória NVME (mais rápida)
   - Exclusivo Steam Community profile bundle
 
-- Modelo 512GB
-  - 649.00 USD
+- **Modelo 512GB**
+  - $649.00 USD
   - Case exclusiva
   - Tela anti-reflexo
   - Memória NVME (mais rápida)
@@ -157,12 +161,14 @@ Aqui vale uma informação importante, **TODOS** os modelos do Steam Deck usam o
 Aqui uma imagem com os principais modelos de SSD M.2 disponíveis no mercado, o maior, modelo **2280** é o mais utilizado notebooks e PCs e o mais barato e faacilmente encontrados nos sites de e-commerce do Brasil. Esse modelo **NÃO É COMPATÍVEL COM O STEAM DECK**!
 ![Modelos de SSD M.2](ssd-m2-modelos.png)
 
+## Steam Deck no Brasil
+
 O Steam Deck ainda não é oficialmente vendido pela Valve no Brasil, mas não é por isso que você não vai conseguir comprar o seu. 
 
-## Preço
-
-No Brasil você irá conseguir comprar o seu Deck atravez do Mercado Livre, AliExpress e também algumas lojas de games. Google é o seu melhor amigo. Em alguns grupoos do Facebook você irá encontrar pessoas vendendo Steam Deck por valores variados.
+No Brasil você irá conseguir comprar o seu Deck atravez do Mercado Livre, AliExpress e também algumas lojas de games. 
+O Google é o seu melhor amigo. Em alguns grupoos do Facebook você irá encontrar pessoas vendendo Steam Deck por valores variados.
 
 Outra forma de conseguir o seu é via importação direta, um amigo que está por lá, empresas de redirecionamento, etc. 
 
 Comprando aqui no Brasil, espere pagar entre R$3500-R$4500 no modelo 64GB e até uns R$6000 no modelo 512GB. 
+
