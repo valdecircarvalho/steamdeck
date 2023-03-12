@@ -159,7 +159,7 @@ O Steam Deck é um dispositivo portátil de jogos desenvolvido pela Valve. É um
 ----
 ## Modelos Disponíveis
 
-Existem atualmente 3 modelos de Steam Deck disponíveis para compra e o que diferem um modelo do outro são basicamente a quantidade de armazenamento e a tela (no modelo de 512GB)
+Existem atualmente **3 modelos de Steam Deck** disponíveis para compra e o que diferem um modelo do outro são basicamente a quantidade de armazenamento e a tela (no modelo de 512GB)
 
 ![SSD M.2 2230](modelos-steam-deck.png)
 
@@ -190,7 +190,7 @@ Aqui uma imagem com os principais modelos de SSD M.2 disponíveis no mercado, o 
 ----
 ## Steam Deck no Brasil
 
-O Steam Deck ainda não é oficialmente vendido pela Valve no Brasil, mas não é por isso que você não vai conseguir comprar o seu. 
+O Steam Deck **ainda não é oficialmente vendido pela Valve no Brasil**, mas não é por isso que você não vai conseguir comprar o seu. 
 
 No Brasil você irá conseguir comprar o seu Deck atravez do Mercado Livre, AliExpress e também algumas lojas de games. 
 O Google é o seu melhor amigo. Em alguns grupoos do Facebook você irá encontrar pessoas vendendo Steam Deck por valores variados.
@@ -222,6 +222,7 @@ Considere também comprar os seguintes acessórios para o seu Steam Deck:
 No Brasil, um SD Card original e de qualidade não sai por menos do que R$800-R$1000 reais. Menos do que isso, pode estar certo de que é pirata.
 
 ![Explicação dos Modelos SD Card](modelos-sd-card.jpg)
+
 O blog RockPaperShotgun fez um [comparativo bem bacana](https://www.rockpapershotgun.com/best-microsd-cards-for-steam-deck) (em Inglês) sobre diversos modelos e marcas de SD Card que vale a leitura.
 - **SSD M.2 2230** - Se você optou por comprar a versão de 64GB, o upgrade do SSD é quase obrigatório se você quiser armazenar muitos jogos no seu Steam Deck. Existem diversos modelos e marcas de SSD no mercado. No Brasil, não encontrei SSDs de 1TB para vender, mas sei que no AliExpress é um dos melhores lugar para comprar.
 
