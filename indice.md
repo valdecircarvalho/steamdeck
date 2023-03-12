@@ -332,3 +332,4 @@ O blog RockPaperShotgun fez um [comparativo bem bacana](https://www.rockpapersho
 - [Steam Deck Gaming](https://www.youtube.com/@SteamDeckGaming)
 - [Steam Deck Verified Games Updates](https://www.youtube.com/@steamdeckverified)
 - [ETA Prime](https://www.youtube.com/@ETAPRIME/search?query=steam%20Deck)
+- [Steam Deck Review And Tips](https://www.youtube.com/@steamdeckreviewandtips4155)
