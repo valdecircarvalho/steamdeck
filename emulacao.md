@@ -222,6 +222,8 @@ Abra o Steam Rom Manager, vá para as configurações à direita e no canto supe
 
 + https://wagnerstechtalk.com/steamdeck/
 
+  + [RetroDeck](https://github.com/XargonWan/RetroDECK)
+  + [Batocera](https://wiki.batocera.org/handheld_pc#steam_deck) - [https://wagnerstechtalk.com/sd-batocera/](esse guia) é muito bom
 
 - [RetroArch](https://www.retroarch.com/)
 - [Dolphin](https://dolphin-emu.org/)

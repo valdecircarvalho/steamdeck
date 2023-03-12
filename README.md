@@ -9,48 +9,6 @@ Conteúdo sobre Steam Deck em Português compilado e traduzido por [Valdecir Car
 
 **ATENÇÃO: TODOS OS LINKS AQUI IRÃO ABRIR AUTOMATICAMENTE NA MESMA ABA, PARA MANTER ESSA PÁGINA ABERTA, CLIQUE NO LINK COM A TECLA CRTL APERTADA**
 
-- Artigos
-- O Steam Deck
-  - Informações Oficiais
-  - Especificações Técnicas
-  - Modelos
-  - Preços
-  - Acessórios
-  - Qual modelos Comprar?
-  - Links Oficiais
-- Redes Sociais
-  - Twitter
-  - Grupos Facebook
-  - Grupos Telegram
-  - Grupos WhatsApp
-  - Comunidades Reddit
-- Sites & Blogs sobre o Steam Deck
-- Canais de Youtube sobre o Steam Deck
-- Jogos Compatíveis com o Steam Deck
-- Primeiros Passos na Steam
-  - Como criar uma conta Steam para o Steam Deck
-  - Como comprar jogos na Steam
-- Outros sites para comprar jogos Steam
-- Primeiros Passos com o seu novo Steam Deck
-  - Perguntas Frequentes - FAQ
-  - Uso básico e solução de problemas
-  - Software e solução de problemas
-  - Modo Desktop
-  - Configuração de Controles
-  - Controles
-- Windows no Steam Deck
-- Steam Deck Hacks
-- Emulação no Steam Deck
-  - Emudeck
-  - Batocera
-  - Roms
-  - Nintendo Switch
-  - Playstation 2
-  - Playstation 3
-  - Xbox 360
-- Jogos Alternativos no Steam Deck
-- Guias
-
 ----
 - [steamdeck-br](#steamdeck-br)
 - [O Steam Deck](#o-steam-deck)
@@ -76,6 +34,28 @@ Conteúdo sobre Steam Deck em Português compilado e traduzido por [Valdecir Car
   - [Canais de Youtube sobre o Steam Deck](#canais-de-youtube-sobre-o-steam-deck)
   - [Jogos no Steam Deck](#jogos-no-steam-deck)
     - [Lista de Jogos Verificados no Steam Deck](#lista-de-jogos-verificados-no-steam-deck)
+  - [Como instalar jogos "Não-Steam" no Steam Deck](#como-instalar-jogos-não-steam-no-steam-deck)
+  - [Outros sites para comprar jogos Steam](#outros-sites-para-comprar-jogos-steam)
+  - [Primeiros Passos na Steam](#primeiros-passos-na-steam)
+  - [Primeiros Passos com o seu novo Steam Deck](#primeiros-passos-com-o-seu-novo-steam-deck)
+  - [Windows no Steam Deck](#windows-no-steam-deck)
+  - [Steam Deck Hacks \& Utilitários](#steam-deck-hacks--utilitários)
+  - [Emulação no Steam Deck](#emulação-no-steam-deck)
+  - [Parte 1](#parte-1)
+  - [O Guia do idiota para Emudeck](#o-guia-do-idiota-para-emudeck)
+    - [Quais emuladores eu quero?!](#quais-emuladores-eu-quero)
+    - [Onde encontro os arquivos do BIOS?!](#onde-encontro-os-arquivos-do-bios)
+    - [Onde coloco os arquivos da BIOS?!](#onde-coloco-os-arquivos-da-bios)
+    - [Como faço para verificar se tenho o arquivo BIOS correto no lugar certo?!](#como-faço-para-verificar-se-tenho-o-arquivo-bios-correto-no-lugar-certo)
+    - [Agora, onde consigo jogos (AKA ROMS)?!](#agora-onde-consigo-jogos-aka-roms)
+  - [Parte 2](#parte-2)
+  - [Guia do idiota para ROMsets para Emudeck](#guia-do-idiota-para-romsets-para-emudeck)
+  - [Parte 3](#parte-3)
+  - [Guia do idiota para Steam Rom Manager para Emudeck](#guia-do-idiota-para-steam-rom-manager-para-emudeck)
+  - [Como é que isso funciona?!](#como-é-que-isso-funciona)
+  - [Estou recebendo um erro aleatório/algo não está funcionando!!!](#estou-recebendo-um-erro-aleatórioalgo-não-está-funcionando)
+  - [Como rodar jogos alternativos no Steam Deck](#como-rodar-jogos-alternativos-no-steam-deck)
+  - [Guias](#guias)
 
 ----
 
@@ -226,7 +206,11 @@ No Brasil, um SD Card original e de qualidade não sai por menos do que R$800-R$
 ![Explicação dos Modelos SD Card](modelos-sd-card.jpg)
 
 O blog RockPaperShotgun fez um [comparativo bem bacana](https://www.rockpapershotgun.com/best-microsd-cards-for-steam-deck) (em Inglês) sobre diversos modelos e marcas de SD Card que vale a leitura.
+
+Outro artigo bacana sobre SD Cards você encontra [aqui](https://www.dexerto.com/tech/best-microsd-card-for-steam-deck-1931237/), no site [Dexerto.com](https://www.dexerto.com/search/?query=Steam+Deck)
+
 - **SSD M.2 2230** - Se você optou por comprar a versão de 64GB, o upgrade do SSD é quase obrigatório se você quiser armazenar muitos jogos no seu Steam Deck. Existem diversos modelos e marcas de SSD no mercado. No Brasil, não encontrei SSDs de 1TB para vender, mas sei que no AliExpress é um dos melhores lugar para comprar.
+- **Powerbank** - Considere também comprar um powerbank para prolongar a bateria do seu Steam Deck quando você estiver longe de uma tomada.
 
 ---- 
 ## Links Oficiais
@@ -240,6 +224,7 @@ O blog RockPaperShotgun fez um [comparativo bem bacana](https://www.rockpapersho
 - [Tech Specs](https://www.steamdeck.com/pt-br/tech)
 - [Novidades](https://www.steamdeck.com/pt-br/news)
 - [FAQ - Perguntas Frequentes](https://www.steamdeck.com/pt-br/faq)
+- [Press Kit](https://www.steamdeck.com/pt-br/press)
   
 ### Inglês
 - [Página Oficial do Steam Deck](https://www.steamdeck.com/en/)
@@ -251,6 +236,7 @@ O blog RockPaperShotgun fez um [comparativo bem bacana](https://www.rockpapersho
 - [Novidades](https://www.steamdeck.com/en/news)
 - [FAQ - Perguntas Frequentes](https://www.steamdeck.com/en/faq)
 - [Anúncio do Steam Deck no blog da Valve](https://store.steampowered.com/news/app/1406830/view/3070948040413601109)
+- [Press Kit](https://www.steamdeck.com/en/press)
 
 ----
 ## Redes Sociais
@@ -387,6 +373,294 @@ Você também pode filtrar os jogos na lojinha da Steam que são compatíveis co
 - Deck Verificado (_Verified_) - [link Steam Store](https://store.steampowered.com/search/?deck_compatibility=3)
 - Deck Jogável (_Playable_) - [link Steam Store](https://store.steampowered.com/search/?deck_compatibility=2)
 
+Os jogos comprados na loja da Steam, estão sempre com os valores em Reais e você pode pagar com Cartão de Crédito, Pix, Boleto, etc.
 
-------------
-- [Página oficial de jogos do Steam Deck](https://www.steamdeck.com/pt/games)
+---
+## Como instalar jogos "Não-Steam" no Steam Deck
+
+**_Em construção_**
+
+- [How to install Epic and GOG games on Steam Deck](https://www.dexerto.com/tech/how-to-install-epic-games-on-steam-deck-1894333/)
+- [How to play Battle.net games on Steam Deck](https://www.dexerto.com/tech/how-to-play-battle-net-games-on-steam-deck-2023706/)
+- [How to play Xbox and PC Game Pass games on Steam Deck](https://www.dexerto.com/tech/game-pass-on-steam-deck-1896451/)
+- [How to play Amazon Prime games on Steam Deck](https://www.dexerto.com/tech/how-to-play-amazon-prime-games-on-steam-deck-1931049/)
+
+## Outros sites para comprar jogos Steam
+
+Você também pode comprar jogos Steam (chaves de jogos) em outros sites e geralmente com algum desconto em relação a loja oficial e pagando em Reais.
+
+- https://www.fanatical.com/
+- https://www.eneba.com/br/
+- https://www.nuuvem.com/br-en/
+- https://gg.deals/deals/steam-deals/
+- https://steamdb.info/sales/
+- https://steamdb.info/sales/history/
+
+---
+## Primeiros Passos na Steam
+
+Se você veio do mundo dos consoles e não jogava no PC, provavelmente você não tem uma conta na Steam, mas para fazer o setup inicial do seu Steam Deck, você vai precisar de uma. 
+
+Você também vai precisar de uma conta Steam para comprar os jogos na [Steam Store](https://store.steampowered.com/).
+
+O Steam tem um software para ser instalado no seu PC, mas para usar o Steam Deck, você não precisa instalar esse software.
+
+- Como criar uma conta Steam para o Steam Deck
+  - Acesse o link [https://store.steampowered.com/join](https://store.steampowered.com/join?l=portuguese)
+  - Preencha o seu e-mail e os campos necessários
+  - Confirme o e-mail
+  - Crie um username e password
+  - Você irá utilizar esses dados para logar e configurar o seu Steam Deck
+
+Use uma senha forte e também o app do Steam Guard no seu celular para garantir a segurança da sua conta, evitando assim, ter a sua conta comprometida.
+
+[Ajuda com a sua conta Steam](https://help.steampowered.com/pt-br/wizard/HelpWithAccount)
+
+
+----
+
+## Primeiros Passos com o seu novo Steam Deck
+  - Perguntas Frequentes - FAQ
+  - Uso básico e solução de problemas
+  - Software e solução de problemas
+  - Modo Desktop
+  - Configuração de Controles
+  - Controles
+
+----
+## Windows no Steam Deck
+**_Em construção_**
+
+----
+## Steam Deck Hacks & Utilitários
+**_Em construção_**
+
+----
+## Emulação no Steam Deck
+**_Em construção_**
+
+O Steam Deck é o paraiso dos emuladores. Ele pode em teoria emular qualquer coisa, desde o antigo Atari 2600 até o Xbox 360 e Playstation 3 sem grandes problemas.
+
+Existem diversas maneiras de rodar emuladores no seu Steam Deck. 
+
+  - Instalar cada emulador separadamente
+  - Usar uma ferramenta pré-configurada para emulação. As principais para o Steam Deck hoje são: 
+    - [EmuDeck](https://www.emudeck.com/)
+    - [RetroDeck](https://retrodeck.net/)
+    - [Batocera](https://batocera.org)
+
+
+----
+Esse guia em 3 partes foi traduzido e adaptado dos textos publicado no Reddit pelo usuário [/u/EmulationStranger](https://www.reddit.com/user/EmulationStranger/) com algumas modificações e adições para o público brasileiro. Os posts originais estão [aqui](https://www.reddit.com/user/EmulationStranger/comments/11kom88/idiots_guide_to_steam_rom_manager_for_emudeck/), [aqui](https://www.reddit.com/r/SteamDeckEmulation/comments/11kcrhf/idiots_guide_to_romsets_for_emudeck/) e [aqui](https://www.reddit.com/user/EmulationStranger/comments/11j09qc/idiots_guide_to_emudeck_where_to_find_bios_and/)
+
+## Parte 1
+## O Guia do idiota para Emudeck
+Estou usando o [Emudeck](https://github.com/dragoonDorise/EmuDeck) como base para este guia, embora existam outras ferramentas como RetroDeck e Batocera. 
+As dicas sobre BIOS e ROMs serão basicamente as mesmas, mas podem variar.
+
+O vídeo e o guia de instalação feito pelo Russ do blog Retro Game Corp no site da Emudeck irá guiá-lo através da instalação do Emudeck 2.0.
+
+[Este outro guia](https://wagnerstechtalk.com/sd-emudeck/) escrito por Wagnerstechtalk também é incrivelmente útil
+
+### Quais emuladores eu quero?!
+
++ **RetroArch** vai emular Atari, NES, SNES, DS, N64, Sega Genesis, Neo Geo, Saturn, Dreamcast, GB, GBA, GBC e muitos outros
+
++ **Dolphin** é o emulador padrão para Nintendo GameCube e Nintendo Wii
+
++ **Prime Hacks** é um fork do Dolphin para Metroid Prime Wii Trilogy
+
++ **PPSSPP** é o emulador para Sony PSP
+
++ Duckstation é o emulador para Sony Playstation 1/PS1
+
++ Citra é o emulador para Nintendo 3DS
+
++ MelonDS é o emulador para Nintendo DS
+
++ PCSX2 é o emulador para Sony Playstation 2/PS2
+
++ RPCS3 é o emulador para Sony Playstation 3/PS3
+
++ Yuzu e Ryujinx são ambos Nintendo Switch (não vou entrar nessa emulação)
+
++ Xemu é o emulador para OG Xbox
+
++ CEMU é o emulador para o Nintendo WII U
+
++ MAME é o emulador de fliperama
+
++ VITA3K é o emulador para Playstation Vita
+
++ SCUMMVM é o emulador para PC de jogos apontar e clicar (_point & click_) em aventuras como as antigas da LucasArts (Monkey Island, Full Throttle, Indiana Jones and the Fate of Atlantis)
+
+### Onde encontro os arquivos do BIOS?!
+
+E é aqui que todos os outros guias param devido a temores de “violação de direitos autorais”, dos quais BIOS e ROMs se enquadram diretamente. Mas não este guia porque somos todos adultos e sabemos sobre abandonware. Tem todos os links para você começar e todos eles estão no GitHub, archive.org, Vimm's Lair (site de ROM confiável) ou no site oficial do PlayStation.
+
+Não vou entrar na emulação do Switch.
+
+BIOS RetroArch completo ([link do GitHub](https://github.com/Abdess/retroarch_system) ou [link alternativo]() direto do meu site)
+
+Arquivos de BIOS do XBox ([link archive.org](https://archive.org/details/xemustarter) ou [link alternativo]() direto do meu site))
+
+Firmware PS3 ([site oficial da Sony](https://www.playstation.com/en-us/support/hardware/ps3/system-software/) ou [link alternativo]() direto do meu site)) 
+
+### Onde coloco os arquivos da BIOS?!
+
+Esses sistemas comuns que requerem BIOS vão DIRETAMENTE na pasta BIOS:
+
++ PS1
++ PS2
++ Sega Saturn (Três núcleos RetroArch separados)
++ CD Sega
++ Sega Genesis
++ Nintendo DS
++ XBox (Não - RetroArch)
++ Dreamcast BIOS vai para a pasta 'dc' dentro da pasta BIOS
++ O firmware PS3 deve ser instalado via desktop RPCS3.
+
+Esses sistemas comuns NÃO requerem arquivos de BIOS:
+
++ NES
++ SNES
++ N64
++ Game Cube
++ Wii
++ wii u
++ Game Boy
++ Game Boy Color
++ Game Boy Advance
++ Nintendo 3ds
++ PSP
++ Game Gear
+
+Para todos os outros sistemas, consulte a documentação do Emudeck e RetroArch. [Informações do BIOS do Emudeck](https://github.com/dragoonDorise/EmuDeck/wiki/Cheat-Sheet)
+[Informações do BIOS do RetroArch](https://docs.libretro.com/library/bios/)
+
+### Como faço para verificar se tenho o arquivo BIOS correto no lugar certo?!
+
+Você pode verificar usando o verificador de BIOS do Emudeck. Vá para o modo de área de trabalho, abra o Emudeck, Tools and Stuff, verifique o BIOS.
+
+Isso verificará se o arquivo está no lugar correto e se possui o hash correto, mas ainda pode ter um nome incorreto (a capitalização é importante). Todos os arquivos do BIOS do RetroArch são nomeados corretamente, assim como os arquivos do BIOS do XBox, mas lembre-se de que, se o verificador do BIOS estiver verde, ele ainda pode ter sido nomeado incorretamente.
+
+### Agora, onde consigo jogos (AKA ROMS)?!
+
+Vou fornecer três links, alguns termos de pesquisa e um vídeo.
+
+Duas coisas para manter em mente.
+
+Às vezes, os arquivos baixados estão no formato .zip ou .7z, que é compactado. Alguns sistemas RetroArch podem reproduzir os arquivos condensados, mas a maioria dos sistemas não pode, então você terá que extrair os arquivos. No Steamdeck, clique com o botão esquerdo no arquivo e clique em Extrair.
+
+A outra coisa é que os downloads do archive.org são extremamente lentos, a menos que você use um gerenciador de downloads. Na loja Discover, há um programa chamado Free Download Manager que funciona muito bem. Basta arrastar o arquivo de archive.org para o programa e ele acelerará consideravelmente o download.
+
+1. https://myrient.erista.me/ 
+
+1. Covil de Vimm (https://vimm.net/)
+
+* Tem tudo até Wii e PSP
+
+* Velocidades de download dolorosamente lentas (apenas uma de cada vez), mas seguras, confiáveis e incrivelmente intuitivas
+
+* Downloads do XBox no formato .xiso que rodam automaticamente no Xemu (o emulador é instalado pelo Emudeck)
+
+* Cada arquivo que você baixa vem como um arquivo compactado junto com um arquivo .txt do Vimm's Lair depois de extrair os arquivos. Você pode deletar isso.
+
+2. Página Github 2.r-ROMs também conhecida como “o Megathread” (https://r-roms.github.io/)
+
+* Para navegar para encontrar um jogo, use a barra de menu na parte superior (ou clique no botão de 3 linhas para expandir o menu)
+
+* NÃO use a barra de pesquisa porque ela não encontrará todos os jogos, apenas alguns jogos populares.
+
+* Depois de navegar para o sistema (por exemplo, Sony - Sony PlayStation - Internet Archive (Redump) (CHD) ), clique em download e ele o levará a um arquivo em archive.org. Você pode rolar para encontrá-lo ou “Localizar na página”/Control + F para encontrar seu jogo.
+
+Alguns dos arquivos podem estar atrás de um bloqueio. Você precisa criar uma conta archive.org para
+
+3. O último é apenas Archive.org
+
++ Se tudo o que foi dito acima não ajudou você a descobrir por que estava procurando, o archive.org o cobre.
+
++ Aqui está um vídeo do Sr. Sujano no YouTube que explica como usar o Archive.org para encontrar ROMs para download. Na última etapa, em vez de clicar no arquivo, você pode arrastá-lo para o Free Download Manager e ele deve ser processado.
+
++ Assim, com um gerenciador de download e depois de assistir ao Mr. Sujano, posso fornecer algumas palavras-chave que devem ajudá-lo a encontrar alguns bons ROMsets.
+
+    + Cylum (muitos ROMsets)
+    + Ghostware
+    + usuário do reddit u/EBZero tem ótimos pacotes de ROM, pesquise EBZero
+    + https://archive.org/details/retro-roms-best-set
+
+É claro que “(inserir sistema) ROMset” também funciona
+
+----
+
+## Parte 2
+
+## Guia do idiota para ROMsets para Emudeck
+Então você baixou e instalou o Emudeck em seu novo e brilhante Steam Deck e agora está pensando “Sou tão preguiçoso, só quero um monte de jogos de uma só vez para um sistema”. Você está com sorte! Tenho links e termos de pesquisa para ajudá-lo.
+
+Não estou garantindo absolutamente todos os links aqui, mas o archive.org verifica se há vírus antes do upload. Não clique em um arquivo .exe, pois nenhuma ROM está nesse formato.
+
+Para começar, os downloads do Archive.org são extremamente lentos, a menos que você use um gerenciador de downloads. Na loja Discover, há um programa chamado Free Download Manager que funciona muito bem. Basta arrastar o arquivo de archive.org para o programa e ele acelerará consideravelmente o download.
+
+- [ROMset da RetroAchievement](https://archive.org/details/retroachievements_collection_v5) -  Ótima comunidade que adiciona conquistas a jogos retrô. Existe até um para [jogos de PS2](https://archive.org/details/retroachievements_collection_PS2). Cada jogo neste conjunto tem o hash certo para corresponder a um conjunto da RetroAchievement. Se você compactar o arquivo, talvez não seja mais possível usar o RetroAchievements para esse arquivo.
+
+- [1G1R ROMset Conjuntos 1G1R](https://archive.org/details/hearto-1g1r-collection) - significam 1 Jogo 1 ROM. Sem duplicatas ou várias versões do mesmo jogo. Este ROMset tem vários sistemas, mas obviamente não todos.
+
+- [No-Intro ROMsets](https://archive.org/details/no-intro_romsets) e [ReDump ROMsets](https://archive.org/details/redump) - No-Intro e ReDump são os dois principais dumps confiáveis de jogos. Este conjunto específico de No-Intro exige que você crie uma conta para acessá-lo, o que você definitivamente deve fazer, mas também pode pesquisar apenas “No-intro” ou “Redump”.
+
+- [Cylum ROMsets](https://archive.org/search?query=creator%3A%22Cylum%22)  - Excelentes ROMsets para a maioria dos sistemas. Ainda tem traduções e hacks em pastas separadas.
+
+- [Ghostware ROMsets](https://archive.org/search?query=creator%3A%22Ghostware%22) Uma variedade enorme de ótimos ROMsets. Bem rotulado e mantido.
+
+- [Emuvault ROMsets](https://archive.org/search?query=creator%3A%22EmuVault%22) -  O mesmo que o de cima.
+
+- Por último, mas não menos importante, conjuntos de [ROMs EBZero](https://archive.org/details/@dischord), especificamente seu [RetroROMs Best Set](https://archive.org/details/retro-roms-best-set), que é de longe o melhor pacote inicial para um entusiasta retrô. Ele também tem pacotes de RPG para os interessados.
+---
+
+## Parte 3
+## Guia do idiota para Steam Rom Manager para Emudeck
+Então você baixou o Emudeck, pegou seus jogos e agora quer jogá-los. MAS COMO VOCÊ PERGUNTA?!
+
+Bem, você pode seguir uma das duas rotas. Você pode adicioná-los como jogos individuais por meio do Steam Rom Manager ou pode adicionar o Emulation Station, que é um programa front-end empacotado com o Emudeck que abriga todos os seus milhares de ROMS. Neste guia, Steam Rom Manager é como vamos jogar jogos retrô no modo de jogo.
+
+## Como é que isso funciona?!
+
+Abra-o indo para o modo de área de trabalho, abrindo o Emudeck, indo para Tools & Stuff e clicando em [Steam Rom Manager](https://github.com/SteamGridDB/steam-rom-manager). Para usar o Steam Rom Manager e editar sua biblioteca Steam, o Steam deve ser fechado, o que o avisará. **Com o Steam fechado, seu botão de clique não funcionará no trackpad, será R2 ou gatilho direito. NÃO ENTRAR EM PÂNICO.** Quando você abrir o Steam novamente, seus controles serão revertidos, mas enquanto você estiver usando o Steam Rom Manager e editando sua biblioteca Steam, o Steam deve ser fechado, então você deve usar o R2 para clicar. Dói mas é verdade. Ou você pode simplesmente usar um mouse.
+
+Depois de abrir o Steam Rom Manager, você verá um monte de 'analisadores' no lado esquerdo da tela. Caso contrário, você não deixou o Emudeck configurar seu Steam Rom Manager. Eu redefiniria sua configuração voltando para Ferramentas e outras coisas, clicando em Guias do emulador e, em seguida, Steam Rom Manager e redefinindo a configuração.
+
+Os dois primeiros analisadores devem ser ‘EmulationStationDE’ e ‘Emulators’. O EmulationStationDE colocará o Emulation Station em sua biblioteca e os emuladores colocarão os emuladores reais em sua biblioteca, como RetroArch, PCSX2, RPCS3, etc. Para colocar ROMS individuais em sua biblioteca Steam, clique no analisador do sistema.
+
+Depois de clicar nos analisadores desejados, clique em visualizar no canto superior esquerdo e gere a visualização do aplicativo na parte inferior. Se você quiser alterar toda a arte das coisas que está importando para sua Biblioteca Steam, altere 'Selecionar tipo' para 'todas as obras de arte' e, em seguida, você pode folhear individualmente e escolher as imagens certas. Quando estiver satisfeito, clique em salvar lista de aplicativos e feche o Steam Rom Manager.
+
+## Estou recebendo um erro aleatório/algo não está funcionando!!!
+
+[Consulte aqui as correções para a maioria das coisas comuns](https://github.com/dragoonDorise/EmuDeck/wiki/steam-rom-manager#precautions), como:
+
++ Socorro, acabei de abrir o Steam ROM Manager e não tenho controles!
++ Por que o Steam ROM Manager não tem analisadores?
++ "Encerre o Steam se estiver em execução"
++ Grandes problemas de coleções de ROM (mais de 1k ROMs)
++ Por que meus jogos não aparecem no Steam ROM Manager?
++ Por que alguns dos meus jogos com vários discos não aparecem no Steam ROM Manager?
++ Fim inesperado da entrada JSON
+
+E também [Como corrigir uma entrada incompatível criando uma exceção no SRM](https://raw.githubusercontent.com/rawdatafeel/Emudeck-GIFS/f38567032581cf61034389e5cd9fe1523c5631b6/GIFs/How%20to%20Fix%20a%20Mismatched%20Entry.gif)
+
+Qualquer outra coisa, eu recomendaria o [Servidor Discord oficial](https://www.reddit.com/r/SteamDeck/comments/v5r7fp/official_emudeck_discord_server/) da Emudeck
+
+**Eu adicionei um monte de coisas e nenhuma delas funciona agora. Como posso simplesmente recomeçar?!**
+
+Abra o Steam Rom Manager, vá para as configurações à direita e no canto superior direito da página diz "Remover todas as entradas de aplicativos adicionadas". Isso remove todos os jogos que você adicionou via SRM.
+
+- [Comunidade Emudeck no Reddit](https://www.reddit.com/r/EmuDeck)
+- [Steam Rom Manager](https://steamgriddb.github.io/steam-rom-manager/)
+- [Emudeck Wiki](https://github.com/dragoonDorise/EmuDeck/wiki)
+
+
+----
+
+
+## Como rodar jogos alternativos no Steam Deck
+
+## Guias
