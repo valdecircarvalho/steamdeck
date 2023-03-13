@@ -1,5 +1,5 @@
 # O Guia do Steam Deck em Português
-[steamdeck.valdecir.me](http://steamdeck.valdecir.me)
+[steamdeck.valdecir.me](https://steamdeck.valdecir.me)
 
 _Última atualização: 2023-03-12_
 
