@@ -5,7 +5,7 @@
 - Fazer a instalação do SteamOS
 - Configurar o Steam OS
 - Acessar o modo desktop
-- Particionar o SSD
+- Particionar o SSD - Deixar a particao livre como NTFS
 - Reboot
 - Acessar o modo desktop
 - Configurar senha sudo
@@ -25,7 +25,17 @@
     - Controller Tools
     - DeckSettings
 - Instalar o CryoUtilities (https://github.com/CryoByte33/steam-deck-utilities)
-
+-----
+- Instalar o Windows
+  - Baixar ISO
+  - Baixar os driver do Windows para o Steam Deck (https://help.steampowered.com/pt-br/faqs/view/6121-ECCD-D643-BAA8)
+  - Gravar ISO no pendrive com Rufus
+  - Boot no Steam Deck com o pendrive
+  - Fazer a instalação do Windows usando a particao livre
+  - Após a instalacao finalizar, instalar os drivers do Steam Deck
+  - Rodar o Debloat do Windows para remover os software não necessários (https://github.com/builtbybel/ThisIsWin11)
+  - Ativar o Windows - eu tive que usar o comando no prompt do windows `slmgr /ipt <windows-key>` e funcionou. Pela UI não estava aceitando a minha chave.
+  - Instalar o (Windows) Steam Deck Tools [https://github.com/ayufan/steam-deck-tools] / [https://steamdecklife.com/2022/12/26/steam-deck-tools-for-windows/]
 ## Instalar o SteamOS
 
 - [Instruções de recuperação do Steam Deck](https://help.steampowered.com/pt-br/faqs/view/1b71-edf2-eb6d-2bb3)
@@ -57,3 +67,12 @@ Re-image Steam Deck (Reaplicar imagem ao Steam Deck) — Realiza uma restauraç�
 Clear local user data (Limpar dados locais de usuários) — Reformata as partições "home" do Steam Deck, o que removerá os jogos baixados e todos os dados pessoais armazenados no Steam Deck, incluindo as configurações do sistema.
 Reinstall SteamOS (Reinstalar o SteamOS) — Reinstalará o SteamOS no Steam Deck, tentando preservar os jogos e dados pessoais.
 Recovery tools (Ferramentas de recuperação) — Abre uma janela com opções para realizar alterações na partição de inicialização do Steam Deck.
+
+
+## Videos no Youtube que eu assisti durante essa jornada
+- https://www.youtube.com/watch?v=CIJjFTsPgbY
+
+
+## Links Uteis
+- https://steamdecklife.com/?s=windows
+- https://baldsealion.github.io/Steam-Deck-Ultimate-Windows-Guide/
