@@ -77,7 +77,7 @@ O Steam Deck é um dispositivo portátil de jogos desenvolvido pela Valve. É um
 ## Informações Oficiais
 
 - [Página do produto Steam Deck em Inglês](https://www.steamdeck.com/en/)
-- [Página do produto Steam Deck em Português de Portugal](https://www.steamdeck.com/pt/)
+- [Página do produto Steam Deck em Português Brasil](https://www.steamdeck.com/pt-br/)
 - [Anúncio do Steam Deck no blog da Valve](https://store.steampowered.com/news/app/1406830/view/3070948040413601109)
 
 ----
@@ -266,8 +266,9 @@ Outro artigo bacana sobre SD Cards você encontra [aqui](https://www.dexerto.com
 - [@SteamDeckGaming](https://twitter.com/SteamDeckGaming)
 - [@SteamDeckLife](https://twitter.com/SteamDeckLife)
 - [@SteamDeckEnergy](https://twitter.com/SteamDeckEnergy)
-- [@OnDeck_NEws](https://twitter.com/OnDeck_News)
+- [@OnDeck_News](https://twitter.com/OnDeck_News)
 - [@SteamDecked](https://twitter.com/SteamDecked)
+- [@Steamdeckreview](https://twitter.com/Steamdeckreview)
 - [@SteamDeckBrasil](https://twitter.com/SteamDeckBrasil)
 
 ### Grupos Facebook
