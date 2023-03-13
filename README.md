@@ -270,6 +270,12 @@ Outro artigo bacana sobre SD Cards você encontra [aqui](https://www.dexerto.com
 - [@SteamDecked](https://twitter.com/SteamDecked)
 - [@Steamdeckreview](https://twitter.com/Steamdeckreview)
 - [@SteamDeckBrasil](https://twitter.com/SteamDeckBrasil)
+- [@TDeckverse](https://twitter.com/TDeckverse)
+- [@ondeckpatrol](https://twitter.com/ondeckpatrol)
+- [@linuxgamingctr](https://twitter.com/linuxgamingctr)
+- [@The_SteamDeck](https://twitter.com/The_SteamDeck)
+- [@fanthedeck](https://twitter.com/fanthedeck)
+
 
 ### Grupos Facebook
  - #### Português
