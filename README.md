@@ -706,13 +706,17 @@ O site [ArcadePunks](https://www.arcadepunks.com/) disponibilizou alguns packs c
 
 No casos dos sistemas Batocera, basta você fazer o download, gravar a imagem no seu cartão SD Card e fazer o boot pelo cartão. Todos os emuladores já vem configurados, com as roms, bios, imagens, front-end, etc.
 
-Recomendo que você tenha um SD Card apenas para isso
+Algumas observações importantes:
+- Recomendo que você use um SD Card para gravar as imagens Batocera
+- Para rodar o Batocera, você precisa fazer o boot pelo SD Card (_segurar o botão menos (-) do volume e o botão de power_)
+- No caso do sistema CoindOps, você vai fazer a instalação no modo Desktop. Instruções no post do Arcade Punks.
+- No ArcadePunks você irá encontrar links para baixar o arquivo .torrent e NBZ (Usenet).
+- Para fazer o download via torrent de arquivos grandes, recomendo usar o software [Tixati](https://www.tixati.com/) pois ele funciona melhor com arquivos grandes.
+- O arquivo de 1tb deve ser descompactado com o WinRAR.
 
-No caso do sistema CoindOps, você vai fazer a instalação no modo Desktop.
+[Arcade Punks - Steam Deck Builds](https://www.arcadepunks.com/steam-deck-builds/).
 
-No ArcadePunks você irá encontrar links para baixar o arquivo .torrent e NBZ (Usenet).
-
-[Arcade Punks - Steam Deck Builds](https://www.arcadepunks.com/steam-deck-builds/)
+> Na tabela abaixo você encontrará links para o as instruções de instalação, download do arquivo .torrent (para você fazer o download via torrent) e o download direto do arquivo.
 
 | Imagem |Descrição |Link Arcade Punks | Arquivo Torrent (download direto) | Imagem (download direto) |
 |---|---|---|---|---|
