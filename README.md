@@ -48,6 +48,7 @@ Para **contribuir com o Guia do Steam Deck**, você pode criar um [issue](https:
   - [Windows no Steam Deck](#windows-no-steam-deck)
   - [Steam Deck Hacks \& Utilitários](#steam-deck-hacks--utilitários)
   - [Emulação no Steam Deck](#emulação-no-steam-deck)
+  - [Links sobre emulação no Steam Deck](#links-sobre-emulação-no-steam-deck)
     - [Parte 1 - O Guia do idiota para Emudeck](#parte-1---o-guia-do-idiota-para-emudeck)
       - [Links úteis do Emudeck](#links-úteis-do-emudeck)
       - [Os Emuladores](#os-emuladores)
@@ -486,6 +487,7 @@ Use uma senha forte e também o app do Steam Guard no seu celular para garantir 
 **_Em construção_**
 
 ![](emulators.jpg)
+
 O Steam Deck é o paraiso dos emuladores. Ele pode em teoria emular qualquer coisa, desde o antigo Atari 2600 até o Xbox 360 e Playstation 3 sem grandes problemas.
 
 Existem diversas maneiras de rodar emuladores no seu Steam Deck. 
@@ -495,6 +497,24 @@ Existem diversas maneiras de rodar emuladores no seu Steam Deck.
     - [EmuDeck](https://www.emudeck.com/)
     - [RetroDeck](https://retrodeck.net/)
     - [Batocera](https://batocera.org)
+  - Usar uma imagem ou pack com os emuladores e jogos já instalados e configurados. Ver [Packs completos de Emuladores para o Steam Deck](#packs-completos-de-emuladores-para-o-steam-deck)
+
+## Links sobre emulação no Steam Deck
+
+- [Steam Deck Emulation Starter Guide no Retro Game Corps](https://retrogamecorps.com/2022/10/16/steam-deck-emulation-starter-guide/) - Um dos melhores guias sobre emulação no Steam Deck
+- [Batocera Steam Deck Guide no site Wagner's Tech Talk](https://wagnerstechtalk.com/sd-batocera/) - Um guia completo sobre emulação com Batocera no Steam Deck.
+- [EmuDeck Guide no site  Wagners Tech Talk](https://wagnerstechtalk.com/sd-emudeck/) - Mais um guia bastante detalhado sobre emulação com o Emudeck no Steam Deck.
+- [EmuDeck v2.0 Setup Guide on Steam Deck por Fan The Deck no Youtube](https://www.youtube.com/watch?v=V1IzF5ml59A)
+- [Steam Deck Emulation Guide por @nchristopher no Github](https://github.com/nchristopher/steamdeck-emulation)
+- [Setting Up Emulation on Steam Deck with EmuDeck](https://steamdeckhq.com/tips-and-guides/setting-up-emulation-with-emudeck/) - Um guia do Steam Deck HQ sobre como instalar e configurar o Emudeck no Steam Deck.
+- [STEAM DECK EMULATION - ALL THE STEAM DECK EMULATION GUIDES AND TUTORIALS no SteamDeck Life.](https://steamdecklife.com/category/steam-deck-emulation/)
+- [Comunidade Steam Deck Emulation no Reddit /r/SteamDeckEmulation](https://www.reddit.com/r/SteamDeckEmulation/)
+- [STEAM DECK ! Como instalar EMUDECK e rodar SWITCH, PS3, 3DS e MAIS! por VICTOR IEMINI no Youtube](https://www.youtube.com/watch?v=gxNwk9sEco0)
+- [STEAM DECK TUTORIAL EMUDECK COMPLETO por Steam Deck Brasil no Youtube](https://www.youtube.com/watch?v=RvYy306vXkc)
+- [Steam Deck - Emuladores Nintendo Switch,PS3,Wii U,3DS e Muito Mais - Tutorial de instalação](https://www.youtube.com/watch?v=RFrcTo9jxjs)
+- [How to Turns Your Steam Deck Into the ULTIMATE Emulation Handheld!](https://www.youtube.com/watch?v=4CdvAkOqsvs)
+- [RetroDeck vs EmuDeck: How to install emulators on the Steam Deck](https://overkill.wtf/emulation-nintendo-sony-steam-deck/)
+- [Steam Deck Game Emulation: How-to Guide](https://history-computer.com/steam-deck-game-emulation/)
 
 
 ----
@@ -702,7 +722,7 @@ Abaixo alguns links onde você pode baixar roms sets completos de cada console o
 ----
 ### Packs completos de Emuladores para o Steam Deck
 
-O site [ArcadePunks](https://www.arcadepunks.com/) disponibilizou alguns packs com o sistema Batocera e CoinsOps para download.
+Se você não quiser instalar os emuladores separadamente ou usar algumas das opções acima (Emudeck, Retrodeck, etc) você tem a opção de baixar e instalar packs completos de emuladores e jogos. Um dos sites que disponibiliza essas imagens completas é o site [ArcadePunks](https://www.arcadepunks.com/) o qual a sua comunidade disponibilizou alguns packs com o sistema Batocera e CoinsOps para download.
 
 No casos dos sistemas Batocera, basta você fazer o download, gravar a imagem no seu cartão SD Card e fazer o boot pelo cartão. Todos os emuladores já vem configurados, com as roms, bios, imagens, front-end, etc.
 
