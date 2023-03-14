@@ -298,6 +298,7 @@ Outro artigo bacana sobre SD Cards você encontra [aqui](https://www.dexerto.com
 ### Communidades Reddit
 
 - [r/steamdeckbrasil](https://www.reddit.com/r/steamdeckbrasil/) ** esse subredit foi criado e é mantido por mim :)
+- [Steam Deck on Reddit](https://www.reddit.com/user/valdecircarvalho/m/steam_deck/) - Coleção de sub reddits sobre Steam Deck :new:
 - [r/SteamDeck](https://www.reddit.com/r/SteamDeck/)
 - [r/steamdeck_linux](https://www.reddit.com/r/steamdeck_linux/)
 - [r/SteamDeckEmu](https://www.reddit.com/r/SteamDeckEmu/)
