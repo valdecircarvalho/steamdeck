@@ -75,4 +75,12 @@ Recovery tools (Ferramentas de recuperação) — Abre uma janela com opções p
 
 ## Links Uteis
 - https://steamdecklife.com/?s=windows
-- https://baldsealion.github.io/Steam-Deck-Ultimate-Windows-Guide/
+- https://baldsealion.github.io/Steam-Deck-Ultimate-Windows-Guide/Master1000@!
+- https://github.com/ayufan/steam-deck-tools
+- https://github.com/mKenfenheuer/steam-deck-windows-usermode-driver
+- https://github.com/ryanrudolfoba/SteamDeck-Clover-dualboot
+- https://github.com/SteamDeckWindows/Steam-Deck-Windows / https://steamdeckwindows.github.io/Steam-Deck-Windows/
+- https://github.com/TomBayne/SteamDeck-Windows-Script
+
+
+[] Todo - Criar um script para fazer tudo isso de uma vez :) 
