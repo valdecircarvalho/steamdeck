@@ -60,7 +60,7 @@ Para **contribuir com o Guia do Steam Deck**, você pode criar um [issue](https:
       - [No-Intro vs Redump vs Tosec vs Trurip vs GoodSets/GoodTools](#no-intro-vs-redump-vs-tosec-vs-trurip-vs-goodsetsgoodtools)
       - [Links para downloads de RomSets](#links-para-downloads-de-romsets)
     - [Parte 3 -](#parte-3--)
-    - [Packs completos de Emuladores](#packs-completos-de-emuladores)
+    - [Packs completos de Emuladores para o Steam Deck](#packs-completos-de-emuladores-para-o-steam-deck)
   - [Mais sobre emulação](#mais-sobre-emulação)
   - [Como rodar jogos alternativos no Steam Deck](#como-rodar-jogos-alternativos-no-steam-deck)
   - [Guias](#guias)
@@ -700,7 +700,7 @@ Abaixo alguns links onde você pode baixar roms sets completos de cada console o
 - [Emudeck Wiki](https://github.com/dragoonDorise/EmuDeck/wiki)
 
 ----
-### Packs completos de Emuladores
+### Packs completos de Emuladores para o Steam Deck
 
 O site [ArcadePunks](https://www.arcadepunks.com/) disponibilizou alguns packs com o sistema Batocera e CoinsOps para download.
 
