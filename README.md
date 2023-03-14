@@ -501,6 +501,8 @@ Existem diversas maneiras de rodar emuladores no seu Steam Deck.
 
 ## Links sobre emulação no Steam Deck
 
+Enquanto não finalizo as traduções e o artigo completo sobre emulação no Steam Deck, vou deixar alguns links de posts, artigos e videos no Youtube (em Inglês e Português) para que você possa seguir na instalação e configuração dos emuladores no seu Steam Deck.
+
 - [Steam Deck Emulation Starter Guide no Retro Game Corps](https://retrogamecorps.com/2022/10/16/steam-deck-emulation-starter-guide/) - Um dos melhores guias sobre emulação no Steam Deck
 - [Batocera Steam Deck Guide no site Wagner's Tech Talk](https://wagnerstechtalk.com/sd-batocera/) - Um guia completo sobre emulação com Batocera no Steam Deck.
 - [EmuDeck Guide no site  Wagners Tech Talk](https://wagnerstechtalk.com/sd-emudeck/) - Mais um guia bastante detalhado sobre emulação com o Emudeck no Steam Deck.
@@ -515,6 +517,9 @@ Existem diversas maneiras de rodar emuladores no seu Steam Deck.
 - [How to Turns Your Steam Deck Into the ULTIMATE Emulation Handheld!](https://www.youtube.com/watch?v=4CdvAkOqsvs)
 - [RetroDeck vs EmuDeck: How to install emulators on the Steam Deck](https://overkill.wtf/emulation-nintendo-sony-steam-deck/)
 - [Steam Deck Game Emulation: How-to Guide](https://history-computer.com/steam-deck-game-emulation/)
+- [Comunidade Emudeck no Reddit](https://www.reddit.com/r/EmuDeck)
+- [Steam Rom Manager](https://steamgriddb.github.io/steam-rom-manager/)
+- [Emudeck Wiki](https://github.com/dragoonDorise/EmuDeck/wiki)
 
 
 ----
@@ -713,11 +718,7 @@ Abaixo alguns links onde você pode baixar roms sets completos de cada console o
 ### Parte 3 - 
 **_Em construção_**
 
----- 
 
-- [Comunidade Emudeck no Reddit](https://www.reddit.com/r/EmuDeck)
-- [Steam Rom Manager](https://steamgriddb.github.io/steam-rom-manager/)
-- [Emudeck Wiki](https://github.com/dragoonDorise/EmuDeck/wiki)
 
 ----
 ### Packs completos de Emuladores para o Steam Deck
