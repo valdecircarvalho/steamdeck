@@ -714,15 +714,16 @@ No ArcadePunks você irá encontrar links para baixar o arquivo .torrent e NBZ (
 
 [Arcade Punks - Steam Deck Builds](https://www.arcadepunks.com/steam-deck-builds/)
 
-| Imagem | Link Arcade Punks | Arquivo Torrent (download direto) | Imagem (download direto) |
-|---|---|---|---|
-| 1tb Batocera Steam Deck Retro Gaming Build | https://www.arcadepunks.com/fully-loaded-1tb-batocera-steam-deck-retro-gaming-build/ | []() | []() |
-| 256gb Batocera Steam Deck Light Gun Build | []() | []() | []() |
-| 256gb Batocera Steam Deck Build | []() | []() | []() |
-| 512gb Batocera Steam Deck Retro Gaming | []() | []() | []() |
-| CoinOPS for Steam Deck – Legends 3 | daa | []() | []() |
+| Imagem |Descrição |Link Arcade Punks | Arquivo Torrent (download direto) | Imagem (download direto) |
+|---|---|---|---|---|
+|Fully Loaded 1tb Batocera Steam Deck Retro Gaming Build| Build Batorera com 1TB para o Steam Deck | Recomendo acessar o link e ler as instruções e informações. [link](https://www.arcadepunks.com/fully-loaded-1tb-batocera-steam-deck-retro-gaming-build/)|[download .torrent local](http://download.localhostcloud.com/steamdeck/images/arcadepunks/torrent/1tb-Batocera.Steam.Deck.GroupBuy-ArcadePunks.torrent)|[download direto (953GB)](http://dlbox.localhostcloud.com/downloads/1tbsd.img)|
+|Fully Loaded 256gb Batocera Steam Deck Build|Build Batocera com 256GB para o Steam Deck|[link](https://www.arcadepunks.com/fully-loaded-256gb-batocera-steam-deck-light-gun-build/)|[.torrent local](http://download.localhostcloud.com/steamdeck/images/arcadepunks/torrent/256gb-Batocera.Steam.Deck-Dm.torrent)|[download direto (239GB)](http://dlbox.localhostcloud.com/downloads/[256gb]-Batocera.Steam.Deck-DereksPixeltorium/256GB-steamdeck-batocera-v1.img)|
+|Fully Loaded 512gb Batocera Steam Deck Retro Gaming Build from Retro Gaming Guy|Build Batocera com **512GB** para o Steam Deck|[link](https://www.arcadepunks.com/fully-loaded-512gb-batocera-steam-deck-retro-gaming-build-from-retro-gaming-guy)| [.torrent local](http://download.localhostcloud.com/steamdeck/images/arcadepunks/torrent/512gb-Steam.Deck.Batocera-RetroGamingGuy.torrent) |[download direto (477GB)](http://dlbox.localhostcloud.com/downloads/[512gb]-Steam.Deck.Batocera-RetroGamingGuy/Steamdeck512GB.img)|
+|Fully Loaded 256gb Batocera Steam Deck Light Gun Build|Build Batocera com 256GB de jogos de pistola (light gun) para o Steam Deck|[link](https://www.arcadepunks.com/fully-loaded-256gb-batocera-steam-deck-light-gun-build/)|[.torrent local](http://download.localhostcloud.com/steamdeck/images/arcadepunks/torrent/Batocera.Light.Gun.SteamDeck-RetroGamingGuy.torrent) |[download direto (238GB)](http://dlbox.localhostcloud.com/downloads/[256gb]-Batocera.Light.Gun.SteamDeck-RetroGamingGuy/SteamDeckLightGun.img)|
+|CoinOPS for Steam Deck – Legends 3|Build CoinOps 3 para o Steam Deck com centenas de jogos Arcade e Consoles. Instalado direto no Desktop Mode do Steam Deck |[link](https://www.arcadepunks.com/coinops-for-steam-deck-legends-3/)|[.torrent local](http://download.localhostcloud.com/steamdeck/images/arcadepunks/torrent/CoinOPS.Legends.3.SteamDeck.v1.0.torrent) | [download direto (20.5GB)](http://dlbox.localhostcloud.com/downloads/CoinOPS%20Legends%203%20SteamDeck%20v1.0/CoinOPS-Legends3-Deck.tar.gz) |
+|---|---|---|---|---|
 
-> Para fazer o download do arquivo .torrent do ArcadePunks, é necessário criar uma conta no site. Eu também disponibilizei o download do arquivo .torrent direto do meu site (link acima) e em breve irei disponibilizar o download do arquivo direto.
+> Para fazer o download do arquivo .torrent do ArcadePunks, é necessário criar uma conta no site. Eu também disponibilizei o download do arquivo .torrent direto do meu site (link acima) e também um link direto para download do arquivo no meu site.
 
 ----
 ## Mais sobre emulação
