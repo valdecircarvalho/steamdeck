@@ -49,7 +49,7 @@ Para **contribuir com o Guia do Steam Deck**, você pode criar um [issue](https:
   - [Steam Deck Hacks \& Utilitários](#steam-deck-hacks--utilitários)
   - [Emulação no Steam Deck](#emulação-no-steam-deck)
   - [Links sobre emulação no Steam Deck](#links-sobre-emulação-no-steam-deck)
-    - [Parte 1 - O Guia do idiota para Emudeck](#parte-1---o-guia-do-idiota-para-emudeck)
+    - [Parte 1 - O Guia descomplicado do Emudeck](#parte-1---o-guia-descomplicado-do-emudeck)
       - [Links úteis do Emudeck](#links-úteis-do-emudeck)
       - [Os Emuladores](#os-emuladores)
       - [Onde encontro os arquivos do BIOS?!](#onde-encontro-os-arquivos-do-bios)
@@ -57,7 +57,7 @@ Para **contribuir com o Guia do Steam Deck**, você pode criar um [issue](https:
       - [Como faço para verificar se tenho o arquivo BIOS correto no lugar certo?!](#como-faço-para-verificar-se-tenho-o-arquivo-bios-correto-no-lugar-certo)
       - [Agora, onde consigo jogos ou ROMS?](#agora-onde-consigo-jogos-ou-roms)
       - [Sites para Download de Roms](#sites-para-download-de-roms)
-    - [Parte 2 - Guia do idiota para ROMsets para Emudeck](#parte-2---guia-do-idiota-para-romsets-para-emudeck)
+    - [Parte 2 - Guia Descomplicado de ROMsets para Emudeck](#parte-2---guia-descomplicado-de-romsets-para-emudeck)
       - [No-Intro vs Redump vs Tosec vs Trurip vs GoodSets/GoodTools](#no-intro-vs-redump-vs-tosec-vs-trurip-vs-goodsetsgoodtools)
       - [Links para downloads de RomSets](#links-para-downloads-de-romsets)
     - [Parte 3 -](#parte-3--)
@@ -526,7 +526,7 @@ Enquanto não finalizo as traduções e o artigo completo sobre emulação no St
 ----
 > Esse guia em 3 partes foi traduzido e adaptado dos textos publicado no Reddit pelo usuário [/u/EmulationStranger](https://www.reddit.com/user/EmulationStranger/) com algumas modificações e adições para o público brasileiro. Os posts originais estão [aqui](https://www.reddit.com/user/EmulationStranger/comments/11kom88/idiots_guide_to_steam_rom_manager_for_emudeck/), [aqui](https://www.reddit.com/r/SteamDeckEmulation/comments/11kcrhf/idiots_guide_to_romsets_for_emudeck/) e [aqui](https://www.reddit.com/user/EmulationStranger/comments/11j09qc/idiots_guide_to_emudeck_where_to_find_bios_and/)
 
-### Parte 1 - O Guia do idiota para Emudeck
+### Parte 1 - O Guia descomplicado do Emudeck
 Estou usando o [Emudeck](https://github.com/dragoonDorise/EmuDeck) como base para este guia, embora existam outras ferramentas como RetroDeck e Batocera. 
 As dicas sobre BIOS e ROMs serão basicamente as mesmas, mas podem variar de plataforma para plataforma.
 
@@ -651,7 +651,7 @@ Na parte 2 voltaremos a falar mais sobre Roms e Romsets para o Emudeck.
 
 ----
 
-### Parte 2 - Guia do idiota para ROMsets para Emudeck
+### Parte 2 - Guia Descomplicado de ROMsets para Emudeck
 **_Em construção_**
 
 Então você baixou e instalou o Emudeck em seu Steam Deck e agora está pensando “Sou tão preguiçoso, só quero um monte de jogos de uma só vez para um sistema”. Você está com sorte! Tenho links e termos de pesquisa para ajudá-lo.
