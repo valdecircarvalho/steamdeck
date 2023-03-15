@@ -1,3 +1,7 @@
+# O Guia do Steam Deck em Português
+[steamdeck.valdecir.me](https://steamdeck.valdecir.me)
+
+_Última atualização: 2023-03-15_
 # Um mês com o Steam Deck e como eu retomei o gosto por videoogames.
 -- 2023-02-07
 
@@ -35,4 +39,4 @@ Se você está tentado a comprar um Steam Deck, o que posso dizer é vai fundo!!
 
 Aqui você vai encontrar dezenas de links sobre o Steam Deck que estou colecionando ao longo do tempo: 
 
-https://github.com/valdecircarvalho/steamdeck-br
+[steamdeck.valdecir.me](https://steamdeck.valdecir.me)
