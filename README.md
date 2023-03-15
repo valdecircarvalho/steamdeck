@@ -275,8 +275,24 @@ Outro artigo bacana sobre SD Cards você encontra [aqui](https://www.dexerto.com
 - [@ondeckpatrol](https://twitter.com/ondeckpatrol)
 - [@linuxgamingctr](https://twitter.com/linuxgamingctr)
 - [@The_SteamDeck](https://twitter.com/The_SteamDeck)
-- [@fanthedeck](https://twitter.com/fanthedeck)
 
+
+Mais algumas contas no Twitter que vale a pena seguir e que falam sobre Steam Deck - mas não exclusivamente. Essas contas todas falam apenas em Inglês.
+
+- [@HiTechLoLife1](https://twitter.com/HiTechLoLife1)
+- [@carygolomb](https://twitter.com/@carygolomb)
+- [@RetroGameCorps](https://twitter.com/@RetroGameCorps)
+- [@fanthedeck](https://twitter.com/@fanthedeck)
+- [@theterk](https://twitter.com/@theterk)
+- [@xylappen](https://twitter.com/@xylappen)
+- [@MekelKasanova](https://twitter.com/@MekelKasanova)
+- [@CryoByte33](https://twitter.com/@CryoByte33)
+- [@deckwizardyt](https://twitter.com/@deckwizardyt)
+- [@NerdNestTV](https://twitter.com/@NerdNestTV)
+- [@staydeckready](https://twitter.com/@staydeckready)
+- [@SDeckChecker](https://twitter.com/@SDeckChecker)
+
+> Agora me ajudem com contas em Português que falam sobre Steam Deck.
 
 ### Grupos Facebook
  - #### Português
@@ -551,7 +567,7 @@ A instalação do Emudeck é bem simples e direta. O vídeo e o guia de instala�
 
 #### Os Emuladores
 
-- **RetroArch** vai emular Atari, NES, SNES, DS, N64, Sega Genesis, Neo Geo, Saturn, Dreamcast, GB, GBA, GBC e muitos outros
+- **RetroArch** vai emular consoles antigos como Atari, NES, SNES, DS, N64, Sega Genesis, Neo Geo, Saturn, Dreamcast, GB, GBA, GBC e muitos outros
 - **Dolphin** é o emulador padrão para Nintendo GameCube e Nintendo Wii
 - **Prime Hacks** é um fork do Dolphin para Metroid Prime Wii Trilogy
 - **PPSSPP** é o emulador para Sony PSP
@@ -560,7 +576,7 @@ A instalação do Emudeck é bem simples e direta. O vídeo e o guia de instala�
 - **MelonDS** é o emulador para Nintendo DS
 - **PCSX2** é o emulador para Sony Playstation 2/PS2
 - **RPCS3** é o emulador para Sony Playstation 3/PS3
-- **Yuzu** e **Ryujinx** são ambos Nintendo Switch
+- **Yuzu** e **Ryujinx** são ambos para Nintendo Switch
 - **Xemu** é o emulador para OG Xbox
 - **CEMU** é o emulador para o Nintendo WII U
 - **MAME** é o emulador de jogos de fliperama
