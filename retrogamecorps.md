@@ -1,5 +1,12 @@
 # GUIA INICIAL DE EMULAÇÃO PARA STEAM DECK
-## POR RUSS
+## POR Russ Crandall - Retro Game Corps
+> Texto traduzido e adaptado do Inglês para o Português do Brasil com autorização do autor, Russ Crandall. O conteúdo original pode ser encontrado em [https://retrogamecorps.com/2022/10/16/steam-deck-emulation-starter-guide/](https://retrogamecorps.com/2022/10/16/steam-deck-emulation-starter-guide/).
+
+Deixo aqui o meu **agradecimento público** ao Russ que autorizou a tradução e publicação desse texto no [Guia do Steam Deck em Português](https://steamdeck.valdecir.me). Se esse conteúdo foi útil para você, vá até o [Twitter](https://twitter.com/RetroGameCorps) e agradeça o Russ dizendo que viu o conteúdo dele aqui. 
+
+---- 
+
+## GUIA INICIAL DE EMULAÇÃO PARA STEAM DECK
 
 **Última atualização:** 08MAR2023 (veja o [Changelog](https://retrogamecorps.com/changelog/) para mais detalhes)
 
@@ -7,7 +14,7 @@ O Steam Deck da Valve é uma combinação perfeita de dispositivos portáteis: p
 
 Este guia usará principalmente um aplicativo chamado EmuDeck para configurar sua experiência de emulação, mas também abordarei outras soluções, como RetroDeck e Batocera. Se você está procurando um guia geral de configuração para o Steam Deck em si, recomendo este abrangente [guia do Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide) do usuário mikeroyal no GitHub.
 
-# EmuDeck vs Batocera vs RetroDeck vs EmulationStation
+## EmuDeck vs Batocera vs RetroDeck vs EmulationStation
 
 Vamos dar uma olhada rápida em algumas opções de emulação no Steam Deck.
 
@@ -298,3 +305,6 @@ Aqui está uma lista dos [atalhos universais](https://github.com/dragoonDorise/E
 - Carregar estado: SELECT + L1
 - Menu rápido do RetroArch: SELECT + Y (ou L3 + R3)
 - Alternar FPS: SELECT + X
+
+Observer que RetroArch pode ser um aplicativo bastante complexo de usar. O EmuDeck configurará a maioria das coisas para você e a experiência deve ser perfeita para que você nunca precise interagir com os menus do RetroArch. Mas se há algo específico que você gostaria de fazer com o aplicativo, eu recomendaria verificar o [meu Guia Inicial do RetroArch](https://retrogamecorps.com/2022/02/28/retroarch-starter-guide/) <sup>Nota: Por agora não pretendo traduzir o texto do Guia do RetroArch do Russ</sup> para mergulhar mais profundamente em suas opções.
+
