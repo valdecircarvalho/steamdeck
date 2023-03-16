@@ -261,3 +261,29 @@ Outra ferramenta útil, mas não faz parte do EmuDeck:
 **VibrantDeck**: VibrantDeck é um plugin que permite aumentar os níveis de saturação na tela do seu Steam Deck. Ele é instalado através do DeckyLoader, que será instalado ao mesmo tempo que o PowerTools e o GyroDSU. Pessoalmente, uso uma configuração de VibrantDeck de 120.
 
 
+## Hotkeys
+
+Um dos desafios de emular jogos no Steam Deck é encontrar uma boa maneira de imitar os controladores originais para os sistemas que você deseja emular. O EmuDeck pré-configurará os controles para você usando as ligações que você vê acima. Se desejar ajustar algum deles, você pode entrar nas configurações do emulador e ajustá-los conforme sua preferência.
+
+Observe que, para alguns sistemas (Wii U, 3DS, etc.), você precisará habilitar um Perfil do Controlador Steam para que as teclas de atalho funcionem. Vamos usar o 3DS como exemplo. Tudo o que você precisa fazer é inicializar um jogo do 3DS enquanto estiver no modo de jogo do Steam Deck, pressionar o botão STEAM > Configurações do Controlador > Layout Atual > Modelo > EmuDeck - Citra 3DS. Observe que isso deve ser feito UMA VEZ para cada jogo, ele lembrará o perfil depois disso.
+
+## RetroArch
+
+Aplicativo: RetroArch (FlatPak)
+Tipos de arquivo: variados
+BIOS: variadas (colocar na pasta /Emulation/bios/)
+Mais informações: [página da wiki do EmuDeck](https://github.com/dragoonDorise/EmuDeck/wiki/Retroarch)
+
+RetroArch é um programa de emulação tudo-em-um que oferece muitas opções padronizadas, como hotkeys universais, implementação de trapaças fácil, shaders, filtros, autosaves e muito mais. Para todos os sistemas de baixo desempenho (basicamente tudo até PSP), eu prefiro usar o RetroArch, mas para os sistemas mais difíceis de emular, muitas vezes é melhor usar os emuladores independentes. Existem também emuladores independentes para os sistemas que funcionam bem no RetroArch (PS1, PSP, N64).
+
+Para uma lista dos sistemas mais comuns suportados pelo RetroArch ao usar o EmuDeck, confira [esta lista da página do GitHub do EmuDeck](https://github.com/dragoonDorise/EmuDeck/wiki/Retroarch#list-of-retroarch-cores-used-by-emudeck). Aqui você encontrará o nome do sistema e as extensões de arquivo aceitas, além de quaisquer arquivos de BIOS necessários, se houver. Uma solução fácil para as BIOS é procurar por um "pacote de BIOS RetroArch" e colocar todos os arquivos de BIOS do pacote na pasta /Emulation/bios/. Esses pacotes provavelmente contêm mais arquivos do que você precisa, mas funcionarão em caso de necessidade.
+
+**Observe que o RetroArch requer que o Steam Deck esteja sendo executado a 60Hz**. Se estiver experimentando desaceleração, pressione o botão QAM ("três pontos"), vá para a seção de Bateria (Desempenho) e verifique se o Limite de Taxa de Quadros e a Taxa de Atualização estão ambos definidos como 60.
+
+**Jogos com vários discos (Multi-Disc Games)**: se estiver jogando algo com vários discos, a maneira mais fácil de gerenciá-los é através de um arquivo m3u. [Aqui está um excelente tutorial da página wiki do EmuDeck](https://github.com/dragoonDorise/EmuDeck/wiki/File-Management#method-1-creating-an-m3u-file).
+
+Arquivos de sistema PSP: Se estiver executando jogos de PSP pelo RetroArch, você precisará baixar os arquivos de sistema do PSP dentro do próprio aplicativo. Abra o RetroArch, vá para o Menu Principal > Atualização Online > Baixar Arquivos do Sistema do Núcleo > PPSSPP.zip - isso fará o download e a instalação dos arquivos para fazer os menus funcionarem corretamente.
+
+Tamanhos de imagem N64: Devido à natureza do processamento de vídeo do N64, alguns jogos terão barras pretas ao redor da imagem (isso foi algo embutido em certos jogos de N64). Se quiser ampliar a imagem para remover essas bordas, pressione SELECT + Y para abrir o menu rápido do RetroArch, pressione B para voltar ao menu principal, selecione Configurações > Vídeo > Escala > Proporção de Aspecto e defina como Personalizado. Em seguida, ajuste os parâmetros de proporção de aspecto personalizados para que a imagem se estenda por toda a tela (ou como preferir). Quando estiver satisfeito com o resultado, vá para Menu Rápido > Substituições de Jogos Salvas. Agora, toda vez que iniciar esse jogo, ele será ampliado corretamente.
+
+Correção do limite de 30fps do N64
