@@ -42,6 +42,7 @@ Para **contribuir com o Guia do Steam Deck**, você pode criar um [issue](https:
   - [Canais de Youtube sobre o Steam Deck](#canais-de-youtube-sobre-o-steam-deck)
   - [Jogos no Steam Deck](#jogos-no-steam-deck)
     - [Lista de Jogos Verificados no Steam Deck](#lista-de-jogos-verificados-no-steam-deck)
+    - [ProtonDB](#protondb)
   - [Como instalar jogos "Não-Steam" no Steam Deck](#como-instalar-jogos-não-steam-no-steam-deck)
   - [Outros sites para comprar jogos Steam](#outros-sites-para-comprar-jogos-steam)
   - [Primeiros Passos na Steam](#primeiros-passos-na-steam)
@@ -462,6 +463,10 @@ Você também pode filtrar os jogos na lojinha da Steam que são compatíveis co
 
 Os jogos comprados na loja da Steam, estão sempre com os valores em Reais e você pode pagar com Cartão de Crédito, Pix, Boleto, etc.
 
+### ProtonDB
+
+Sempre procure no site ProtonDB pelo jogo que você quer comprar ou jogar. Lá você irá encontrar
+
 ---
 ## Como instalar jogos "Não-Steam" no Steam Deck
 **_Em construção_**
@@ -545,6 +550,8 @@ Existem diversas maneiras de rodar emuladores no seu Steam Deck.
 ## Links sobre emulação no Steam Deck
 
 Enquanto não finalizo as traduções e o artigo completo sobre emulação no Steam Deck, vou deixar alguns links de posts, artigos e videos no Youtube (em Inglês e Português) para que você possa seguir na instalação e configuração dos emuladores no seu Steam Deck.
+
+> ### **_Consegui autorização do Russ do Retro Game Corps para traduzir o conteúdo do Steam Deck Emulation Starter Guide para o Português. Estou trabalhando na tradução e assim que finalizar irei atualizar esse bloco_**
 
 - [Steam Deck Emulation Starter Guide no Retro Game Corps](https://retrogamecorps.com/2022/10/16/steam-deck-emulation-starter-guide/) - Um dos melhores guias sobre emulação no Steam Deck
 - [Batocera Steam Deck Guide no site Wagner's Tech Talk](https://wagnerstechtalk.com/sd-batocera/) - Um guia completo sobre emulação com Batocera no Steam Deck.
