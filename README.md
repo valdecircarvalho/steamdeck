@@ -37,7 +37,7 @@ Para **contribuir com o Guia do Steam Deck**, você pode criar um [issue](https:
     - [Grupos WhatsApp](#grupos-whatsapp)
     - [Communidades Reddit](#communidades-reddit)
     - [Steam Deck no Github](#steam-deck-no-github)
-  - [Sites \& Blogs sobre o Steam Deck](#sites--blogs-sobre-o-steam-deck)
+  - [Sites e Blogs sobre o Steam Deck](#sites-e-blogs-sobre-o-steam-deck)
   - [Outro Sites sobre o Steam Deck](#outro-sites-sobre-o-steam-deck)
   - [Canais de Youtube sobre o Steam Deck](#canais-de-youtube-sobre-o-steam-deck)
   - [Jogos no Steam Deck](#jogos-no-steam-deck)
@@ -391,7 +391,7 @@ Mais algumas contas no Twitter que vale a pena seguir e que falam sobre Steam De
 + [A collection of awesome things regarding Valve's Steam Deck](https://github.com/wilco42/awesome-steamdeck)
 
 ----
-## Sites & Blogs sobre o Steam Deck
+## Sites e Blogs sobre o Steam Deck
 
 - [steamdeckhq.com](https://steamdeckhq.com/)
 - [steamdecklife.com](https://steamdecklife.com/)
