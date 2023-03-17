@@ -1,7 +1,7 @@
 # O Guia do Steam Deck em Português
 [steamdeck.valdecir.me](https://steamdeck.valdecir.me)
 
-_Última atualização: 2023-03-16_
+_Última atualização: 2023-03-17_
 
 ![](sd-tech-specs.png)
 
