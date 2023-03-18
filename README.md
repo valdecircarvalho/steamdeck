@@ -3,7 +3,7 @@
 
 _Última atualização: 2023-03-17_
 
-![](sd-tech-specs.png)
+![](o-guia-do-steam-deck-portugues-logo.png)
 
 Conteúdo sobre Steam Deck em Português compilado e traduzido por [Valdecir Carvalho](https://iamval.me).
 
