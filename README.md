@@ -3,7 +3,7 @@
 
 _Última atualização: 2023-03-17_
 
-![](o-guia-do-steam-deck-portugues-logo.png)
+![](guia-do-steam-deck-logo-v2.png)
 
 Conteúdo sobre Steam Deck em Português compilado e traduzido por [Valdecir Carvalho](https://iamval.me).
 
