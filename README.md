@@ -287,6 +287,8 @@ Eu já imprimi para o meu Deck os acessórios abaixo:
 ## Redes Sociais
 
 ### Twitter
+- [Steam Deck Pals - Twitter List](https://twitter.com/i/lists/1637924098255777793)
+- [@ondeck - Conta Oficial Valve](https://mobile.twitter.com/ondeck)
 - [@ondeck - Conta Oficial Valve](https://mobile.twitter.com/ondeck)
 - [@ondeckupdates - Conta Oficial - Updates Steam Deck](https://twitter.com/ondeckupdates)
 - [@SteamDeckHQ](https://twitter.com/SteamDeckHQ)
