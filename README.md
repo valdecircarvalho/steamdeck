@@ -5,5 +5,5 @@
 
 [![O Guia do Steam Deck](O-GUIA-DO-STEAM-DECK-V2.png)](https://guiadosteamdeck.com.br/)
 
-### Esse repositório será desativado. 
+### Esse repositório será desativado em breve! Acesse [https://guiadosteamdeck.com.br/](https://guiadosteamdeck.com.br/)
 
