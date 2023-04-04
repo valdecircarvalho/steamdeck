@@ -1,3 +1,6 @@
 [submodule "emudeck/EmuDeck.wiki"]
 	path = emudeck/EmuDeck.wiki
 	url = https://github.com/dragoonDorise/EmuDeck.wiki.git
+[submodule "steam-deck-utilities"]
+	path = steam-deck-utilities
+	url = https://github.com/CryoByte33/steam-deck-utilities.git
